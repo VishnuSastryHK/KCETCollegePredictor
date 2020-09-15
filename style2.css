@@ -1,0 +1,17 @@
+.reportview-container .dataframe {
+    font-size: .8rem;
+    font-family: "IBM Plex Mono",monospace;
+    text-align: left;
+    padding: .5rem;
+    line-height: 1;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 10em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}

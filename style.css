@@ -1,0 +1,13 @@
+.stButton>button {
+    color:white;
+    background-color:#F64541;
+    margin-top:50px;
+}
+    
+.reportview-container hr {
+    border: none;
+    border-bottom: 1px dotted #706565;
+    border-width: 3px;
+    margin: 0;
+    padding: 0;
+}
