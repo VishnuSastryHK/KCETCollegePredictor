@@ -5,7 +5,7 @@ from PIL import Image
 image = Image.open('BranchCode.png')
 
 
-df = pd.read_excel("https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master/CET_Database_Final2019.xlsx")
+df = pd.read_excel("https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master/CET-CutOffs2019Working3.xlsx")
 outputdframe = pd.DataFrame(columns = ['Branch', 'College', 'Location', 'CET Code','Cutoff'])
 pd.set_option('colheader_justify', 'left')
 
