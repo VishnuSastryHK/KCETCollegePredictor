@@ -4,7 +4,7 @@ import pandas as pd
 from PIL import Image
 image = Image.open('BranchCode.png')
 
-path = 'https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master/'
+path = 'https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master'
 file = 'CET_Database_Final2019.csv'
 f = open(path+file,'rt')
 reader = csv.reader(f)
