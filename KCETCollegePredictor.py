@@ -6,7 +6,7 @@ image = Image.open('BranchCode.png')
 
 
 col_names = ["CETCode",	"College" ,"Location",	"Branch",	'1G',	"1K",	"1R", 	"2AG",	"2AK",	"2AR",	"2BG",	"2BK",	"2BR",	"3AG",	"3AK",	"3AR",	"3BG",	"3BK",	"3BR",	"GM",	"GMK",	"GMR",	"SCG",	"SCK",	"SCR",	"STG",	"STK",	"STR"]
-df = pd.read_csv("https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master/CET_Database_Final2019.xlsx") names=col_names)
+df = pd.read_csv("https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master/CET_Database_Final2019.xlsx", names=col_names)
 outputdframe = pd.DataFrame(columns = ['Branch', 'College', 'Location', 'CET Code','Cutoff'])
 pd.set_option('colheader_justify', 'left')
 
