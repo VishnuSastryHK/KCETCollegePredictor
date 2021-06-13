@@ -5,8 +5,8 @@ from PIL import Image
 image = Image.open('BranchCode.png')
 
 
-col_names = ["CETCode",	"College" ,"Location",	"Branch",	'1G',	"1K",	"1R", 	"2AG",	"2AK",	"2AR",	"2BG",	"2BK",	"2BR",	"3AG",	"3AK",	"3AR",	"3BG",	"3BK",	"3BR",	"GM",	"GMK",	"GMR",	"SCG",	"SCK",	"SCR",	"STG",	"STK",	"STR"]
-df = pd.read_csv("https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master/CET_Database_Final2019.xlsx", sep="\t")#, error_bad_lines=False)# names=col_names)
+col_names = ["CETCode",	"College" ,"Location",	"Branch",	"1G",	"1K",	"1R", 	"2AG",	"2AK",	"2AR",	"2BG",	"2BK",	"2BR",	"3AG",	"3AK",	"3AR",	"3BG",	"3BK",	"3BR",	"GM",	"GMK",	"GMR",	"SCG",	"SCK",	"SCR",	"STG",	"STK",	"STR"]
+df = pd.read_csv("https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master/CET_Database_Final2019.xlsx", sep=r'\s*,\s*',sep="\t")#, error_bad_lines=False)# names=col_names)
 outputdframe = pd.DataFrame(columns = ['Branch', 'College', 'Location', 'CET Code','Cutoff'])
 pd.set_option('colheader_justify', 'left')
 
@@ -66,7 +66,7 @@ Branch_List=st.sidebar.multiselect("Select preferred branch/branches*:",("AE",
 "TX",
 "UP"))
 st.sidebar.text("Scroll down for reference")
-category=st.sidebar.selectbox("Select Category:*",("1G",	"1K",	"1R",	"2AG",	"2AK",	"2AR",	"2BG",	"2BK",	"2BR",	"3AG",	"3AK",	"3AR",	"3BG",	"3BK",	"3BR",	"GM",	"GMK",	"GMR",	"SCG",	"SCK",	"SCR",	"STG",	"STK",	"STR"))
+category=st.sidebar.selectbox("Select Category:*",("1G", "1K",	"1R",	"2AG",	"2AK",	"2AR",	"2BG",	"2BK",	"2BR",	"3AG",	"3AK",	"3AR",	"3BG",	"3BK",	"3BR",	"GM",	"GMK",	"GMR",	"SCG",	"SCK",	"SCR",	"STG",	"STK",	"STR"))
 
 District_List=st.sidebar.multiselect("Select to filter by District:",("Bellary",
 "Belgaum",
