@@ -80,28 +80,7 @@ E008,Bangalore Institute of Technology,"Basavanagudi, Bengaluru",IM,0,0,0,0,0,0,
 E008,Bangalore Institute of Technology,"Basavanagudi, Bengaluru",ME,84989,0,0,59135,0,73505,98382,0,0,44401,0,63969,48560,0,0,38756,63022,60408,100435,0,0,79511,0,94583
 E008,Bangalore Institute of Technology,"Basavanagudi, Bengaluru",TC,25872,0,0,50401,0,0,71633,0,0,36988,0,0,41730,0,0,24834,0,52159,85581,0,0,80525,0,0
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
-E009,PES University (Ring Road Campus),"Banashankari, Bengaluru",BT,0,0,0,27583,0,0,0,0,0,0,0,20545,37503,0,0,8367,46532,8484,97347,0,0,56183,0,0
-E009,PES University (Ring Road Campus),"Banashankari, Bengaluru",CE,23613,0,0,35918,0,0,19515,0,0,22714,37479,0,21710,0,0,14765,0,25478,24448,0,0,0,0,27140
-E009,PES University (Ring Road Campus),"Banashankari, Bengaluru",CS,3012,8410,3905,3545,9818,8990,3540,0,8272,2136,0,4010,2281,5068,5074,898,4987,3228,15705,25572,32550,8134,0,12344
-E009,PES University (Ring Road Campus),"Banashankari, Bengaluru",EC,11106,0,18835,6116,10135,10702,9185,0,14688,3632,0,5750,4803,0,6558,2553,6916,5195,35414,57384,131506,20821,0,0
-E009,PES University (Ring Road Campus),"Banashankari, Bengaluru",EE,17016,0,0,14882,0,19737,10063,0,71162,7628,0,0,10830,0,0,7140,13763,16007,24399,0,41888,17163,35403,0
-E009,PES University (Ring Road Campus),"Banashankari, Bengaluru",ME,17766,0,40056,45833,132290,0,45755,0,0,18803,0,0,19937,0,40580,14318,34552,35970,74771,101793,104270,61890,0,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-E010,Islamia Institute of Technology,"Hulimavu, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137506,0,0,0,0,0,0,0,0
-E010,Islamia Institute of Technology,"Hulimavu, Bengaluru",CS,76684,0,0,103424,0,126142,0,0,0,73911,0,0,94866,0,0,72635,0,88008,90633,0,0,0,0,0
-E010,Islamia Institute of Technology,"Hulimavu, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140851,0,0,0,0,0,0,0,0
-E010,Islamia Institute of Technology,"Hulimavu, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96877,0,0,0,0,0,0,0,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-E011,MVJ College of Engineering,"Kadugodi, Bengaluru",AE,51921,0,0,57978,0,78030,44347,0,101686,39236,0,0,43543,0,0,37744,55842,58338,63444,104186,64155,39000,0,0
-E011,MVJ College of Engineering,"Kadugodi, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139074,0,0,0,0,0,0,0,0
-E011,MVJ College of Engineering,"Kadugodi, Bengaluru",CH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139526,0,0,0,0,0,0,0,0
-E011,MVJ College of Engineering,"Kadugodi, Bengaluru",CS,38496,0,47680,39968,0,60975,35802,0,0,26892,0,0,32408,0,32536,24953,29520,32420,90805,0,0,50672,0,0
-E011,MVJ College of Engineering,"Kadugodi, Bengaluru",EC,71035,0,79799,75110,0,0,138415,0,0,53007,0,0,55752,0,78516,50695,112350,62672,139193,0,0,81489,0,0
-E011,MVJ College of Engineering,"Kadugodi, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138046,0,0,0,0,0,0,0,0
-E011,MVJ College of Engineering,"Kadugodi, Bengaluru",IE,40445,0,0,48804,0,63677,45212,0,0,40912,0,0,43967,0,0,39795,95923,47502,123268,0,0,95070,0,0
-E011,MVJ College of Engineering,"Kadugodi, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139530,0,0,0,0,0,0,0,0
-E011,MVJ College of Engineering,"Kadugodi, Bengaluru",SE,75341,0,0,88554,0,0,92352,0,0,58405,0,0,60767,0,0,41987,59358,82923,111888,0,0,100785,0,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
 E012,Sir M.Visveswaraya Institute of Technology,"Hunasemaranahalli,Bengaluru",BT,47788,0,0,40777,0,70601,0,0,0,31580,0,0,32010,0,0,28312,47909,39271,110139,0,0,51460,0,0
 E012,Sir M.Visveswaraya Institute of Technology,"Hunasemaranahalli,Bengaluru",CE,49805,0,0,80911,0,0,54409,0,0,50005,0,0,58567,0,0,45182,63785,58043,64065,95256,0,0,0,64425
 E012,Sir M.Visveswaraya Institute of Technology,"Hunasemaranahalli,Bengaluru",CS,13541,0,17503,9837,13062,12036,12134,0,0,6918,0,0,9106,0,13260,6882,9418,11175,40578,0,77158,13709,0,0
