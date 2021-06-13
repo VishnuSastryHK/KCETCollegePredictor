@@ -1,0 +1,1392 @@
+CETCode,College,Location,Branch,1G,1K,1R,2AG,2AK,2AR,2BG,2BK,2BR,3AG,3AK,3AR,3BG,3BK,3BR,GM,GMK,GMR,SCG,SCK,SCR,STG,STK,STR
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E001,University Visveswariah College of Engineering,"KR Circle, Bengaluru",CE,32617,0,33980,33564,38789,37186,42600,0,47534,21850,0,28547,26863,0,31826,20856,24818,26485,40245,47956,53038,37947,0,0
+E001,University Visveswariah College of Engineering,"KR Circle, Bengaluru",CS,7032,0,13014,7113,7383,9068,7484,0,0,4922,0,6454,3719,0,0,3392,3481,5739,15666,37041,29121,9692,0,0
+E001,University Visveswariah College of Engineering,"KR Circle, Bengaluru",EC,11404,0,0,9254,0,12319,9546,10462,0,7167,0,0,7401,0,0,5679,8595,9854,16090,0,24851,8554,0,15216
+E001,University Visveswariah College of Engineering,"KR Circle, Bengaluru",EE,17810,0,0,21729,25456,33634,13579,0,0,11311,0,0,13926,0,20377,11015,19791,15491,28846,32980,37275,22626,0,0
+E001,University Visveswariah College of Engineering,"KR Circle, Bengaluru",IE,13038,0,0,8203,0,14670,14525,0,0,5604,9832,0,6041,0,0,5544,6873,9261,26960,0,37577,10122,0,30432
+E001,University Visveswariah College of Engineering,"KR Circle, Bengaluru",ME,24164,70196,38960,25253,0,41270,28802,0,91220,20433,0,0,24035,25190,38983,17018,21862,22031,36185,0,47592,23647,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E002,SKSJT Institute of Engineering,"Sampangi Rama Nagar, Bengaluru",CE,44299,0,44785,46365,0,47028,66538,0,0,43822,0,0,43605,0,45077,38625,41750,44317,58456,62879,63241,57850,0,0
+E002,SKSJT Institute of Engineering,"Sampangi Rama Nagar, Bengaluru",CS,23453,0,0,24717,43478,30288,21411,0,60520,19789,0,21462,17839,0,0,17731,19021,20228,39646,0,44960,18766,0,0
+E002,SKSJT Institute of Engineering,"Sampangi Rama Nagar, Bengaluru",EC,40088,0,0,35287,41900,39173,38443,0,0,23746,0,0,25405,0,0,22924,26345,26577,53944,88050,59903,30494,0,93371
+E002,SKSJT Institute of Engineering,"Sampangi Rama Nagar, Bengaluru",ST,86016,0,0,85044,0,99669,0,0,0,0,0,0,80503,0,0,67594,71458,75481,91641,0,0,77793,0,0
+E002,SKSJT Institute of Engineering,"Sampangi Rama Nagar, Bengaluru",TX,89835,0,0,110056,0,136368,90280,,0,72576,0,0,94539,136880,0,71367,0,92766,119521,0,125306,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E003,BMS College of Engineering (Aided),"Basavanagudi, Bengaluru",CE,33282,0,48014,21115,0,35119,27066,0,0,12778,0,0,15961,0,20488,12756,15069,20418,25741,45643,59758,17941,0,0
+E003,BMS College of Engineering (Aided),"Basavanagudi, Bengaluru",EC,5961,0,0,3066,7360,7120,2516,0,20838,2280,0,0,3060,0,5471,1788,3129,2301,15638,0,18995,8488,0,0
+E003,BMS College of Engineering (Aided),"Basavanagudi, Bengaluru",EE,9356,0,0,10867,0,14242,11692,0,0,7285,0,11400,7824,17975,0,5138,10504,10655,34739,0,38860,23434,0,0
+E003,BMS College of Engineering (Aided),"Basavanagudi, Bengaluru",IM,50704,0,0,42552,0,47198,95319,0,0,34349,0,0,43626,0,0,25599,33551,36176,104851,0,112370,88763,0,0
+E003,BMS College of Engineering (Aided),"Basavanagudi, Bengaluru",ME,19956,0,0,18158,0,20997,45103,0,0,11046,22385,23062,7156,0,15627,5535,18660,9774,30365,0,58454,28603,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E004,Dr. Ambedkar Institute Of Technology (Aided),"Near Gnana Bharathi, Bengaluru",CE,52857,0,59432,53600,55396,55563,61920,0,0,36868,0,0,46966,0,51394,35355,44069,45500,60228,63863,69318,47365,0,0
+E004,Dr. Ambedkar Institute Of Technology (Aided),"Near Gnana Bharathi, Bengaluru",CS,11596,0,14720,14093,23924,16257,13548,0,0,10927,0,0,11926,0,14255,9427,11836,12032,35306,36662,54624,16580,0,0
+E004,Dr. Ambedkar Institute Of Technology (Aided),"Near Gnana Bharathi, Bengaluru",EC,22931,0,27895,21725,29586,27711,26722,0,49976,14717,0,0,16801,0,18242,14356,18374,16207,45370,46206,60098,32232,0,0
+E004,Dr. Ambedkar Institute Of Technology (Aided),"Near Gnana Bharathi, Bengaluru",EE,30664,0,0,38071,0,39720,26628,0,115949,25661,0,0,28261,29222,37660,24684,27048,28397,59124,0,82278,46505,0,0
+E004,Dr. Ambedkar Institute Of Technology (Aided),"Near Gnana Bharathi, Bengaluru",EI,78852,105690,0,71619,0,85211,0,0,0,63396,0,101507,80368,0,0,46893,70271,78192,139381,0,0,53200,0,0
+E004,Dr. Ambedkar Institute Of Technology (Aided),"Near Gnana Bharathi, Bengaluru",IM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139418,0,0,0,0,0,0,0,0
+E004,Dr. Ambedkar Institute Of Technology (Aided),"Near Gnana Bharathi, Bengaluru",ME,61449,0,0,99315,0,136051,87978,0,0,42718,0,48749,54582,0,57351,39811,59799,47912,91473,109107,100041,61961,0,0
+E004,Dr. Ambedkar Institute Of Technology (Aided),"Near Gnana Bharathi, Bengaluru",TC,58277,0,0,69308,0,133890,68731,0,0,51708,0,59912,46006,0,0,39520,80625,51646,128374,0,0,81963,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E005,RV College of Engineering,"Mysuru Rd,Bengaluru",BT,11044,0,0,12415,0,38299,12371,0,0,11518,0,0,9211,0,0,5607,0,26380,36895,0,71301,0,0,0
+E005,RV College of Engineering,"Mysuru Rd,Bengaluru",CE,11158,0,0,15755,19533,18464,11264,0,0,8879,0,16651,11551,0,0,8037,8563,12250,19356,0,24599,13388,0,0
+E005,RV College of Engineering,"Mysuru Rd,Bengaluru",CH,0,0,0,16261,0,0,0,0,0,0,0,0,17145,0,0,2557,11363,6754,37382,0,0,67726,0,0
+E005,RV College of Engineering,"Mysuru Rd,Bengaluru",CS,964,0,1770,734,4041,1236,798,0,2980,728,0,0,307,0,787,230,1195,732,3385,5689,12999,5815,0,0
+E005,RV College of Engineering,"Mysuru Rd,Bengaluru",EC,1640,0,4594,2077,7700,2988,1564,0,0,1505,0,0,2044,0,3503,710,1784,1369,11485,32868,25461,3071,0,0
+E005,RV College of Engineering,"Mysuru Rd,Bengaluru",EE,0,0,0,5955,0,0,4725,0,0,2912,0,0,5393,0,0,2367,9441,5140,7551,0,0,10217,0,10619
+E005,RV College of Engineering,"Mysuru Rd,Bengaluru",EI,14421,0,0,14978,0,20763,12569,0,0,5982,0,0,6756,27389,0,5850,0,17227,51601,0,57946,0,0,0
+E005,RV College of Engineering,"Mysuru Rd,Bengaluru",IE,1703,11540,0,2165,0,0,2228,0,0,1274,0,4426,1506,0,0,522,0,2170,16916,0,0,0,0,0
+E005,RV College of Engineering,"Mysuru Rd,Bengaluru",IM,62875,0,0,35792,0,63300,22105,0,0,16421,0,0,25886,0,0,16026,44787,26756,96568,0,0,0,0,0
+E005,RV College of Engineering,"Mysuru Rd,Bengaluru",ME,4337,0,0,6684,0,8109,8035,22697,15969,7207,0,0,3226,0,6453,3032,17789,5577,13404,0,15368,15813,0,0
+E005,RV College of Engineering,"Mysuru Rd,Bengaluru",SE,3327,0,0,3396,0,20144,12097,0,0,1494,0,0,0,0,0,1339,3354,3033,12608,0,33231,6721,0,0
+E005,RV College of Engineering,"Mysuru Rd,Bengaluru",TC,15929,0,0,8997,0,0,9214,0,0,10013,16947,14129,7807,0,0,6021,10629,7527,38218,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E006,MS Ramaiah Institute of Technology,"MSRIT Post,Bengaluru",BT,35389,0,0,20021,0,34559,16682,0,0,17459,0,0,23085,0,0,11829,30896,12333,71539,0,77255,36932,0,0
+E006,MS Ramaiah Institute of Technology,"MSRIT Post,Bengaluru",CE,25181,0,0,29237,0,30155,17256,0,30931,23334,0,0,18467,0,0,16115,17439,22898,26573,29779,38368,17618,0,0
+E006,MS Ramaiah Institute of Technology,"MSRIT Post,Bengaluru",CH,14983,0,0,41277,0,42413,63320,0,0,11712,0,0,26762,0,0,11670,0,23555,40574,0,74716,33011,0,0
+E006,MS Ramaiah Institute of Technology,"MSRIT Post,Bengaluru",CS,3164,0,4395,2390,0,5408,2190,0,0,1419,0,0,2126,0,4606,1074,1739,3716,11645,17142,13469,7872,0,0
+E006,MS Ramaiah Institute of Technology,"MSRIT Post,Bengaluru",EC,4685,0,0,4642,5160,4699,2896,0,0,2867,0,4059,2771,0,0,2446,3381,3985,13780,0,33604,11958,0,0
+E006,MS Ramaiah Institute of Technology,"MSRIT Post,Bengaluru",EE,16528,0,0,7315,0,24970,11782,0,0,8616,0,0,9515,0,0,5579,16813,6139,24237,0,43003,0,0,0
+E006,MS Ramaiah Institute of Technology,"MSRIT Post,Bengaluru",EI,13789,0,0,29347,0,0,25494,0,0,13425,0,0,19128,39337,0,11449,0,17600,137801,0,0,0,0,112943
+E006,MS Ramaiah Institute of Technology,"MSRIT Post,Bengaluru",IE,3604,0,0,5023,0,9966,4502,0,8135,3490,9759,0,3279,0,6499,1942,6664,4482,21655,0,44178,17255,0,0
+E006,MS Ramaiah Institute of Technology,"MSRIT Post,Bengaluru",IM,72538,0,0,26530,0,0,76671,0,0,23853,0,92424,30652,0,0,21179,68181,29455,108740,0,0,0,0,0
+E006,MS Ramaiah Institute of Technology,"MSRIT Post,Bengaluru",MD,25918,0,0,26091,0,0,34184,0,0,23556,0,24517,41453,0,0,19765,33518,21878,71962,0,0,90951,0,0
+E006,MS Ramaiah Institute of Technology,"MSRIT Post,Bengaluru",ME,30843,0,56796,22459,37380,23984,27352,0,46130,11648,0,0,17052,0,28095,8578,13881,21429,44549,72672,54732,41990,0,0
+E006,MS Ramaiah Institute of Technology,"MSRIT Post,Bengaluru",TC,20527,55694,0,24526,0,26843,69096,0,0,17846,0,0,12695,0,0,10493,20096,12646,45604,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru",AE,9660,0,0,16295,0,0,11264,0,0,11728,0,0,8614,0,0,7531,17150,15406,24651,0,0,0,0,23191
+E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru",AU,126519,0,0,83588,0,0,84334,0,0,49453,0,0,65524,0,0,37297,0,91782,125816,0,0,0,0,0
+E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru",BT,35429,0,0,28946,0,68643,55536,0,0,22902,0,0,27564,0,0,22272,34285,49015,91660,0,136122,0,0,0
+E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru",CE,37996,0,47821,47827,80308,65176,48995,0,84141,35620,0,0,36524,0,47801,31920,35217,45901,68276,69426,86576,44329,0,0
+E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru",CH,0,0,0,54119,0,121198,59110,0,0,44580,0,0,33401,89049,0,27789,0,33019,78467,0,140189,60169,0,0
+E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru",CS,9420,0,15899,8878,10359,13145,5988,0,0,4752,0,9163,5008,0,8190,4483,7367,8080,26413,36843,38831,17434,0,0
+E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru",CT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140035,0,0,0,0,0,0,0,0
+E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru",EC,15240,0,0,12768,19019,12941,9338,0,18117,9860,0,13907,9014,0,12912,8251,18327,12310,38103,58993,70566,34556,0,0
+E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru",EE,25116,0,0,25443,0,0,19651,0,0,18458,0,29279,21106,28496,0,15781,21876,23500,38385,0,77515,34396,0,44008
+E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru",EI,88462,0,0,51144,0,0,100095,0,0,44108,0,0,53319,0,0,32933,53045,57784,101933,0,0,0,0,0
+E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru",IE,8436,36536,0,9765,0,10027,10310,0,0,7879,0,11590,8372,0,0,6543,22604,9773,41125,0,60062,16332,0,0
+E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru",IM,122712,0,0,135074,0,0,124617,0,0,112293,0,0,102984,0,0,100209,0,125747,129680,0,0,0,0,0
+E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru",MD,109083,0,0,63598,0,119490,105797,0,0,53163,0,0,49523,0,0,46150,95830,50508,74150,0,0,0,0,66934
+E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru",ME,50091,0,0,63472,0,87189,57015,0,140485,31208,0,0,31990,0,51278,26707,35000,50760,85857,135470,0,68502,0,0
+E007,Dayananda Sagar College of Engineering,"Kumaraswamy Layout, Bengaluru",TC,76652,0,0,65142,0,67281,73091,0,90911,48956,0,0,45010,0,0,36803,0,65716,85832,0,0,47415,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E008,Bangalore Institute of Technology,"Basavanagudi, Bengaluru",CE,55337,0,0,79351,109629,128746,68315,0,0,48752,0,0,57093,0,60047,47439,50166,58439,97574,136573,140903,56373,0,0
+E008,Bangalore Institute of Technology,"Basavanagudi, Bengaluru",CS,11036,0,13516,9704,15585,10209,8855,0,22011,4906,0,0,6742,0,7874,4653,8861,7051,31746,53836,41713,13423,0,0
+E008,Bangalore Institute of Technology,"Basavanagudi, Bengaluru",EC,14987,0,33460,11198,0,13643,13403,0,0,7299,0,13466,8929,21407,11684,6957,12326,11407,38293,0,43253,35520,0,0
+E008,Bangalore Institute of Technology,"Basavanagudi, Bengaluru",EE,19253,20883,0,21094,0,30898,24621,0,0,16917,0,0,16164,0,0,15337,0,20006,59509,0,0,0,0,0
+E008,Bangalore Institute of Technology,"Basavanagudi, Bengaluru",EI,0,0,0,49585,0,0,0,0,0,60229,0,0,66051,0,0,44692,50409,46890,137328,0,0,0,0,0
+E008,Bangalore Institute of Technology,"Basavanagudi, Bengaluru",IE,7861,0,0,11593,0,13509,15714,33012,0,6626,0,0,6911,0,0,5565,0,7930,30590,0,41404,0,0,0
+E008,Bangalore Institute of Technology,"Basavanagudi, Bengaluru",IM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138185,0,0,0,0,0,0,0,0
+E008,Bangalore Institute of Technology,"Basavanagudi, Bengaluru",ME,84989,0,0,59135,0,73505,98382,0,0,44401,0,63969,48560,0,0,38756,63022,60408,100435,0,0,79511,0,94583
+E008,Bangalore Institute of Technology,"Basavanagudi, Bengaluru",TC,25872,0,0,50401,0,0,71633,0,0,36988,0,0,41730,0,0,24834,0,52159,85581,0,0,80525,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E009,PES University (Ring Road Campus),"Banashankari, Bengaluru",BT,0,0,0,27583,0,0,0,0,0,0,0,20545,37503,0,0,8367,46532,8484,97347,0,0,56183,0,0
+E009,PES University (Ring Road Campus),"Banashankari, Bengaluru",CE,23613,0,0,35918,0,0,19515,0,0,22714,37479,0,21710,0,0,14765,0,25478,24448,0,0,0,0,27140
+E009,PES University (Ring Road Campus),"Banashankari, Bengaluru",CS,3012,8410,3905,3545,9818,8990,3540,0,8272,2136,0,4010,2281,5068,5074,898,4987,3228,15705,25572,32550,8134,0,12344
+E009,PES University (Ring Road Campus),"Banashankari, Bengaluru",EC,11106,0,18835,6116,10135,10702,9185,0,14688,3632,0,5750,4803,0,6558,2553,6916,5195,35414,57384,131506,20821,0,0
+E009,PES University (Ring Road Campus),"Banashankari, Bengaluru",EE,17016,0,0,14882,0,19737,10063,0,71162,7628,0,0,10830,0,0,7140,13763,16007,24399,0,41888,17163,35403,0
+E009,PES University (Ring Road Campus),"Banashankari, Bengaluru",ME,17766,0,40056,45833,132290,0,45755,0,0,18803,0,0,19937,0,40580,14318,34552,35970,74771,101793,104270,61890,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E010,Islamia Institute of Technology,"Hulimavu, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137506,0,0,0,0,0,0,0,0
+E010,Islamia Institute of Technology,"Hulimavu, Bengaluru",CS,76684,0,0,103424,0,126142,0,0,0,73911,0,0,94866,0,0,72635,0,88008,90633,0,0,0,0,0
+E010,Islamia Institute of Technology,"Hulimavu, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140851,0,0,0,0,0,0,0,0
+E010,Islamia Institute of Technology,"Hulimavu, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96877,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E011,MVJ College of Engineering,"Kadugodi, Bengaluru",AE,51921,0,0,57978,0,78030,44347,0,101686,39236,0,0,43543,0,0,37744,55842,58338,63444,104186,64155,39000,0,0
+E011,MVJ College of Engineering,"Kadugodi, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139074,0,0,0,0,0,0,0,0
+E011,MVJ College of Engineering,"Kadugodi, Bengaluru",CH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139526,0,0,0,0,0,0,0,0
+E011,MVJ College of Engineering,"Kadugodi, Bengaluru",CS,38496,0,47680,39968,0,60975,35802,0,0,26892,0,0,32408,0,32536,24953,29520,32420,90805,0,0,50672,0,0
+E011,MVJ College of Engineering,"Kadugodi, Bengaluru",EC,71035,0,79799,75110,0,0,138415,0,0,53007,0,0,55752,0,78516,50695,112350,62672,139193,0,0,81489,0,0
+E011,MVJ College of Engineering,"Kadugodi, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138046,0,0,0,0,0,0,0,0
+E011,MVJ College of Engineering,"Kadugodi, Bengaluru",IE,40445,0,0,48804,0,63677,45212,0,0,40912,0,0,43967,0,0,39795,95923,47502,123268,0,0,95070,0,0
+E011,MVJ College of Engineering,"Kadugodi, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139530,0,0,0,0,0,0,0,0
+E011,MVJ College of Engineering,"Kadugodi, Bengaluru",SE,75341,0,0,88554,0,0,92352,0,0,58405,0,0,60767,0,0,41987,59358,82923,111888,0,0,100785,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E012,Sir M.Visveswaraya Institute of Technology,"Hunasemaranahalli,Bengaluru",BT,47788,0,0,40777,0,70601,0,0,0,31580,0,0,32010,0,0,28312,47909,39271,110139,0,0,51460,0,0
+E012,Sir M.Visveswaraya Institute of Technology,"Hunasemaranahalli,Bengaluru",CE,49805,0,0,80911,0,0,54409,0,0,50005,0,0,58567,0,0,45182,63785,58043,64065,95256,0,0,0,64425
+E012,Sir M.Visveswaraya Institute of Technology,"Hunasemaranahalli,Bengaluru",CS,13541,0,17503,9837,13062,12036,12134,0,0,6918,0,0,9106,0,13260,6882,9418,11175,40578,0,77158,13709,0,0
+E012,Sir M.Visveswaraya Institute of Technology,"Hunasemaranahalli,Bengaluru",EC,11613,0,0,17089,0,24674,13717,0,56446,12265,0,0,15451,0,0,11333,25438,17729,45325,120540,128449,23189,0,0
+E012,Sir M.Visveswaraya Institute of Technology,"Hunasemaranahalli,Bengaluru",EE,28502,0,0,45374,49456,55663,45967,0,0,33410,0,0,37780,0,42536,26939,36813,37962,62121,0,68063,57034,0,0
+E012,Sir M.Visveswaraya Institute of Technology,"Hunasemaranahalli,Bengaluru",IE,12176,0,0,13627,0,0,21243,0,0,10522,0,18576,14910,35204,0,10513,13700,14225,65435,0,0,0,0,0
+E012,Sir M.Visveswaraya Institute of Technology,"Hunasemaranahalli,Bengaluru",ME,120618,0,0,123907,0,0,109938,0,0,46135,0,127087,43646,0,0,43421,134395,69376,115313,0,0,58274,0,0
+E012,Sir M.Visveswaraya Institute of Technology,"Hunasemaranahalli,Bengaluru",TC,0,0,0,57695,0,0,45748,0,0,39013,0,0,44602,0,0,35774,0,126505,102681,0,0,87739,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E013,Ghousia Engineering College,"Vijaya Nagar, Ramanagara",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133803,0,0,0,0,0,0,0,0
+E013,Ghousia Engineering College,"Vijaya Nagar, Ramanagara",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140346,0,0,0,0,0,0,0,0
+E013,Ghousia Engineering College,"Vijaya Nagar, Ramanagara",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135136,0,0,0,0,0,0,0,0
+E013,Ghousia Engineering College,"Vijaya Nagar, Ramanagara",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E013,Ghousia Engineering College,"Vijaya Nagar, Ramanagara",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E014,SJC Institute of Technology,"BB Rd, Chickaballapur",AE,68162,0,0,48073,0,56910,32293,0,0,48123,0,0,35913,0,0,29682,38057,36590,53430,0,65613,0,0,0
+E014,SJC Institute of Technology,"BB Rd, Chickaballapur",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140500,0,0,0,0,0,0,0,0
+E014,SJC Institute of Technology,"BB Rd, Chickaballapur",CS,82037,0,89796,49201,0,79253,50279,0,73500,32393,0,0,37642,0,52396,29904,50269,38391,112507,130357,131779,85215,0,0
+E014,SJC Institute of Technology,"BB Rd, Chickaballapur",EC,0,0,0,129253,0,0,94782,0,0,87905,0,0,118133,0,0,80028,100355,106688,131551,0,0,124366,0,0
+E014,SJC Institute of Technology,"BB Rd, Chickaballapur",IE,113285,0,0,85048,0,111908,92802,0,0,50811,0,69527,55019,0,0,50746,91800,62219,0,0,0,76887,0,0
+E014,SJC Institute of Technology,"BB Rd, Chickaballapur",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140504,0,0,0,0,0,0,0,0
+E014,SJC Institute of Technology,"BB Rd, Chickaballapur",SE,133876,0,0,91369,0,133490,0,0,0,88133,0,0,137750,0,0,79069,0,91676,105637,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E015,Dr.T.Thimmaiah Institute of Technology,"KGF,Kolar",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137068,0,0,0,0,0,0,0,0
+E015,Dr.T.Thimmaiah Institute of Technology,"KGF,Kolar",CS,128531,0,0,133882,0,0,133208,0,0,133213,0,0,129942,0,0,118915,0,136403,137096,0,0,0,0,0
+E015,Dr.T.Thimmaiah Institute of Technology,"KGF,Kolar",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140771,0,0,0,0,0,0,0,0
+E015,Dr.T.Thimmaiah Institute of Technology,"KGF,Kolar",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140340,0,0,0,0,0,0,0,0
+E015,Dr.T.Thimmaiah Institute of Technology,"KGF,Kolar",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138078,0,0,0,0,0,0,0,0
+E015,Dr.T.Thimmaiah Institute of Technology,"KGF,Kolar",MN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136264,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E016,Siddaganga Institute of Technology,"Bangalore - Honnavar Rd,Tumkur",BT,32594,0,0,39799,0,0,0,0,0,0,0,0,0,0,0,32123,53911,38093,36292,0,0,94653,0,0
+E016,Siddaganga Institute of Technology,"Bangalore - Honnavar Rd,Tumkur",CE,25441,0,0,37036,0,38711,50393,0,0,27156,0,0,23170,0,0,22857,0,30672,46495,70596,76606,43259,0,0
+E016,Siddaganga Institute of Technology,"Bangalore - Honnavar Rd,Tumkur",CH,83783,0,0,87245,0,0,77756,0,0,72266,0,0,68466,0,0,64360,77362,77905,80570,0,0,75878,0,0
+E016,Siddaganga Institute of Technology,"Bangalore - Honnavar Rd,Tumkur",CS,11307,0,13408,8468,17535,10068,15686,0,0,5581,0,0,6131,0,8012,5481,9274,7340,27768,0,58007,23814,0,0
+E016,Siddaganga Institute of Technology,"Bangalore - Honnavar Rd,Tumkur",EC,9672,0,0,12572,0,13413,9326,0,0,8433,0,0,9201,13824,17370,8386,13269,10804,40550,0,48780,16108,0,0
+E016,Siddaganga Institute of Technology,"Bangalore - Honnavar Rd,Tumkur",EE,0,50324,0,13089,0,32128,11806,0,0,13827,0,0,13139,0,0,9985,0,16818,49974,0,93692,11472,0,0
+E016,Siddaganga Institute of Technology,"Bangalore - Honnavar Rd,Tumkur",EI,34061,0,0,27700,0,0,52967,0,0,25289,0,41989,19589,0,0,18536,30717,27275,78926,0,0,0,0,0
+E016,Siddaganga Institute of Technology,"Bangalore - Honnavar Rd,Tumkur",IE,16293,0,0,11542,0,0,8021,0,27334,9769,0,11414,7496,0,0,7236,11860,10251,32078,0,0,0,0,0
+E016,Siddaganga Institute of Technology,"Bangalore - Honnavar Rd,Tumkur",IM,0,0,0,0,0,0,0,0,0,94598,0,0,95869,0,0,81385,0,93095,91204,0,0,0,0,0
+E016,Siddaganga Institute of Technology,"Bangalore - Honnavar Rd,Tumkur",ME,42520,0,0,57116,0,91341,77487,0,0,30574,0,0,28323,0,35138,27809,60836,35113,69183,80440,75834,74341,0,0
+E016,Siddaganga Institute of Technology,"Bangalore - Honnavar Rd,Tumkur",TC,45861,0,0,25459,0,52769,52123,0,0,19722,0,0,18761,0,0,14512,59949,25426,71209,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E017,Sri Siddartha Institute of Technology,"Tumkur-Kunigal Rd, Saraswathipuram, Tumkur",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134092,0,0,0,0,0,0,0,0
+E017,Sri Siddartha Institute of Technology,"Tumkur-Kunigal Rd, Saraswathipuram, Tumkur",CS,65470,0,0,87563,0,127193,64633,0,0,43485,0,0,42470,0,72092,38046,50674,51764,99596,0,113397,139870,0,0
+E017,Sri Siddartha Institute of Technology,"Tumkur-Kunigal Rd, Saraswathipuram, Tumkur",EC,64093,0,0,135392,0,0,64497,0,0,74616,0,0,105126,0,0,56568,0,111088,102792,0,0,106745,0,0
+E017,Sri Siddartha Institute of Technology,"Tumkur-Kunigal Rd, Saraswathipuram, Tumkur",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134677,0,0,0,0,0,0,0,0
+E017,Sri Siddartha Institute of Technology,"Tumkur-Kunigal Rd, Saraswathipuram, Tumkur",IE,84713,0,0,0,0,0,90422,0,0,93145,0,0,82017,0,0,72541,86835,87867,132490,0,0,92777,0,0
+E017,Sri Siddartha Institute of Technology,"Tumkur-Kunigal Rd, Saraswathipuram, Tumkur",IM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131701,0,0,0,0,0,0,0,0
+E017,Sri Siddartha Institute of Technology,"Tumkur-Kunigal Rd, Saraswathipuram, Tumkur",MD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137515,0,0,0,0,0,0,0,0
+E017,Sri Siddartha Institute of Technology,"Tumkur-Kunigal Rd, Saraswathipuram, Tumkur",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138993,0,0,0,0,0,0,0,0
+E017,Sri Siddartha Institute of Technology,"Tumkur-Kunigal Rd, Saraswathipuram, Tumkur",TC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,129119,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E018,Kalpatharu Institute of Technology,"Vidya Nagar, Tiptur, Tumkur",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,124636,0,0,0,0,0,0,0,0
+E018,Kalpatharu Institute of Technology,"Vidya Nagar, Tiptur, Tumkur",CS,86614,0,0,113010,0,0,89065,0,0,77573,0,0,76836,0,0,74550,114657,104254,139846,0,0,112401,0,0
+E018,Kalpatharu Institute of Technology,"Vidya Nagar, Tiptur, Tumkur",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135836,0,0,0,0,0,0,0,0
+E018,Kalpatharu Institute of Technology,"Vidya Nagar, Tiptur, Tumkur",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137269,0,0,0,0,0,0,0,0
+E018,Kalpatharu Institute of Technology,"Vidya Nagar, Tiptur, Tumkur",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,118872,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E021, JSS Science and Technology University(Formerly SJCE) (Aided),"University Of Mysore Campus, Mysore",CE,26349,0,0,18854,0,32543,21170,0,82398,17707,27020,28513,16959,0,0,15400,22657,21943,24154,0,34901,23126,0,0
+E021, JSS Science and Technology University(Formerly SJCE) (Aided),"University Of Mysore Campus, Mysore",CS,4341,0,6444,5076,0,6602,2502,29683,0,2683,0,4678,1751,0,0,1636,2214,3556,16494,0,27715,6161,0,0
+E021, JSS Science and Technology University(Formerly SJCE) (Aided),"University Of Mysore Campus, Mysore",EC,7444,0,14539,6546,0,9950,6334,0,12399,4090,0,0,5036,5354,0,3247,5149,5243,19065,0,30079,5743,0,0
+E021, JSS Science and Technology University(Formerly SJCE) (Aided),"University Of Mysore Campus, Mysore",EE,18368,0,0,15900,23231,28909,8667,0,31251,8709,0,11690,12627,0,0,8644,14256,11506,27881,31327,32157,20638,0,0
+E021, JSS Science and Technology University(Formerly SJCE) (Aided),"University Of Mysore Campus, Mysore",EI,34771,0,0,27085,124818,55881,18774,0,0,19625,0,0,21607,0,23106,13876,32729,19430,65114,0,118911,23105,0,0
+E021, JSS Science and Technology University(Formerly SJCE) (Aided),"University Of Mysore Campus, Mysore",EN,62043,0,0,51245,0,137559,26446,0,0,28213,0,91508,38493,0,52315,26149,64634,51199,82952,131252,0,72679,0,0
+E021, JSS Science and Technology University(Formerly SJCE) (Aided),"University Of Mysore Campus, Mysore",IP,34547,0,0,73501,0,0,76875,0,83424,33371,0,0,37536,0,53941,27773,65202,42463,123605,0,0,36045,0,0
+E021, JSS Science and Technology University(Formerly SJCE) (Aided),"University Of Mysore Campus, Mysore",ME,27689,0,32630,26467,107593,29952,24121,0,0,12906,0,0,17675,0,21389,11772,12841,19437,39974,0,79291,24264,0,0
+E021, JSS Science and Technology University(Formerly SJCE) (Aided),"University Of Mysore Campus, Mysore",PT,63009,0,0,89120,0,118112,78814,0,0,77819,0,0,68800,0,0,59827,131970,81307,129703,0,0,123231,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E022,The National Institute of Engineering (Aided),"Mananthavadi Rd,Mysore",CE,34549,0,42870,33230,39750,44051,32183,0,67088,23770,0,0,32518,0,40389,21441,36146,26528,34689,48288,35223,24543,0,0
+E022,The National Institute of Engineering (Aided),"Mananthavadi Rd,Mysore",EC,16898,17082,0,9127,0,11066,9180,0,0,4656,0,9470,5946,0,0,4641,8637,9382,25738,0,28923,13191,0,0
+E022,The National Institute of Engineering (Aided),"Mananthavadi Rd,Mysore",EE,20450,0,0,19199,27379,26872,16066,0,28451,9894,0,0,13240,0,15092,9486,11912,14127,20782,31776,26059,22537,0,0
+E022,The National Institute of Engineering (Aided),"Mananthavadi Rd,Mysore",IP,44574,0,0,59917,0,119551,105412,0,0,54016,0,0,40760,0,0,37861,0,82896,85604,0,107941,65706,0,0
+E022,The National Institute of Engineering (Aided),"Mananthavadi Rd,Mysore",ME,34189,0,62351,36979,72949,46333,20740,0,31568,15787,0,17247,15139,68822,18860,12200,25926,16412,41430,57248,90376,23442,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E023,PES College of Engineering (Aided),"PES Engineering College Rd, Mandya",AU,88048,0,0,126158,0,0,90970,0,0,87426,0,0,85995,0,0,82224,0,93934,127105,0,0,0,0,0
+E023,PES College of Engineering (Aided),"PES Engineering College Rd, Mandya",CE,69314,0,0,58101,116457,79939,82900,0,0,41806,0,0,60893,0,69592,35395,42140,54071,64559,64811,93567,67681,0,0
+E023,PES College of Engineering (Aided),"PES Engineering College Rd, Mandya",EC,20277,0,0,24831,0,30559,29129,0,54402,20149,0,23946,16908,0,0,16342,27319,18861,35750,0,39622,18256,56214,0
+E023,PES College of Engineering (Aided),"PES Engineering College Rd, Mandya",EE,47067,0,0,50717,0,62866,46808,0,0,27280,0,0,28471,0,0,26606,31373,29546,40643,0,56815,38725,0,0
+E023,PES College of Engineering (Aided),"PES Engineering College Rd, Mandya",IP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135902,0,0,0,0,0,0,0,0
+E023,PES College of Engineering (Aided),"PES Engineering College Rd, Mandya",ME,122576,0,0,139316,0,0,95554,0,0,65472,0,77107,88734,0,0,54304,90293,74274,127049,0,0,62915,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E024,Malnad College of Engineering (Aided),"Rangoli Halla, Hassan",CE,45381,0,0,43960,51722,52611,22964,0,0,23700,0,44920,27453,0,0,22947,30038,36286,42508,55070,52778,48559,0,0
+E024,Malnad College of Engineering (Aided),"Rangoli Halla, Hassan",EC,23506,0,0,13417,31626,26024,22487,0,0,11970,0,16012,15440,0,0,10703,21040,15246,37564,51549,87881,12290,0,0
+E024,Malnad College of Engineering (Aided),"Rangoli Halla, Hassan",EE,35391,0,0,31206,0,56648,23046,0,56344,22000,0,0,25466,0,32822,19151,24510,26802,49504,0,53195,29350,0,0
+E024,Malnad College of Engineering (Aided),"Rangoli Halla, Hassan",ME,133102,0,0,80435,123889,103114,95852,0,0,63165,0,0,73247,0,83981,52922,68015,81769,133057,0,0,120585,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E028,Tontadarya College of Engineering,"Kalyan Nagar, Gadag",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139153,0,0,0,0,0,0,0,0
+E028,Tontadarya College of Engineering,"Kalyan Nagar, Gadag",CS,0,0,0,98534,0,0,102715,0,0,92216,0,0,93104,0,0,74963,0,109017,0,0,0,0,0,0
+E028,Tontadarya College of Engineering,"Kalyan Nagar, Gadag",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139809,0,0,0,0,0,0,0,0
+E028,Tontadarya College of Engineering,"Kalyan Nagar, Gadag",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125841,0,0,0,0,0,0,0,0
+E028,Tontadarya College of Engineering,"Kalyan Nagar, Gadag",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E029,Maratha Mandal Engineering College,"Halbhavi Camp, Belgaum",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139478,0,0,0,0,0,0,0,0
+E029,Maratha Mandal Engineering College,"Halbhavi Camp, Belgaum",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132266,0,0,0,0,0,0,0,0
+E029,Maratha Mandal Engineering College,"Halbhavi Camp, Belgaum",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134150,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E030,KLE Technological University(Formerly BVBCET),"Vidya Nagar, Hubli",CE,26687,0,33272,25087,0,30010,22726,70221,0,27039,0,0,24766,0,0,20304,22801,22869,42680,0,59223,36049,0,59777
+E030,KLE Technological University(Formerly BVBCET),"Vidya Nagar, Hubli",EC,6887,11196,0,6325,0,11701,11750,0,20145,10686,0,14352,4990,0,0,4287,4777,5996,24133,0,31974,26575,0,0
+E030,KLE Technological University(Formerly BVBCET),"Vidya Nagar, Hubli",EE,13443,0,0,15633,0,22252,14299,0,21775,14748,0,25705,12786,0,0,11421,16933,18134,36527,0,65109,41841,42464,0
+E030,KLE Technological University(Formerly BVBCET),"Vidya Nagar, Hubli",ME,25463,0,25488,25047,0,41030,31229,0,0,25167,0,0,19981,0,38191,14928,20684,19252,62091,85309,119623,49335,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E031,Basaveshwara Engineering College,"Vidayagiri, Bagalkot",CE,65505,0,0,47254,51280,56292,61291,0,0,43287,0,0,44310,0,55259,36691,38765,46991,63065,67486,79176,49492,0,0
+E031,Basaveshwara Engineering College,"Vidayagiri, Bagalkot",CS,26790,0,29500,22545,25960,30396,25314,0,0,26156,0,0,19297,0,22006,18963,19923,21794,59507,67872,65664,35357,0,0
+E031,Basaveshwara Engineering College,"Vidayagiri, Bagalkot",EC,27216,0,0,24409,25051,24964,46344,0,55304,26442,0,32773,20070,0,0,18983,20519,23172,49970,105799,79120,25322,0,0
+E031,Basaveshwara Engineering College,"Vidayagiri, Bagalkot",EE,42447,0,61531,39441,0,41069,46216,0,0,38264,0,0,33364,0,0,30483,35621,35468,57145,0,71141,46351,116817,0
+E031,Basaveshwara Engineering College,"Vidayagiri, Bagalkot",IP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125179,0,0,0,0,0,0,0,0
+E031,Basaveshwara Engineering College,"Vidayagiri, Bagalkot",ME,75781,0,82052,65656,0,75886,73970,0,111585,74279,0,0,66188,66754,80666,50581,56642,63900,137455,0,0,54193,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E032,RTE Socity`s Rural Engineering College,"Hulkoti, Gadag",AU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120393,0,0,0,0,0,0,0,0
+E032,RTE Socity`s Rural Engineering College,"Hulkoti, Gadag",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131720,0,0,0,0,0,0,0,0
+E032,RTE Socity`s Rural Engineering College,"Hulkoti, Gadag",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140590,0,0,0,0,0,0,0,0
+E032,RTE Socity`s Rural Engineering College,"Hulkoti, Gadag",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134434,0,0,0,0,0,0,0,0
+E032,RTE Socity`s Rural Engineering College,"Hulkoti, Gadag",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E032,RTE Socity`s Rural Engineering College,"Hulkoti, Gadag",TX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136639,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E033,Sri Taralabalu Jagadguru Institute of Technology,"P.B. Road, Ranebennur, Haveri",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136944,0,0,0,0,0,0,0,0
+E033,Sri Taralabalu Jagadguru Institute of Technology,"P.B. Road, Ranebennur, Haveri",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140197,0,0,0,0,0,0,0,0
+E033,Sri Taralabalu Jagadguru Institute of Technology,"P.B. Road, Ranebennur, Haveri",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137701,0,0,0,0,0,0,0,0
+E033,Sri Taralabalu Jagadguru Institute of Technology,"P.B. Road, Ranebennur, Haveri",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96651,0,0,0,0,0,0,0,0
+E033,Sri Taralabalu Jagadguru Institute of Technology,"P.B. Road, Ranebennur, Haveri",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140867,0,0,0,0,0,0,0,0
+E033,Sri Taralabalu Jagadguru Institute of Technology,"P.B. Road, Ranebennur, Haveri",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133712,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E034,Sri Dharmasthala Manjunatheswara College of Engineering,"Dhavalagiri, Dharwad",CE,52249,0,0,55952,0,76611,63829,0,0,67624,0,0,55398,0,0,46313,58259,56628,67635,74867,89314,47273,0,0
+E034,Sri Dharmasthala Manjunatheswara College of Engineering,"Dhavalagiri, Dharwad",CH,0,0,0,137955,0,0,0,0,0,0,0,0,0,0,0,48160,0,78456,107542,0,0,0,0,0
+E034,Sri Dharmasthala Manjunatheswara College of Engineering,"Dhavalagiri, Dharwad",CS,18544,0,0,17104,21336,17730,12510,0,0,16901,0,0,13925,0,15514,12507,14840,15348,47877,0,0,22106,0,0
+E034,Sri Dharmasthala Manjunatheswara College of Engineering,"Dhavalagiri, Dharwad",EC,23184,0,0,18717,0,21984,19868,0,0,28067,0,0,17210,0,22556,16080,16150,19773,44345,57346,45950,24925,0,0
+E034,Sri Dharmasthala Manjunatheswara College of Engineering,"Dhavalagiri, Dharwad",EE,23259,0,0,30226,0,0,29515,0,0,28500,0,45507,22895,0,0,22174,29434,23542,55420,0,0,0,0,0
+E034,Sri Dharmasthala Manjunatheswara College of Engineering,"Dhavalagiri, Dharwad",IE,24550,0,0,19237,29141,0,22019,0,68531,23813,0,0,21065,0,0,17043,0,17376,61401,0,90808,0,0,0
+E034,Sri Dharmasthala Manjunatheswara College of Engineering,"Dhavalagiri, Dharwad",ME,63204,0,0,114626,0,0,68403,0,0,111103,0,0,67404,71125,0,55883,56065,74504,139126,0,0,72347,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E035,Anjuman Engineering College,"Anjumanabad, Bhatkal, Uttara Kannada",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125403,0,0,0,0,0,0,0,0
+E035,Anjuman Engineering College,"Anjumanabad, Bhatkal, Uttara Kannada",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137373,0,0,0,0,0,0,0,0
+E035,Anjuman Engineering College,"Anjumanabad, Bhatkal, Uttara Kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92711,0,0,0,0,0,0,0,0
+E035,Anjuman Engineering College,"Anjumanabad, Bhatkal, Uttara Kannada",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82992,0,0,0,0,0,0,0,0
+E035,Anjuman Engineering College,"Anjumanabad, Bhatkal, Uttara Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E036,KLE Dr. M S Sheshagiri College of Engineering and Technology,"Udyambag, Belgaum",BM,0,0,0,102642,0,0,100957,0,0,96686,0,0,89618,0,0,83009,0,109965,111376,0,124620,0,0,0
+E036,KLE Dr. M S Sheshagiri College of Engineering and Technology,"Udyambag, Belgaum",CE,102297,0,0,85769,0,98992,77723,0,0,77486,0,0,67593,0,0,63457,68289,81286,100489,102831,129274,132000,0,0
+E036,KLE Dr. M S Sheshagiri College of Engineering and Technology,"Udyambag, Belgaum",CH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136458,0,0,0,0,0,0,0,0
+E036,KLE Dr. M S Sheshagiri College of Engineering and Technology,"Udyambag, Belgaum",CS,27655,0,0,26590,0,33501,23921,0,0,21067,0,53961,20010,0,0,17133,18438,21890,58339,71293,68228,48639,0,0
+E036,KLE Dr. M S Sheshagiri College of Engineering and Technology,"Udyambag, Belgaum",EC,31606,0,33084,32082,32342,35455,32682,0,0,39179,0,0,26634,0,34716,26526,27318,32203,82525,0,83286,59476,0,0
+E036,KLE Dr. M S Sheshagiri College of Engineering and Technology,"Udyambag, Belgaum",EE,0,0,0,52481,0,0,110500,0,0,52021,0,0,54295,60994,0,49874,54720,93932,86363,0,0,63727,0,0
+E036,KLE Dr. M S Sheshagiri College of Engineering and Technology,"Udyambag, Belgaum",ME,86994,112223,0,137849,0,0,112261,0,0,123194,0,0,83564,0,0,80884,89917,114465,139470,0,0,84644,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E037,KLS Gogte Institute of Technology,"Udyambag, Belgaum",AE,31086,0,0,26295,0,92481,29742,0,0,22615,0,0,24479,0,0,21309,35598,35737,48602,0,53048,55966,0,0
+E037,KLS Gogte Institute of Technology,"Udyambag, Belgaum",CE,37923,0,0,54672,0,57864,74233,0,0,130082,0,0,55132,0,0,36553,38836,52569,64354,0,91429,47068,0,0
+E037,KLS Gogte Institute of Technology,"Udyambag, Belgaum",CS,17380,0,35879,14262,21397,14735,12316,0,40924,15230,0,0,12829,0,14154,10064,10663,12276,54614,60780,67904,34972,0,0
+E037,KLS Gogte Institute of Technology,"Udyambag, Belgaum",EC,22695,0,37596,19927,20928,28016,19468,0,0,22722,0,0,17508,0,20268,15263,15830,20105,55569,68952,63318,38394,0,0
+E037,KLS Gogte Institute of Technology,"Udyambag, Belgaum",EE,41969,0,0,37924,0,0,52400,0,0,36627,0,0,30272,0,0,26549,26596,29377,58804,0,0,0,0,63073
+E037,KLS Gogte Institute of Technology,"Udyambag, Belgaum",IE,22949,0,0,22275,0,25812,23134,0,0,22770,65729,0,21487,0,0,19336,0,19477,110897,0,0,0,0,0
+E037,KLS Gogte Institute of Technology,"Udyambag, Belgaum",ME,41611,57460,0,57517,0,69068,38044,0,48199,111911,0,0,38619,58149,0,33786,34881,46469,115862,0,0,47410,0,79996
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E038,BLDE As V.P. Dr. P. G. Hallakatti College of Engg. and Tech,"Adarsh Nagar, Bijapur",AU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E038,BLDE As V.P. Dr. P. G. Hallakatti College of Engg. and Tech,"Adarsh Nagar, Bijapur",CE,86328,0,0,76865,0,77696,94064,0,135551,64345,0,0,60123,0,0,56394,57451,73991,65274,70713,79359,137341,0,0
+E038,BLDE As V.P. Dr. P. G. Hallakatti College of Engg. and Tech,"Adarsh Nagar, Bijapur",CS,45559,0,68937,45040,61055,58323,52074,0,0,39979,0,0,38058,0,60660,35730,36195,51817,81188,0,87511,0,0,0
+E038,BLDE As V.P. Dr. P. G. Hallakatti College of Engg. and Tech,"Adarsh Nagar, Bijapur",EC,54127,0,0,58942,0,107110,68443,0,0,68008,0,0,45603,58696,0,43374,44243,54236,99069,0,104321,51707,0,0
+E038,BLDE As V.P. Dr. P. G. Hallakatti College of Engg. and Tech,"Adarsh Nagar, Bijapur",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137162,0,0,0,0,0,0,0,0
+E038,BLDE As V.P. Dr. P. G. Hallakatti College of Engg. and Tech,"Adarsh Nagar, Bijapur",IE,70191,0,0,78964,0,0,70539,0,0,77822,0,0,71498,0,0,60126,80741,113927,98648,0,0,0,0,0
+E038,BLDE As V.P. Dr. P. G. Hallakatti College of Engg. and Tech,"Adarsh Nagar, Bijapur",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139130,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E040,Hira Sugar Institute of Technology,"Nidasoshi, Belgaum",CS,0,0,0,103387,0,0,129576,0,0,0,0,0,116402,0,0,102012,115549,114000,0,0,0,0,0,0
+E040,Hira Sugar Institute of Technology,"Nidasoshi, Belgaum",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132626,----,----,0,0,0,0,0,0
+E040,Hira Sugar Institute of Technology,"Nidasoshi, Belgaum",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,126063,----,----,0,0,0,0,0,0
+E040,Hira Sugar Institute of Technology,"Nidasoshi, Belgaum",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81603,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E041,PDA College of Engineering (Aided),"Shambhognlli, Gulbarga",CE,49326,0,0,44352,0,61094,41048,0,0,52995,0,0,41482,0,0,30596,0,43438,49896,64569,65199,0,0,0
+E041,PDA College of Engineering (Aided),"Shambhognlli, Gulbarga",EC,0,0,0,34025,0,0,31165,0,0,0,0,0,23809,0,41836,21351,30561,31772,39222,0,0,0,0,0
+E041,PDA College of Engineering (Aided),"Shambhognlli, Gulbarga",EE,0,0,0,34081,0,0,0,0,0,0,0,0,34651,0,0,20710,0,30968,46670,0,0,0,0,84035
+E041,PDA College of Engineering (Aided),"Shambhognlli, Gulbarga",IP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138157,0,0,0,0,0,0,0,0
+E041,PDA College of Engineering (Aided),"Shambhognlli, Gulbarga",ME,74685,0,0,64729,81461,129819,38320,128103,0,66923,0,0,63203,0,0,35769,0,43150,75215,0,90088,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E042,Khaja Banda Nawaz University,"KBN University Street, Khaja Colony, Gulbarga",AE,0,0,0,101464,0,0,0,0,0,0,0,0,0,0,0,53378,0,0,124998,0,0,0,0,0
+E042,Khaja Banda Nawaz University,"KBN University Street, Khaja Colony, Gulbarga",BM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138073,0,0,0,0,0,0,0,0
+E042,Khaja Banda Nawaz University,"KBN University Street, Khaja Colony, Gulbarga",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139306,0,0,0,0,0,0,0,0
+E042,Khaja Banda Nawaz University,"KBN University Street, Khaja Colony, Gulbarga",CS,0,0,0,132519,0,0,89981,0,0,0,0,0,0,0,0,85939,106320,0,136034,0,0,0,0,0
+E042,Khaja Banda Nawaz University,"KBN University Street, Khaja Colony, Gulbarga",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134176,0,0,0,0,0,0,0,0
+E042,Khaja Banda Nawaz University,"KBN University Street, Khaja Colony, Gulbarga",EI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117658,0,0,0,0,0,0,0,0
+E042,Khaja Banda Nawaz University,"KBN University Street, Khaja Colony, Gulbarga",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133764,0,0,0,0,0,0,0,0
+E042,Khaja Banda Nawaz University,"KBN University Street, Khaja Colony, Gulbarga",PE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98226,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E043,Gurunanak Dev Engineering College,"Mailoor, Bidar",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138258,0,0,0,0,0,0,0,0
+E043,Gurunanak Dev Engineering College,"Mailoor, Bidar",CS,75824,0,0,134292,0,0,86525,0,0,0,0,0,108570,0,0,68661,0,71814,133345,0,0,0,0,0
+E043,Gurunanak Dev Engineering College,"Mailoor, Bidar",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134917,0,0,0,0,0,0,0,0
+E043,Gurunanak Dev Engineering College,"Mailoor, Bidar",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140247,0,0,0,0,0,0,0,0
+E043,Gurunanak Dev Engineering College,"Mailoor, Bidar",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136170,0,0,0,0,0,0,0,0
+E043,Gurunanak Dev Engineering College,"Mailoor, Bidar",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133982,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E044,Bheemanna Khandre Institute of Technology,"Bhalki, Bidar",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140253,0,0,0,0,0,0,0,0
+E044,Bheemanna Khandre Institute of Technology,"Bhalki, Bidar",CH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,129542,0,0,0,0,0,0,0,0
+E044,Bheemanna Khandre Institute of Technology,"Bhalki, Bidar",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140363,0,0,0,0,0,0,0,0
+E044,Bheemanna Khandre Institute of Technology,"Bhalki, Bidar",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79271,0,0,0,0,0,0,0,0
+E044,Bheemanna Khandre Institute of Technology,"Bhalki, Bidar",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140222,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E045,Rao Bahadur Y.Mahabaleswarappa Engineering College,"Cantonment Bellary,Bellary",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137731,0,0,0,0,0,0,0,0
+E045,Rao Bahadur Y.Mahabaleswarappa Engineering College,"Cantonment Bellary,Bellary",CS,135241,0,0,129613,0,0,71347,0,0,92912,0,0,95847,0,0,67781,124431,133582,134000,0,0,93346,0,0
+E045,Rao Bahadur Y.Mahabaleswarappa Engineering College,"Cantonment Bellary,Bellary",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128100,0,0,0,0,0,0,0,0
+E045,Rao Bahadur Y.Mahabaleswarappa Engineering College,"Cantonment Bellary,Bellary",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137383,0,0,0,0,0,0,0,0
+E045,Rao Bahadur Y.Mahabaleswarappa Engineering College,"Cantonment Bellary,Bellary",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139379,0,0,0,0,0,0,0,0
+E045,Rao Bahadur Y.Mahabaleswarappa Engineering College,"Cantonment Bellary,Bellary",IP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E045,Rao Bahadur Y.Mahabaleswarappa Engineering College,"Cantonment Bellary,Bellary",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140734,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E046,HKEs S L N College of Engineering,"Yeramarus Camp, Raichur",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139267,0,0,0,0,0,0,0,0
+E046,HKEs S L N College of Engineering,"Yeramarus Camp, Raichur",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140060,0,0,0,0,0,0,0,0
+E046,HKEs S L N College of Engineering,"Yeramarus Camp, Raichur",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128428,0,0,0,0,0,0,0,0
+E046,HKEs S L N College of Engineering,"Yeramarus Camp, Raichur",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E047,Malnad College of Engineering,"Rangoli Halla, Hassan",AU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134314,0,0,0,0,0,0,0,0
+E047,Malnad College of Engineering,"Rangoli Halla, Hassan",CE,139940,0,0,138351,0,0,77785,0,0,41010,0,0,64144,0,0,40524,60802,58562,76400,0,118711,103652,135000,0
+E047,Malnad College of Engineering,"Rangoli Halla, Hassan",CS,36152,0,51076,27240,30688,31111,22646,0,32310,16345,0,0,18917,0,22015,14625,29634,19091,82949,121479,94964,45110,0,0
+E047,Malnad College of Engineering,"Rangoli Halla, Hassan",EC,0,0,0,31222,0,0,0,0,0,0,0,0,0,0,0,13396,20819,18123,32015,0,0,15468,0,85206
+E047,Malnad College of Engineering,"Rangoli Halla, Hassan",EE,42384,0,0,43317,0,72925,52574,0,0,42195,0,0,34178,0,0,33514,34255,48508,54919,0,93804,0,0,0
+E047,Malnad College of Engineering,"Rangoli Halla, Hassan",EI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134038,0,0,0,0,0,0,0,0
+E047,Malnad College of Engineering,"Rangoli Halla, Hassan",IE,31425,0,0,32721,0,37300,30604,0,0,21293,24944,0,22669,0,0,21152,0,23445,86598,0,0,0,0,0
+E047,Malnad College of Engineering,"Rangoli Halla, Hassan",IP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138293,0,0,0,0,0,0,0,0
+E047,Malnad College of Engineering,"Rangoli Halla, Hassan",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,129308,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E048,BMS College of Engineering," Basavanagudi,Bengaluru",BT,14052,0,0,19697,0,32333,31785,0,0,19871,0,0,14075,0,0,13533,0,29032,96847,0,0,48009,0,0
+E048,BMS College of Engineering," Basavanagudi,Bengaluru",CE,31090,0,49221,34591,44281,0,26745,0,0,22206,0,0,26636,0,0,18024,20700,28409,41475,0,70841,25285,0,75938
+E048,BMS College of Engineering," Basavanagudi,Bengaluru",CH,19563,0,0,52296,68411,0,36670,0,0,19655,0,0,35495,0,0,18652,0,30048,49049,0,96184,0,0,0
+E048,BMS College of Engineering," Basavanagudi,Bengaluru",CS,1714,0,3205,2463,4675,3777,3175,0,18586,1479,0,0,1326,0,2664,911,2376,1617,5972,28074,20415,5070,0,0
+E048,BMS College of Engineering," Basavanagudi,Bengaluru",EC,6251,0,0,4729,0,8615,3999,0,12122,3201,0,0,3224,0,0,2498,9989,5131,21569,57569,30447,15560,0,0
+E048,BMS College of Engineering," Basavanagudi,Bengaluru",EI,15765,0,0,31901,0,43361,40744,0,0,14126,0,0,23912,37750,0,11847,0,18271,79287,0,0,0,0,0
+E048,BMS College of Engineering," Basavanagudi,Bengaluru",IE,4891,0,6394,4168,8388,4588,4797,0,0,2812,0,5026,2686,0,4813,1628,5123,3445,23389,34714,37950,5362,0,0
+E048,BMS College of Engineering," Basavanagudi,Bengaluru",MD,85967,0,0,34141,0,0,38517,0,0,30352,0,0,32970,0,0,17793,0,44955,61753,0,0,42662,0,0
+E048,BMS College of Engineering," Basavanagudi,Bengaluru",ME,33214,0,0,26258,0,47444,56102,0,0,13782,0,24397,18284,0,0,12728,16668,20246,36458,0,79263,36448,0,0
+E048,BMS College of Engineering," Basavanagudi,Bengaluru",SE,6667,0,0,4710,0,13410,10667,0,0,3915,0,0,5926,0,0,3828,15124,7394,20609,0,25704,11047,0,0
+E048,BMS College of Engineering," Basavanagudi,Bengaluru",TC,0,0,0,17356,0,0,29684,0,0,7561,0,0,17375,0,0,6548,23795,26044,44868,0,75406,15247,0,68268
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E049,Basaveshwara Engineering College,Bagalkot,AU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137797,0,0,0,0,0,0,0,0
+E049,Basaveshwara Engineering College,Bagalkot,BT,0,0,0,60023,0,109956,0,0,0,0,0,0,63801,0,0,56200,0,61817,130488,0,0,0,0,0
+E049,Basaveshwara Engineering College,Bagalkot,CE,0,0,0,55484,0,0,0,0,0,0,0,0,47437,0,0,40806,48543,58865,82735,0,0,75929,0,0
+E049,Basaveshwara Engineering College,Bagalkot,CS,39808,0,0,24197,0,0,35928,0,0,32882,0,0,0,0,0,20988,0,25060,65848,0,0,0,0,59860
+E049,Basaveshwara Engineering College,Bagalkot,EC,36602,0,0,27771,0,0,40352,0,0,27077,0,49324,0,0,0,25425,26204,34320,60938,0,0,78394,0,0
+E049,Basaveshwara Engineering College,Bagalkot,EI,0,0,0,72273,0,0,133281,0,0,119799,0,0,0,0,0,64603,0,111221,0,0,0,0,0,0
+E049,Basaveshwara Engineering College,Bagalkot,IE,42679,0,0,36817,0,122840,69457,0,0,36373,77673,0,33297,0,0,32542,46975,53616,119461,0,0,96610,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E053,NMAM Institutute of Technology,"Nitte, Karkala, Udupi ",BT,0,0,0,74329,0,0,57676,0,0,59251,0,0,64664,0,0,51302,75343,104763,125033,0,0,0,0,0
+E053,NMAM Institutute of Technology,"Nitte, Karkala, Udupi ",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140158,0,0,0,0,0,0,0,0
+E053,NMAM Institutute of Technology,"Nitte, Karkala, Udupi ",CS,10628,0,0,10656,14907,13718,11739,0,0,20158,0,0,7050,0,10211,4848,8030,8519,44286,48674,111377,10069,0,0
+E053,NMAM Institutute of Technology,"Nitte, Karkala, Udupi ",EC,18847,0,0,16175,23115,29923,44610,0,0,21571,0,0,15561,0,16469,10839,18193,13228,74161,114749,120299,31814,0,64607
+E053,NMAM Institutute of Technology,"Nitte, Karkala, Udupi ",EE,0,0,0,122479,0,0,57996,0,0,74967,0,0,52665,0,0,45340,94532,130757,111333,0,0,138578,0,0
+E053,NMAM Institutute of Technology,"Nitte, Karkala, Udupi ",IE,17944,34579,20085,16850,0,19762,21290,0,28875,19311,0,24952,11960,33026,0,9189,11759,13107,76941,0,134009,23053,0,0
+E053,NMAM Institutute of Technology,"Nitte, Karkala, Udupi ",ME,0,0,0,0,0,0,128003,0,0,0,0,0,0,0,0,122207,0,0,138449,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E054,KVG College of Engineering,"Sullia, Dakshina Kannada",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E054,KVG College of Engineering,"Sullia, Dakshina Kannada",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127168,0,0,0,0,0,0,0,0
+E054,KVG College of Engineering,"Sullia, Dakshina Kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96098,0,0,0,0,0,0,0,0
+E054,KVG College of Engineering,"Sullia, Dakshina Kannada",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E054,KVG College of Engineering,"Sullia, Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133182,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E055,PA College of Engineering,"Bantwal, Dakshina Kannada",BT,0,0,0,0,0,0,104295,0,0,0,0,0,0,0,0,102823,0,0,119160,0,0,0,0,0
+E055,PA College of Engineering,"Bantwal, Dakshina Kannada",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,121301,0,0,0,0,0,0,0,0
+E055,PA College of Engineering,"Bantwal, Dakshina Kannada",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137102,0,0,0,0,0,0,0,0
+E055,PA College of Engineering,"Bantwal, Dakshina Kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127016,0,0,0,0,0,0,0,0
+E055,PA College of Engineering,"Bantwal, Dakshina Kannada",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69829,0,0,0,0,0,0,0,0
+E055,PA College of Engineering,"Bantwal, Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E056,The National Institute of Engineering,"Manandavadi Road, Mysore",CS,6124,0,9266,7170,0,17047,6738,0,0,3935,0,0,4736,0,6924,3173,7687,4560,24288,42973,54208,21463,0,0
+E056,The National Institute of Engineering,"Manandavadi Road, Mysore",EC,0,0,0,10774,0,12429,9030,0,0,6376,0,0,6456,0,0,6296,0,9409,29225,0,91775,16356,71068,0
+E056,The National Institute of Engineering,"Manandavadi Road, Mysore",EE,28917,0,0,20416,0,37229,24965,0,0,15915,0,0,14605,0,0,13391,36353,16564,41469,0,0,0,0,0
+E056,The National Institute of Engineering,"Manandavadi Road, Mysore",IE,18321,0,0,10682,0,17166,7398,0,0,6828,10747,0,6040,0,0,5723,7825,8302,38101,0,0,16238,0,30551
+E056,The National Institute of Engineering,"Manandavadi Road, Mysore",ME,36976,0,0,40918,0,44411,23280,0,0,30628,0,0,23833,0,0,20068,28237,43141,85200,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E057,JSS Science and Technology University(Formerly SJCE),"University Of Mysore Campus, Mysore",BT,0,0,0,33205,0,113298,0,0,0,0,101607,0,0,0,0,20292,0,54650,98773,129541,0,117255,0,0
+E057,JSS Science and Technology University(Formerly SJCE),"University Of Mysore Campus, Mysore",CB,13698,0,0,13667,0,0,10365,0,0,7438,0,0,4648,0,0,4480,18310,14567,79604,0,97226,0,0,0
+E057,JSS Science and Technology University(Formerly SJCE),"University Of Mysore Campus, Mysore",CE,46951,0,0,39826,0,0,28793,0,0,24733,0,0,33837,0,0,24676,79788,43853,32839,0,0,33353,0,0
+E057,JSS Science and Technology University(Formerly SJCE),"University Of Mysore Campus, Mysore",CS,7821,14757,0,5844,0,6213,4415,0,0,3643,0,0,3862,0,0,2437,6434,3876,19277,0,40527,8002,0,19440
+E057,JSS Science and Technology University(Formerly SJCE),"University Of Mysore Campus, Mysore",CT,0,0,0,114377,0,0,113663,0,0,101963,0,0,82217,0,0,62010,0,99652,90813,0,0,99198,0,0
+E057,JSS Science and Technology University(Formerly SJCE),"University Of Mysore Campus, Mysore",EC,0,0,0,10225,0,10781,6951,0,0,5189,0,0,5944,0,0,4182,6451,5425,20748,0,0,0,0,0
+E057,JSS Science and Technology University(Formerly SJCE),"University Of Mysore Campus, Mysore",IE,0,0,0,6291,0,8198,26450,0,0,5940,0,0,4521,0,0,3693,0,4657,30988,0,0,0,0,0
+E057,JSS Science and Technology University(Formerly SJCE),"University Of Mysore Campus, Mysore",ME,0,0,0,47665,0,0,,0,0,22003,0,0,23129,0,0,18061,39088,37840,105849,0,0,0,0,0
+,,,,,,,,,,,0,,,,,,,,,,,,,,,,
+E058,PES College of Engineering,"P.E.S. Engineering College Road, Mandya",AU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127148,0,0,0,0,0,0,0,0
+E058,PES College of Engineering,"P.E.S. Engineering College Road, Mandya",CE,0,0,0,57883,0,0,0,0,0,48683,0,0,0,0,0,47119,0,55247,76753,0,0,137345,0,0
+E058,PES College of Engineering,"P.E.S. Engineering College Road, Mandya",CS,38289,0,41747,28766,29821,29655,34697,0,0,20237,0,0,24884,0,37510,20050,29124,27759,44501,0,71694,25667,0,0
+E058,PES College of Engineering,"P.E.S. Engineering College Road, Mandya",EC,54539,0,0,48471,0,119219,54274,0,0,29269,0,0,30090,0,0,28169,39405,34843,51520,55475,72504,41934,0,0
+E058,PES College of Engineering,"P.E.S. Engineering College Road, Mandya",EE,0,0,0,72755,0,0,0,115557,54250,0,0,0,0,0,0,32675,0,0,54768,0,0,57253,0,0
+E058,PES College of Engineering,"P.E.S. Engineering College Road, Mandya",IE,47844,0,0,46479,0,76282,33950,0,0,28622,35412,0,29078,0,0,25420,0,31175,87069,0,0,0,0,0
+E058,PES College of Engineering,"P.E.S. Engineering College Road, Mandya",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137210,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E059,PDA College of Engineering,"Shambhognlli, Gulbarga",AU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138196,0,0,0,0,0,0,0,0
+E059,PDA College of Engineering,"Shambhognlli, Gulbarga",CE,58257,0,0,65315,0,0,0,0,0,0,0,0,62647,0,0,48737,0,43887,60349,0,86745,0,0,0
+E059,PDA College of Engineering,"Shambhognlli, Gulbarga",CR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132377,0,0,0,0,0,0,0,0
+E059,PDA College of Engineering,"Shambhognlli, Gulbarga",CS,38735,0,0,33997,0,0,0,0,0,0,0,0,30936,0,0,19413,28174,31788,48268,0,97865,0,0,0
+E059,PDA College of Engineering,"Shambhognlli, Gulbarga",EC,0,0,0,67777,98231,0,0,0,0,78594,0,0,0,0,0,37022,0,60394,99189,0,0,0,0,0
+E059,PDA College of Engineering,"Shambhognlli, Gulbarga",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36929,0,0,0,0,0,53256,0,0
+E059,PDA College of Engineering,"Shambhognlli, Gulbarga",EI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133889,0,0,0,0,0,0,0,0
+E059,PDA College of Engineering,"Shambhognlli, Gulbarga",IE,0,0,0,60139,0,0,0,0,120895,72986,0,0,0,79809,0,42289,0,0,107030,0,0,0,0,0
+E059,PDA College of Engineering,"Shambhognlli, Gulbarga",IP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140468,0,0,0,0,0,0,0,0
+E059,PDA College of Engineering,"Shambhognlli, Gulbarga",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57309,0,0,0,0,0,82665,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E060,Dr. Ambedkar Institute Of Technology,"Jnanabharathi Campus, Bengaluru",CE,54238,0,0,60593,0,0,130572,0,0,58417,0,0,0,0,0,46070,54810,65334,62985,0,0,0,0,93055
+E060,Dr. Ambedkar Institute Of Technology,"Jnanabharathi Campus, Bengaluru",CS,24428,0,0,21806,0,22788,31501,0,0,15860,0,22753,17758,0,0,15362,19267,21376,41019,76662,44593,44656,0,0
+E060,Dr. Ambedkar Institute Of Technology,"Jnanabharathi Campus, Bengaluru",EC,26849,0,0,22989,23539,32760,25105,0,0,19934,0,0,22394,0,0,18885,0,23255,43752,0,66460,28937,0,0
+E060,Dr. Ambedkar Institute Of Technology,"Jnanabharathi Campus, Bengaluru",IE,18363,0,0,26006,0,40547,33415,0,0,20233,0,0,18979,0,0,17901,0,19049,42502,0,77354,53211,73049,0
+E060,Dr. Ambedkar Institute Of Technology,"Jnanabharathi Campus, Bengaluru",MD,0,0,0,65328,0,0,0,0,0,0,0,0,0,0,0,46790,0,55203,103551,0,0,122859,0,0
+E060,Dr. Ambedkar Institute Of Technology,"Jnanabharathi Campus, Bengaluru",ME,100736,0,0,69588,0,114132,0,0,0,61230,0,0,55843,0,0,55186,0,78873,136609,0,0,86074,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E061,University B.D.T. college of Engineering,Davangere,CE,43656,0,76214,58454,0,61641,48590,0,0,47841,0,0,38297,0,0,34312,39306,43638,57813,91132,59826,44030,0,0
+E061,University B.D.T. college of Engineering,Davangere,CS,30346,0,0,27017,29403,31636,25483,0,49012,23602,0,0,22149,0,26663,20029,20315,24558,53336,55715,58092,21942,0,0
+E061,University B.D.T. college of Engineering,Davangere,EC,39398,0,0,35808,0,39217,32629,0,0,28548,0,41666,27573,43524,30638,23157,27482,30632,59729,0,72272,35200,0,0
+E061,University B.D.T. college of Engineering,Davangere,EE,30405,64471,45224,38431,0,41330,29578,0,52206,47963,0,0,32924,0,0,28058,34889,40140,44482,0,59396,30589,0,0
+E061,University B.D.T. college of Engineering,Davangere,EI,74149,0,0,119178,0,128747,99330,0,0,121631,0,0,72464,0,0,67528,68355,78622,131177,0,139115,104954,0,119414
+E061,University B.D.T. college of Engineering,Davangere,IP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140860,0,0,0,0,0,0,0,0
+E061,University B.D.T. college of Engineering,Davangere,ME,78346,0,0,67447,0,80947,103217,0,0,54248,105766,0,52171,0,78331,47092,67474,68492,88927,0,89047,74639,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E062,Bapuji Institute of Engineering and Technology,"BIET, Davanagere",BT,0,0,0,88368,0,0,0,0,0,54141,0,0,0,0,0,44212,53558,72726,79316,0,0,140067,0,0
+E062,Bapuji Institute of Engineering and Technology,"BIET, Davanagere",CE,57984,0,0,100735,0,129846,82612,0,0,51746,0,0,53025,0,63623,46132,62654,51557,73720,130744,124597,61650,0,0
+E062,Bapuji Institute of Engineering and Technology,"BIET, Davanagere",CH,0,0,0,75621,0,0,74569,0,0,0,0,0,0,0,0,42961,0,82750,131446,0,0,0,0,0
+E062,Bapuji Institute of Engineering and Technology,"BIET, Davanagere",CS,32055,0,0,24028,0,28116,20066,0,46103,33735,0,0,19320,29382,0,16752,26455,22224,60321,0,99087,21203,0,0
+E062,Bapuji Institute of Engineering and Technology,"BIET, Davanagere",EC,35616,0,0,41537,0,44970,38871,0,90278,24908,0,0,26497,0,33922,22338,23319,33278,81700,0,90774,36774,0,0
+E062,Bapuji Institute of Engineering and Technology,"BIET, Davanagere",EE,39725,0,0,47448,0,0,41122,0,0,33526,0,0,37843,0,0,31648,49417,54315,47807,0,105083,0,0,0
+E062,Bapuji Institute of Engineering and Technology,"BIET, Davanagere",EI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,126085,0,0,0,0,0,0,0,0
+E062,Bapuji Institute of Engineering and Technology,"BIET, Davanagere",IE,39134,0,0,44676,58310,68518,33617,0,0,40508,0,136644,36210,0,0,31781,33892,42840,106945,0,0,48766,0,0
+E062,Bapuji Institute of Engineering and Technology,"BIET, Davanagere",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140001,0,0,0,0,0,0,0,0
+E062,Bapuji Institute of Engineering and Technology,"BIET, Davanagere",TX,140137,0,0,140741,0,0,0,0,0,125877,0,0,118082,0,0,106159,0,106888,0,0,0,117062,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E063,SJM Institute of Technology,"Hanumantha Nagara, Chitradurga",CE,131201,0,0,0,0,0,134713,0,0,0,0,0,0,0,0,128289,0,140161,138210,0,0,0,0,0
+E063,SJM Institute of Technology,"Hanumantha Nagara, Chitradurga",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140853,0,0,0,0,0,0,0,0
+E063,SJM Institute of Technology,"Hanumantha Nagara, Chitradurga",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139028,0,0,0,0,0,0,0,0
+E063,SJM Institute of Technology,"Hanumantha Nagara, Chitradurga",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125854,0,0,0,0,0,0,0,0
+E063,SJM Institute of Technology,"Hanumantha Nagara, Chitradurga",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134740,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E064,Adhichunchanagiri Institute of Technology,"Jyothi nagara, Chikkamagaluru ",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139249,0,0,0,0,0,0,0,0
+E064,Adhichunchanagiri Institute of Technology,"Jyothi nagara, Chikkamagaluru ",CS,65242,0,0,61237,0,67556,45884,0,0,31769,0,0,29977,0,46739,29449,39503,40761,86401,0,107112,79790,0,0
+E064,Adhichunchanagiri Institute of Technology,"Jyothi nagara, Chikkamagaluru ",EC,65298,0,0,87071,0,0,88198,0,0,68930,0,0,66769,0,0,56915,58217,91805,98969,0,0,92999,0,0
+E064,Adhichunchanagiri Institute of Technology,"Jyothi nagara, Chikkamagaluru ",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131312,0,0,0,0,0,0,0,0
+E064,Adhichunchanagiri Institute of Technology,"Jyothi nagara, Chikkamagaluru ",IE,127801,0,0,65218,0,0,62076,0,0,42916,0,56709,42518,0,0,38774,41693,42639,129401,0,0,121911,0,0
+E064,Adhichunchanagiri Institute of Technology,"Jyothi nagara, Chikkamagaluru ",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138169,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E065,Jawaharlal Nehru National College of Engineering,"Navule, Shivamogga",CE,110446,0,0,135894,0,0,85215,0,0,91279,0,0,117660,0,0,84137,128502,114341,132670,0,0,114188,0,0
+E065,Jawaharlal Nehru National College of Engineering,"Navule, Shivamogga",CS,18461,0,31986,19207,43667,26675,24435,0,0,15931,0,0,16049,0,22079,15430,39089,21784,48782,0,106983,31616,0,0
+E065,Jawaharlal Nehru National College of Engineering,"Navule, Shivamogga",EC,32885,0,0,36246,0,38585,50620,0,0,36051,0,0,28017,50839,0,27089,38123,35293,56567,0,73976,37767,0,0
+E065,Jawaharlal Nehru National College of Engineering,"Navule, Shivamogga",EE,42622,0,0,51223,0,52397,101306,0,0,0,0,0,49616,0,0,36955,42567,41993,98033,0,0,57285,0,0
+E065,Jawaharlal Nehru National College of Engineering,"Navule, Shivamogga",IE,52766,0,0,37886,58545,37911,41632,0,46075,33537,0,0,32433,0,42933,29470,41390,30830,93612,137329,0,67945,0,0
+E065,Jawaharlal Nehru National College of Engineering,"Navule, Shivamogga",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138793,0,0,0,0,0,0,0,0
+E065,Jawaharlal Nehru National College of Engineering,"Navule, Shivamogga",TC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128157,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E070,Bahubali College of Engineering," Gommatanagar,Hassan",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E070,Bahubali College of Engineering," Gommatanagar,Hassan",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,107444,0,0,0,0,0,0,0,0
+E070,Bahubali College of Engineering," Gommatanagar,Hassan",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111456,0,0,0,0,0,0,0,0
+E070,Bahubali College of Engineering," Gommatanagar,Hassan",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136787,0,0,0,0,0,0,0,0
+E070,Bahubali College of Engineering," Gommatanagar,Hassan",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E071,Vidya Vardhaka College of Engineering,"Gokulam, Mysore",CE,48434,0,0,45983,0,47617,48175,0,0,42852,0,0,48942,0,0,38236,41570,46243,52904,0,87126,0,0,0
+E071,Vidya Vardhaka College of Engineering,"Gokulam, Mysore",CS,21919,0,30594,23893,24012,59582,21118,0,22550,14623,0,0,16893,0,28959,12980,13302,20047,48742,58233,96550,19078,0,0
+E071,Vidya Vardhaka College of Engineering,"Gokulam, Mysore",EC,39628,0,0,43001,86021,85289,42654,0,0,26820,0,32578,27083,0,0,24349,46724,32095,42046,72603,70100,26360,0,50499
+E071,Vidya Vardhaka College of Engineering,"Gokulam, Mysore",EE,36917,0,0,38402,0,46768,30016,0,0,28680,0,0,30612,84582,0,28025,28715,32367,54818,0,56588,0,0,0
+E071,Vidya Vardhaka College of Engineering,"Gokulam, Mysore",IE,32407,0,0,37323,0,58157,28465,0,0,23452,0,35601,24329,0,0,21902,26396,32437,64258,0,90148,22747,0,0
+E071,Vidya Vardhaka College of Engineering,"Gokulam, Mysore",ME,119427,0,120465,102443,0,135719,110120,0,0,77481,0,0,91907,0,127215,66956,94022,98761,121589,0,130312,71925,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E075,Ballari Institute of Technology and Management,"Near Allipur, Bellary",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140693,0,0,0,0,0,0,0,0
+E075,Ballari Institute of Technology and Management,"Near Allipur, Bellary",CS,78916,0,0,66469,0,0,35504,0,0,36463,0,0,45075,0,0,31801,0,50575,76193,119472,0,0,0,0
+E075,Ballari Institute of Technology and Management,"Near Allipur, Bellary",EC,96975,0,0,134294,0,0,89229,0,0,60806,0,0,77545,0,0,50866,88748,112152,139984,0,0,0,0,0
+E075,Ballari Institute of Technology and Management,"Near Allipur, Bellary",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140798,0,0,0,0,0,0,0,0
+E075,Ballari Institute of Technology and Management,"Near Allipur, Bellary",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137607,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E076,Proudadevaraya Institute of Technology,"Hosapete,Ballari",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140357,0,0,0,0,0,0,0,0
+E076,Proudadevaraya Institute of Technology,"Hosapete,Ballari",CS,0,0,0,131017,0,0,0,0,0,108856,0,0,0,0,0,89484,0,0,121451,0,0,0,0,0
+E076,Proudadevaraya Institute of Technology,"Hosapete,Ballari",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128530,0,0,0,0,0,0,0,0
+E076,Proudadevaraya Institute of Technology,"Hosapete,Ballari",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140013,0,0,0,0,0,0,0,0
+E076,Proudadevaraya Institute of Technology,"Hosapete,Ballari",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,123293,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E077,Vidya Vikas Institute of Engineering and Technology ,"Alanahally, Mysore",CE,99575,0,0,138353,0,0,103574,0,0,121187,0,0,0,0,0,99057,0,0,124197,0,0,0,0,0
+E077,Vidya Vikas Institute of Engineering and Technology ,"Alanahally, Mysore",CS,82846,0,0,58047,0,74488,54781,0,0,40058,0,0,39909,0,0,39504,0,52876,78148,0,0,0,0,0
+E077,Vidya Vikas Institute of Engineering and Technology ,"Alanahally, Mysore",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137296,0,0,0,0,0,0,0,0
+E077,Vidya Vikas Institute of Engineering and Technology ,"Alanahally, Mysore",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138691,0,0,0,0,0,0,0,0
+E077,Vidya Vikas Institute of Engineering and Technology ,"Alanahally, Mysore",IE,0,0,0,114635,0,0,95221,0,0,97310,0,0,100088,0,0,86370,90816,112737,0,0,0,140288,0,0
+E077,Vidya Vikas Institute of Engineering and Technology ,"Alanahally, Mysore",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139828,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E078,The Oxford College of Engineering,"Hosur Road, Bengaluru",AU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137887,0,0,0,0,0,0,0,0
+E078,The Oxford College of Engineering,"Hosur Road, Bengaluru",BT,0,0,0,140860,0,0,103803,0,0,102118,0,0,0,0,0,94114,0,0,114210,0,0,132978,0,0
+E078,The Oxford College of Engineering,"Hosur Road, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140671,0,0,0,0,0,0,0,0
+E078,The Oxford College of Engineering,"Hosur Road, Bengaluru",CS,36824,0,0,54312,0,82567,45495,0,0,35145,0,0,37701,0,57532,34762,37952,55480,107116,0,0,83399,0,0
+E078,The Oxford College of Engineering,"Hosur Road, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139483,0,0,0,0,0,0,0,0
+E078,The Oxford College of Engineering,"Hosur Road, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140651,0,0,0,0,0,0,0,0
+E078,The Oxford College of Engineering,"Hosur Road, Bengaluru",IE,90265,0,0,113735,0,0,81748,0,0,81158,0,0,96296,0,0,72722,0,109093,127240,0,0,132867,0,0
+E078,The Oxford College of Engineering,"Hosur Road, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140509,0,0,0,0,0,0,0,0
+E078,The Oxford College of Engineering,"Hosur Road, Bengaluru",MT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117636,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E079,Acharya Institute of Technology ,"Hessarghatta Road,Bengaluru",AE,0,0,0,27459,0,0,23706,0,0,22336,0,0,21306,0,0,19902,27835,23757,45852,0,0,23735,0,27817
+E079,Acharya Institute of Technology ,"Hessarghatta Road,Bengaluru",AU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130999,0,0,0,0,0,0,0,0
+E079,Acharya Institute of Technology ,"Hessarghatta Road,Bengaluru",BT,71489,0,0,66915,0,0,61356,0,0,59040,0,0,69311,0,0,53433,0,84250,116299,0,0,0,0,0
+E079,Acharya Institute of Technology ,"Hessarghatta Road,Bengaluru",CE,107869,0,0,139234,0,0,118930,0,0,126747,0,0,116513,0,0,92067,103053,113145,128545,0,0,116970,0,0
+E079,Acharya Institute of Technology ,"Hessarghatta Road,Bengaluru",CS,24395,0,29207,31179,34065,42341,22996,0,0,20221,0,0,18518,0,22634,17516,20742,21567,51082,0,87036,32272,0,0
+E079,Acharya Institute of Technology ,"Hessarghatta Road,Bengaluru",EC,30248,0,0,36692,0,61716,43327,0,0,24218,0,0,30703,0,34808,24061,30435,31894,136865,0,0,59469,0,0
+E079,Acharya Institute of Technology ,"Hessarghatta Road,Bengaluru",EE,46316,0,0,58595,0,61460,58613,0,0,41315,0,0,45787,61286,0,40057,46321,47370,108880,0,0,0,0,0
+E079,Acharya Institute of Technology ,"Hessarghatta Road,Bengaluru",IE,42993,57644,65655,43454,0,58218,42771,0,0,26834,0,0,26146,0,0,25062,29793,36271,112619,0,0,55404,0,0
+E079,Acharya Institute of Technology ,"Hessarghatta Road,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135949,0,0,0,0,0,0,0,0
+E079,Acharya Institute of Technology ,"Hessarghatta Road,Bengaluru",MN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132316,0,0,0,0,0,0,0,0
+E079,Acharya Institute of Technology ,"Hessarghatta Road,Bengaluru",MT,0,0,0,126370,0,0,0,0,0,56169,0,0,56758,0,0,51756,73228,119685,132354,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E081, HMS Institute of Technology ,"Kyathasandra,Tumakuru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E081, HMS Institute of Technology ,"Kyathasandra,Tumakuru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137882,0,0,0,0,0,0,0,0
+E081, HMS Institute of Technology ,"Kyathasandra,Tumakuru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E081, HMS Institute of Technology ,"Kyathasandra,Tumakuru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E081, HMS Institute of Technology ,"Kyathasandra,Tumakuru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E082,JSS Academy of Technical Education,"Dr.Vishnuvardhan Rd, Srinivapura Post, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136201,0,0,0,0,0,0,0,0
+E082,JSS Academy of Technical Education,"Dr.Vishnuvardhan Rd, Srinivapura Post, Bengaluru",CS,19108,0,26007,21269,33491,39964,22267,0,107362,15619,0,0,15266,0,27638,12633,24353,23215,71622,0,83217,33547,0,0
+E082,JSS Academy of Technical Education,"Dr.Vishnuvardhan Rd, Srinivapura Post, Bengaluru",EC,34026,0,49227,43330,0,95455,38755,0,0,22759,0,0,24344,76496,31948,21174,39700,31623,125194,0,0,59986,0,0
+E082,JSS Academy of Technical Education,"Dr.Vishnuvardhan Rd, Srinivapura Post, Bengaluru",EI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,129447,0,0,0,0,0,0,0,0
+E082,JSS Academy of Technical Education,"Dr.Vishnuvardhan Rd, Srinivapura Post, Bengaluru",IE,23275,0,0,25896,0,70071,52817,0,0,20354,45278,0,19908,0,0,16185,35974,28215,122515,0,0,80660,0,0
+E082,JSS Academy of Technical Education,"Dr.Vishnuvardhan Rd, Srinivapura Post, Bengaluru",IM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139658,0,0,0,0,0,0,0,0
+E082,JSS Academy of Technical Education,"Dr.Vishnuvardhan Rd, Srinivapura Post, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140056,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E083,HKBK College of Engineering ,"Nagavara, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89111,0,0,0,0,0,0,0,0
+E083,HKBK College of Engineering ,"Nagavara, Bengaluru",CS,95676,0,0,134700,0,0,70340,0,0,91477,0,0,93493,0,0,65286,120511,109819,133997,0,0,0,0,0
+E083,HKBK College of Engineering ,"Nagavara, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137498,0,0,0,0,0,0,0,0
+E083,HKBK College of Engineering ,"Nagavara, Bengaluru",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140521,0,0,0,0,0,0,0,0
+E083,HKBK College of Engineering ,"Nagavara, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96653,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E085,APS College of Engineering,"Somanahalli, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,121278,0,0,0,0,0,0,0,0
+E085,APS College of Engineering,"Somanahalli, Bengaluru",CS,71091,0,0,118276,0,0,93250,0,0,57572,0,0,54835,0,0,54738,0,57963,128312,0,0,0,0,0
+E085,APS College of Engineering,"Somanahalli, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135637,0,0,0,0,0,0,0,0
+E085,APS College of Engineering,"Somanahalli, Bengaluru",IE,118557,0,0,129022,0,0,0,0,0,129260,0,0,139221,0,0,116771,0,0,138299,0,0,0,0,0
+E085,APS College of Engineering,"Somanahalli, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81177,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E086,Sri Sairam College of Engineering(Formerly Shirdi Sai Engg) ,"Anekal,Bengaluru",CS,0,0,0,132371,0,0,137802,0,0,132265,0,0,126358,0,0,118874,0,0,139623,0,0,125731,0,0
+E086,Sri Sairam College of Engineering(Formerly Shirdi Sai Engg) ,"Anekal,Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133933,0,0,0,0,0,0,0,0
+E086,Sri Sairam College of Engineering(Formerly Shirdi Sai Engg) ,"Anekal,Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138378,0,0,0,0,0,0,0,0
+E086,Sri Sairam College of Engineering(Formerly Shirdi Sai Engg) ,"Anekal,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137407,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E087,Vivekananada Institute of Technology,"Kumbalagodu, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113001,0,0,0,0,0,0,0,0
+E087,Vivekananada Institute of Technology,"Kumbalagodu, Bengaluru",CS,74163,0,0,120856,0,0,80627,0,0,92083,0,0,92005,0,0,73107,112480,126565,140512,0,0,140824,0,0
+E087,Vivekananada Institute of Technology,"Kumbalagodu, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140256,0,0,0,0,0,0,0,0
+E087,Vivekananada Institute of Technology,"Kumbalagodu, Bengaluru",IE,0,0,0,138650,0,0,138184,0,0,135016,0,0,0,0,0,134338,0,0,0,0,0,0,0,0
+E087,Vivekananada Institute of Technology,"Kumbalagodu, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128578,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E088,Bangalore College of Engineering and Technology ,"Chandapura, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135976,0,0,0,0,0,0,0,0
+E088,Bangalore College of Engineering and Technology ,"Chandapura, Bengaluru",CS,0,0,0,95326,0,0,0,0,0,0,0,0,82723,0,0,77345,0,0,0,0,0,0,0,0
+E088,Bangalore College of Engineering and Technology ,"Chandapura, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98188,0,0,0,0,0,0,0,0
+E088,Bangalore College of Engineering and Technology ,"Chandapura, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103711,0,0,0,0,0,0,0,0
+E088,Bangalore College of Engineering and Technology ,"Chandapura, Bengaluru",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135714,0,0,0,0,0,0,0,0
+E088,Bangalore College of Engineering and Technology ,"Chandapura, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,101956,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E089,BTL Institute of Technology and Management,"Bommasandra Industrial Area, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E089,BTL Institute of Technology and Management,"Bommasandra Industrial Area, Bengaluru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E089,BTL Institute of Technology and Management,"Bommasandra Industrial Area, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E089,BTL Institute of Technology and Management,"Bommasandra Industrial Area, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E090,Sri Revana Siddeswara Institute of Technology,"Chikkajala,Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E090,Sri Revana Siddeswara Institute of Technology,"Chikkajala,Bengaluru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139244,0,0,0,0,0,0,0,0
+E090,Sri Revana Siddeswara Institute of Technology,"Chikkajala,Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,101123,0,0,0,0,0,0,0,0
+E090,Sri Revana Siddeswara Institute of Technology,"Chikkajala,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E091,KS Institute of Technology,"Raghuvanahalli, Bengaluru",CS,41951,0,0,53064,0,63543,60200,0,0,30853,0,0,35656,0,0,28750,32968,45776,131349,0,0,67214,0,0
+E091,KS Institute of Technology,"Raghuvanahalli, Bengaluru",EC,74217,0,0,130318,0,0,66346,0,0,64894,0,0,71236,0,0,55199,78536,77536,120749,0,0,119408,0,0
+E091,KS Institute of Technology,"Raghuvanahalli, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140881,0,----,0,0,0,0,0,
+E091,KS Institute of Technology,"Raghuvanahalli, Bengaluru",TC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117096,0,----,0,0,0,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E092,Vemana Institute of Technology ,"Koramangala, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140296,0,0,0,0,0,0,0,0
+E092,Vemana Institute of Technology ,"Koramangala, Bengaluru",CS,59635,0,0,70398,0,0,56646,0,0,44797,0,68642,67325,0,0,44447,134344,53297,121000,0,0,74650,0,0
+E092,Vemana Institute of Technology ,"Koramangala, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134565,0,0,0,0,0,0,0,0
+E092,Vemana Institute of Technology ,"Koramangala, Bengaluru",IE,103616,0,0,122435,0,0,95296,0,0,89993,0,0,140008,0,0,79881,109194,104837,125666,0,0,91569,0,0
+E092,Vemana Institute of Technology ,"Koramangala, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136116,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E093,Basavakalyana Engineering College ,"Basavakalyana, Bidar",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E093,Basavakalyana Engineering College ,"Basavakalyana, Bidar",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,121081,0,0,0,0,0,0,0,0
+E093,Basavakalyana Engineering College ,"Basavakalyana, Bidar",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88695,0,0,0,0,0,0,0,0
+E093,Basavakalyana Engineering College ,"Basavakalyana, Bidar",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E094,Coorg Institute of Technology,"Ponnampet,Kodagu",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127485,0,0,0,0,0,0,0,0
+E094,Coorg Institute of Technology,"Ponnampet,Kodagu",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136307,0,0,0,0,0,0,0,0
+E094,Coorg Institute of Technology,"Ponnampet,Kodagu",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134400,0,0,0,0,0,0,0,0
+E094,Coorg Institute of Technology,"Ponnampet,Kodagu",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E095,AMC Engineering College ,"Bannerghatta Main Rd, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135785,0,0,0,0,0,0,0,0
+E095,AMC Engineering College ,"Bannerghatta Main Rd, Bengaluru",CS,74248,0,0,90790,0,0,45654,0,115069,54639,0,0,59262,0,0,42796,90524,104594,121532,0,0,115803,0,0
+E095,AMC Engineering College ,"Bannerghatta Main Rd, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138004,0,0,0,0,0,0,0,0
+E095,AMC Engineering College ,"Bannerghatta Main Rd, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137613,0,0,0,0,0,0,0,0
+E095,AMC Engineering College ,"Bannerghatta Main Rd, Bengaluru",IE,129026,0,0,132478,0,0,109006,0,0,127413,0,0,101024,0,0,95140,128018,0,137897,0,0,0,0,0
+E095,AMC Engineering College ,"Bannerghatta Main Rd, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128918,0,0,0,0,0,0,0,0
+E095,AMC Engineering College ,"Bannerghatta Main Rd, Bengaluru",MT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137514,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E096,East Point College of Engineering and Technology,"Virgo Nagar, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139036,0,0,0,0,0,0,0,0
+E096,East Point College of Engineering and Technology,"Virgo Nagar, Bengaluru",CS,127083,0,0,83066,0,0,83479,0,0,58544,0,0,80152,0,0,58193,0,100904,124319,0,140177112169,,0,0
+E096,East Point College of Engineering and Technology,"Virgo Nagar, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136339,0,0,0,0,0,0,0,0
+E096,East Point College of Engineering and Technology,"Virgo Nagar, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66182,0,0,0,0,0,0,0,0
+E096,East Point College of Engineering and Technology,"Virgo Nagar, Bengaluru",IE,0,0,0,0,0,0,0,0,0,134555,0,0,0,0,0,120833,0,134869,129878,0,0,0,0,0
+E096,East Point College of Engineering and Technology,"Virgo Nagar, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,129313,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E097,CMR Institute of Technology,"Brookefield, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139344,0,0,0,0,0,0,0,0
+E097,CMR Institute of Technology,"Brookefield, Bengaluru",CS,29886,0,0,26880,58234,56031,21164,0,0,15762,0,0,17921,0,24604,13889,26612,24489,66795,0,140768,46548,0,0
+E097,CMR Institute of Technology,"Brookefield, Bengaluru",EC,49766,0,0,65652,0,0,54729,0,0,30747,0,0,34241,0,40962,26514,123696,40397,134780,0,0,50029,0,0
+E097,CMR Institute of Technology,"Brookefield, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135841,0,0,0,0,0,0,0,0
+E097,CMR Institute of Technology,"Brookefield, Bengaluru",IE,36642,0,64078,35589,0,73798,38857,0,0,23266,0,0,28527,67875,40959,21910,39317,36139,82106,0,0,104214,0,0
+E097,CMR Institute of Technology,"Brookefield, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137780,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E098,Atria Institute of Technology,"Hebbal, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,123351,0,0,0,0,0,0,0,0
+E098,Atria Institute of Technology,"Hebbal, Bengaluru",CS,43744,0,105862,46371,99540,50388,49306,0,0,33965,0,0,38885,0,100123,32252,52607,48588,113021,0,0,70287,0,0
+E098,Atria Institute of Technology,"Hebbal, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134402,0,0,0,0,0,0,0,0
+E098,Atria Institute of Technology,"Hebbal, Bengaluru",IE,66501,0,0,86856,0,0,56134,0,0,55582,0,0,70746,0,0,50680,0,57334,138645,0,0,127804,0,0
+E098,Atria Institute of Technology,"Hebbal, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136053,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E099,New Horizon College of Engineering ,"Kadabeesanahalli, Bengaluru",AU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137902,0,0,0,0,0,0,0,0
+E099,New Horizon College of Engineering ,"Kadabeesanahalli, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135075,0,0,0,0,0,0,0,0
+E099,New Horizon College of Engineering ,"Kadabeesanahalli, Bengaluru",CS,18836,0,0,17682,22247,35741,21412,0,0,12804,0,0,13482,0,24252,10896,17010,21090,32828,46017,61765,20832,0,0
+E099,New Horizon College of Engineering ,"Kadabeesanahalli, Bengaluru",EC,17192,58059,0,26262,0,50097,41167,0,0,17710,0,31243,18314,0,0,16761,24590,27607,54021,0,59505,24150,0,0
+E099,New Horizon College of Engineering ,"Kadabeesanahalli, Bengaluru",EE,47377,0,0,83847,0,0,54925,0,0,74615,0,0,46472,0,0,43838,105938,100682,81836,0,0,0,0,0
+E099,New Horizon College of Engineering ,"Kadabeesanahalli, Bengaluru",IE,35216,0,40869,39260,0,42457,21897,0,77947,21052,35779,0,21827,0,40472,19570,23667,28561,54043,0,66299,51178,0,0
+E099,New Horizon College of Engineering ,"Kadabeesanahalli, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140914,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E100,KNS Institute of Technology ,"Uttarahalli Hobli, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E100,KNS Institute of Technology ,"Uttarahalli Hobli, Bengaluru",CS,130375,0,0,126113,0,0,124775,0,0,126764,0,0,123791,0,0,112848,0,0,140662,0,0,128426,0,0
+E100,KNS Institute of Technology ,"Uttarahalli Hobli, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130166,0,0,0,0,0,0,0,0
+E100,KNS Institute of Technology ,"Uttarahalli Hobli, Bengaluru",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125417,0,0,0,0,0,0,0,0
+E100,KNS Institute of Technology ,"Uttarahalli Hobli, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E101,Channabasaveshwara Institute of Technology ,"Gubbi, Tumakuru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137525,0,0,0,0,0,0,0,0
+E101,Channabasaveshwara Institute of Technology ,"Gubbi, Tumakuru",CS,72687,0,0,75288,132321,93849,126970,0,0,50858,0,0,49247,0,49276,44966,55759,48090,131633,0,0,67219,0,0
+E101,Channabasaveshwara Institute of Technology ,"Gubbi, Tumakuru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136318,0,0,0,0,0,0,0,0
+E101,Channabasaveshwara Institute of Technology ,"Gubbi, Tumakuru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137185,0,0,0,0,0,0,0,0
+E101,Channabasaveshwara Institute of Technology ,"Gubbi, Tumakuru",IE,112494,0,0,122384,0,0,72874,0,0,83648,0,0,74815,0,0,64677,87746,93252,115865,0,0,0,0,0
+E101,Channabasaveshwara Institute of Technology ,"Gubbi, Tumakuru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140954,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E102,DONBOSCO Institute of Technology ,"Kumbalgodu,Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135207,0,0,0,0,0,0,0,0
+E102,DONBOSCO Institute of Technology ,"Kumbalgodu,Bengaluru",CS,56327,0,0,68856,0,132646,59562,0,0,40885,0,0,41310,0,92464,38816,103334,54970,139911,140514,0,113341,0,0
+E102,DONBOSCO Institute of Technology ,"Kumbalgodu,Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140471,0,0,0,0,0,0,0,0
+E102,DONBOSCO Institute of Technology ,"Kumbalgodu,Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134512,0,0,0,0,0,0,0,0
+E102,DONBOSCO Institute of Technology ,"Kumbalgodu,Bengaluru",IE,108933,0,0,89788,0,0,134512,0,0,77431,0,105124,73044,0,0,71453,95892,96730,0,0,0,119669,0,0
+E102,DONBOSCO Institute of Technology ,"Kumbalgodu,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139113,0,0,0,0,0,0,0,0
+E102,DONBOSCO Institute of Technology ,"Kumbalgodu,Bengaluru",TC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111987,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E103,Global Academy of Technology ,"RR Nagar, Bengaluru,",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140472,0,0,0,0,0,0,0,0
+E103,Global Academy of Technology ,"RR Nagar, Bengaluru,",CS,28314,0,40362,41249,48762,64589,52955,0,0,23917,0,0,26586,0,40877,23236,36502,37409,83336,0,0,68891,0,0
+E103,Global Academy of Technology ,"RR Nagar, Bengaluru,",EC,64114,0,72919,67984,0,0,97272,0,0,39279,0,0,41780,0,100662,38652,45669,62929,128671,0,0,77766,0,0
+E103,Global Academy of Technology ,"RR Nagar, Bengaluru,",EE,93000,0,0,0,0,0,0,0,0,108480,0,0,101751,108347,0,79919,0,0,101508,0,0,0,0,0
+E103,Global Academy of Technology ,"RR Nagar, Bengaluru,",IE,34132,70435,0,47238,0,0,92479,0,0,28882,0,0,29559,0,0,28804,69691,31994,66800,0,0,74436,0,0
+E103,Global Academy of Technology ,"RR Nagar, Bengaluru,",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139877,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E104,Nagarjuna College of Engineering and Technology,"Hyderabad highway , Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139368,0,0,0,0,0,0,0,0
+E104,Nagarjuna College of Engineering and Technology,"Hyderabad highway , Bengaluru",CS,121740,0,0,64758,0,115156,49529,0,0,51120,0,0,55917,0,84839,45706,62384,65415,121078,0,0,96037,0,0
+E104,Nagarjuna College of Engineering and Technology,"Hyderabad highway , Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138688,0,0,0,0,0,0,0,0
+E104,Nagarjuna College of Engineering and Technology,"Hyderabad highway , Bengaluru",IE,0,0,0,94734,0,0,73711,0,0,73008,0,0,97035,0,0,72302,0,98475,136321,0,0,0,0,0
+E104,Nagarjuna College of Engineering and Technology,"Hyderabad highway , Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137182,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E105,Nitte Meenakshi Institutute of Technology,"Yelahanka, Bengaluru",AE,27519,0,0,24011,0,0,35373,0,0,23142,0,0,18889,41825,0,16966,27823,25856,31786,0,0,30607,0,81614
+E105,Nitte Meenakshi Institutute of Technology,"Yelahanka, Bengaluru",CE,135747,0,0,129193,0,0,0,0,0,101628,0,0,125571,0,0,94408,133176,122236,136000,0,0,140913,0,0
+E105,Nitte Meenakshi Institutute of Technology,"Yelahanka, Bengaluru",CS,14728,0,0,15730,0,36545,16449,108039,0,11983,0,0,12624,0,15080,8938,17493,14600,55302,0,121499,44425,0,0
+E105,Nitte Meenakshi Institutute of Technology,"Yelahanka, Bengaluru",EC,17352,0,0,33307,53084,73184,24157,0,0,16759,0,0,17438,0,25511,15143,38899,21604,60036,81889,112279,32899,0,0
+E105,Nitte Meenakshi Institutute of Technology,"Yelahanka, Bengaluru",EE,48458,0,0,68777,0,109559,44189,0,0,45652,0,0,38296,0,0,37261,43771,73589,129318,0,0,83870,0,0
+E105,Nitte Meenakshi Institutute of Technology,"Yelahanka, Bengaluru",IE,18436,0,0,25454,49721,53174,21963,0,0,15877,0,0,16663,0,24335,13668,17627,20359,80534,0,123385,46504,0,0
+E105,Nitte Meenakshi Institutute of Technology,"Yelahanka, Bengaluru",ME,91107,0,0,132742,0,0,81123,0,0,82824,0,0,83088,0,0,72297,0,139815,106818,0,0,93065,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E106,East West Institute of Technology,"Yelahanka, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138591,0,0,0,0,0,0,0,0
+E106,East West Institute of Technology,"Yelahanka, Bengaluru",CS,115473,0,0,73543,0,0,85392,0,0,58394,0,0,58133,0,0,42439,133539,59641,135214,0,0,85588,0,0
+E106,East West Institute of Technology,"Yelahanka, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138110,0,0,0,0,0,0,0,0
+E106,East West Institute of Technology,"Yelahanka, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135511,0,0,0,0,0,0,0,0
+E106,East West Institute of Technology,"Yelahanka, Bengaluru",IE,118192,0,0,0,0,0,122478,0,0,127361,0,0,110873,0,0,107798,0,133776,129246,0,0,131328,0,0
+E106,East West Institute of Technology,"Yelahanka, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138381,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E107,BNM Institute of Technology,"Banashankari, Bengaluru",CS,13502,0,0,14474,0,28121,22473,0,24325,8994,0,0,14736,0,0,8653,22838,17598,57130,105557,0,65793,0,0
+E107,BNM Institute of Technology,"Banashankari, Bengaluru",EC,18218,0,31008,21455,73969,29727,20244,0,0,15595,0,0,17807,0,22107,14406,21925,21705,93452,0,0,66553,0,0
+E107,BNM Institute of Technology,"Banashankari, Bengaluru",EE,35623,0,0,59351,0,0,0,0,0,32804,0,0,36059,0,0,32230,32591,39167,111835,0,0,0,0,75469
+E107,BNM Institute of Technology,"Banashankari, Bengaluru",IE,19239,0,0,18986,0,36757,24927,0,0,14014,0,0,12494,0,0,11136,0,19645,101076,0,0,0,0,0
+E107,BNM Institute of Technology,"Banashankari, Bengaluru",ME,103863,0,0,76345,0,0,0,0,0,108776,0,0,0,0,0,66731,136022,0,96096,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E108,Saptagiri College of Engineering.,"Hesarghatta Main Rd, Bengaluru",BT,0,0,0,118060,0,0,105936,0,0,97907,0,0,102276,0,0,81783,0,118704,133220,0,0,123764,0,0
+E108,Saptagiri College of Engineering.,"Hesarghatta Main Rd, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135941,0,0,0,0,0,0,0,0
+E108,Saptagiri College of Engineering.,"Hesarghatta Main Rd, Bengaluru",CS,41675,0,71603,52707,87697,57670,66339,0,0,27262,0,0,27428,0,48896,22772,44714,37056,133362,0,0,44127,0,0
+E108,Saptagiri College of Engineering.,"Hesarghatta Main Rd, Bengaluru",EC,55223,0,0,87819,0,92278,96860,0,128116,43536,0,0,50713,0,0,42719,0,80329,132622,0,0,0,0,0
+E108,Saptagiri College of Engineering.,"Hesarghatta Main Rd, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135803,0,0,0,0,0,0,0,0
+E108,Saptagiri College of Engineering.,"Hesarghatta Main Rd, Bengaluru",IE,64905,0,0,64789,0,0,39254,0,0,41757,0,62645,38100,0,0,33373,119532,50883,107619,0,0,90367,0,0
+E108,Saptagiri College of Engineering.,"Hesarghatta Main Rd, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140892,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E109,City Engineering College,"Doddakallasandra, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E109,City Engineering College,"Doddakallasandra, Bengaluru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140697,0,0,0,0,0,0,0,0
+E109,City Engineering College,"Doddakallasandra, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134916,0,0,0,0,0,0,0,0
+E109,City Engineering College,"Doddakallasandra, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E110,Yellamma Dasappa Institute of Technology,"Kanakapura Main Road, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E110,Yellamma Dasappa Institute of Technology,"Kanakapura Main Road, Bengaluru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E110,Yellamma Dasappa Institute of Technology,"Kanakapura Main Road, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E110,Yellamma Dasappa Institute of Technology,"Kanakapura Main Road, Bengaluru",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E110,Yellamma Dasappa Institute of Technology,"Kanakapura Main Road, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E111,Sri Venkateshwara College of Engineering,"Bettahalsur(P), Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138798,0,0,0,0,0,0,0,0
+E111,Sri Venkateshwara College of Engineering,"Bettahalsur(P), Bengaluru",CS,72875,0,0,82065,0,0,57000,0,0,49826,0,0,57698,0,101891,39045,47312,54456,135534,0,0,102247,0,0
+E111,Sri Venkateshwara College of Engineering,"Bettahalsur(P), Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140431,0,0,0,0,0,0,0,0
+E111,Sri Venkateshwara College of Engineering,"Bettahalsur(P), Bengaluru",IE,76656,0,0,98848,0,0,63549,0,0,59938,0,0,81597,0,0,58783,0,64406,134905,0,0,84264,0,0
+E111,Sri Venkateshwara College of Engineering,"Bettahalsur(P), Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134755,0,0,0,0,0,0,0,0
+E111,Sri Venkateshwara College of Engineering,"Bettahalsur(P), Bengaluru",MT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136273,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E112,Sri Krishna Institute of Technology,"Chikkabanavara, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E112,Sri Krishna Institute of Technology,"Chikkabanavara, Bengaluru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139004,0,0,0,0,0,0,0,0
+E112,Sri Krishna Institute of Technology,"Chikkabanavara, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136143,0,0,0,0,0,0,0,0
+E112,Sri Krishna Institute of Technology,"Chikkabanavara, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,124380,0,0,0,0,0,0,0,0
+E112,Sri Krishna Institute of Technology,"Chikkabanavara, Bengaluru",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138383,0,0,0,0,0,0,0,0
+E112,Sri Krishna Institute of Technology,"Chikkabanavara, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E113,Sambhram Institute of Technology,"Jalahalli East, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E113,Sambhram Institute of Technology,"Jalahalli East, Bengaluru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140313,0,0,0,0,0,0,0,0
+E113,Sambhram Institute of Technology,"Jalahalli East, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138036,0,0,0,0,0,0,0,0
+E113,Sambhram Institute of Technology,"Jalahalli East, Bengaluru",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136514,0,0,0,0,0,0,0,0
+E113,Sambhram Institute of Technology,"Jalahalli East, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E114,GM Institute of Technology,Davanagere,BT,91039,0,0,94930,0,0,78606,0,0,130526,0,0,0,0,0,70307,118684,124331,133000,0,0,0,0,0
+E114,GM Institute of Technology,Davanagere,CE,0,0,0,130917,0,0,90575,0,0,68761,0,0,61819,0,0,61364,0,75853,95854,103878,0,0,0,0
+E114,GM Institute of Technology,Davanagere,CS,40650,0,0,36352,0,86603,30012,0,0,40608,0,0,32394,0,0,27455,35002,37500,95976,0,0,0,0,0
+E114,GM Institute of Technology,Davanagere,EC,42519,0,76014,58433,98982,71870,45244,0,0,41904,0,0,39250,0,70011,38823,46644,67837,120938,0,0,67944,0,0
+E114,GM Institute of Technology,Davanagere,IE,49198,0,0,54830,0,0,54471,62911,0,60271,0,0,43525,0,0,42766,53695,60099,138468,0,0,80154,0,0
+E114,GM Institute of Technology,Davanagere,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132682,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E115,SJB Institute of Technology,"Kengeri,Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132699,0,0,0,0,0,0,0,0
+E115,SJB Institute of Technology,"Kengeri,Bengaluru",CS,27371,0,27847,25903,58375,27764,39170,0,81688,17026,0,0,19575,0,30159,15554,23739,25687,94296,0,0,42642,0,0
+E115,SJB Institute of Technology,"Kengeri,Bengaluru",EC,30611,0,39927,44234,0,0,66636,0,0,23273,0,0,25674,0,43244,22971,61047,36479,75617,0,139437,75282,0,0
+E115,SJB Institute of Technology,"Kengeri,Bengaluru",EE,0,0,0,79599,0,0,58295,0,0,63269,0,0,61388,0,0,55538,123203,67961,104562,0,0,0,0,0
+E115,SJB Institute of Technology,"Kengeri,Bengaluru",IE,20877,0,0,38953,0,41820,44643,107667,0,21959,0,0,25272,0,0,20483,57284,32901,131417,0,0,89203,0,94159
+E115,SJB Institute of Technology,"Kengeri,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131696,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E116,RL Jalappa Institute of Technology,"Doddaballapur, Bangaluru Rural",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136602,0,0,0,0,0,0,0,0
+E116,RL Jalappa Institute of Technology,"Doddaballapur, Bangaluru Rural",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131820,0,0,0,0,0,0,0,0
+E116,RL Jalappa Institute of Technology,"Doddaballapur, Bangaluru Rural",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E117,Alpha College Engineering,"Kannuru,Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E117,Alpha College Engineering,"Kannuru,Bengaluru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133067,0,0,0,0,0,0,0,0
+E117,Alpha College Engineering,"Kannuru,Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E117,Alpha College Engineering,"Kannuru,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E118,RNS Institute of Technology,"RR Nagar, Bengaluru",CE,91721,0,0,134240,0,0,0,0,0,82514,0,0,98209,0,0,80294,100129,90252,121808,0,0,140773,0,0
+E118,RNS Institute of Technology,"RR Nagar, Bengaluru",CS,9776,0,0,11748,18611,29564,15998,0,0,10072,0,0,8512,0,12850,7281,11265,10890,49541,130409,74045,27841,0,0
+E118,RNS Institute of Technology,"RR Nagar, Bengaluru",EC,21471,0,33768,23149,39476,52289,31452,0,0,16687,0,0,17431,0,31734,14008,29173,29074,99651,0,0,36177,0,0
+E118,RNS Institute of Technology,"RR Nagar, Bengaluru",EE,55426,0,0,33842,0,0,33756,0,0,25808,0,107184,36882,0,0,25649,27265,38721,102591,0,0,0,0,0
+E118,RNS Institute of Technology,"RR Nagar, Bengaluru",EI,0,0,0,114062,0,0,0,0,0,135459,0,0,90749,0,0,87104,0,0,131372,0,0,0,0,0
+E118,RNS Institute of Technology,"RR Nagar, Bengaluru",IE,20765,0,0,17640,0,30236,37182,0,90084,13351,0,0,14613,0,22192,11317,21921,18145,129140,0,0,67553,0,0
+E118,RNS Institute of Technology,"RR Nagar, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140864,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E119,KCT Engineering College,"Roza,Gulbarga",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137749,0,0,0,0,0,0,0,0
+E119,KCT Engineering College,"Roza,Gulbarga",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140015,0,0,0,0,0,0,0,0
+E119,KCT Engineering College,"Roza,Gulbarga",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137638,0,0,0,0,0,0,0,0
+E119,KCT Engineering College,"Roza,Gulbarga",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134034,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E120,Jnanavikasa Institute of Technology,Ramanagar,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E120,Jnanavikasa Institute of Technology,Ramanagar,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136462,0,0,0,0,0,0,0,0
+E120,Jnanavikasa Institute of Technology,Ramanagar,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E120,Jnanavikasa Institute of Technology,Ramanagar,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E121,Vivekananada College of Engineering Technology,Dakshina Kannada,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128140,0,0,0,0,0,0,0,0
+E121,Vivekananada College of Engineering Technology,Dakshina Kannada,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135771,0,0,0,0,0,0,0,0
+E121,Vivekananada College of Engineering Technology,Dakshina Kannada,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138082,0,0,0,0,0,0,0,0
+E121,Vivekananada College of Engineering Technology,Dakshina Kannada,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,129775,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E123,Canara Engineering College,"Bantwal,Dakshina kannada",CS,59010,0,0,64507,0,86612,94001,0,0,43420,0,0,47172,0,0,38938,55500,53627,0,0,0,51237,0,0
+E123,Canara Engineering College,"Bantwal,Dakshina kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,123499,0,0,0,0,0,0,0,0
+E123,Canara Engineering College,"Bantwal,Dakshina kannada",IE,0,0,0,139958,0,0,0,0,0,101503,0,0,79043,0,0,78277,0,97165,0,0,0,0,0,0
+E123,Canara Engineering College,"Bantwal,Dakshina kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E123,Canara Engineering College,"Bantwal,Dakshina kannada",BM,109015,0,0,86229,0,0,108523,0,0,81213,0,0,116230,0,0,74001,114289,0,116426,0,0,0,0,0
+E123,Canara Engineering College,"Bantwal,Dakshina kannada",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132188,0,0,0,0,0,0,0,0
+E123,Canara Engineering College,"Bantwal,Dakshina kannada",CS,0,0,0,135275,0,0,121978,0,0,122317,0,0,128501,0,0,120184,0,0,125245,0,0,0,0,0
+E123,Canara Engineering College,"Bantwal,Dakshina kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,123887,0,0,0,0,0,0,0,0
+E123,Canara Engineering College,"Bantwal,Dakshina kannada",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134013,0,0,0,0,0,0,0,0
+E123,Canara Engineering College,"Bantwal,Dakshina kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E124,Rajiv Gandhi Institute of Technology,"R.T Nagar Post, Bengaluru",BM,109015,0,0,86229,0,0,108523,0,0,81213,0,0,116230,0,0,74001,114289,0,116426,0,0,0,0,0
+E124,Rajiv Gandhi Institute of Technology,"R.T Nagar Post, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132188,0,0,0,0,0,0,0,0
+E124,Rajiv Gandhi Institute of Technology,"R.T Nagar Post, Bengaluru",CS,0,0,0,135275,0,0,121978,0,0,122317,0,0,128501,0,0,120184,0,0,125245,0,0,0,0,0
+E124,Rajiv Gandhi Institute of Technology,"R.T Nagar Post, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,123887,0,0,0,0,0,0,0,0
+E124,Rajiv Gandhi Institute of Technology,"R.T Nagar Post, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134013,0,0,0,0,0,0,0,0
+,,,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E126,BMS Institute of Technology and Management,"Yelahanka,Bengaluru",AI,0,0,0,11460,0,24099,12062,0,0,9433,0,0,12383,0,0,7675,13783,15531,46761,0,63130,48276,0,0
+E126,BMS Institute of Technology and Management,"Yelahanka,Bengaluru",CE,34346,0,0,70328,0,0,126554,0,0,53655,0,0,36034,0,0,33361,0,56731,61194,0,0,0,0,95760
+E126,BMS Institute of Technology and Management,"Yelahanka,Bengaluru",CS,11885,0,24829,12208,13702,14754,16075,0,22251,7148,0,0,11586,0,14982,6867,13189,12770,33631,69554,42827,26147,0,0
+E126,BMS Institute of Technology and Management,"Yelahanka,Bengaluru",EC,14792,0,0,22014,24016,30211,17990,0,27585,14160,0,19653,15766,0,0,13027,15930,19487,43105,81103,128424,43629,0,73729
+E126,BMS Institute of Technology and Management,"Yelahanka,Bengaluru",EE,27613,0,0,31211,0,46958,30553,0,0,23756,0,0,26614,0,0,21883,40185,31479,50283,0,73997,0,0,0
+E126,BMS Institute of Technology and Management,"Yelahanka,Bengaluru",IE,19568,37869,58120,25217,0,50582,13268,0,0,15433,0,0,15074,22196,20905,11558,17081,20399,53689,0,90135,41477,0,0
+E126,BMS Institute of Technology and Management,"Yelahanka,Bengaluru",ME,41139,0,0,67024,0,0,42215,0,0,32168,0,0,41143,0,0,25868,47750,44399,61651,0,85236,0,0,0
+E126,BMS Institute of Technology and Management,"Yelahanka,Bengaluru",TC,58093,0,0,41179,0,0,0,0,0,42728,0,49708,33114,0,0,32619,0,43657,76792,0,0,96150,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E127,MS Engineering College,"Off Bengaluru International Airport, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E127,MS Engineering College,"Off Bengaluru International Airport, Bengaluru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131770,0,0,0,0,0,0,0,0
+E127,MS Engineering College,"Off Bengaluru International Airport, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115131,0,0,0,0,0,0,0,0
+E127,MS Engineering College,"Off Bengaluru International Airport, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E127,MS Engineering College,"Off Bengaluru International Airport, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79131,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E128,Sharnbasva University(Formerly Appa Inst. of Tech.),"Brahmpur, Gulbarga",CE,116383,0,0,139209,0,0,87201,0,0,0,0,0,108719,136913,0,77372,0,108832,137193,0,0,0,0,0
+E128,Sharnbasva University(Formerly Appa Inst. of Tech.),"Brahmpur, Gulbarga",CS,126799,0,0,105113,0,0,56289,0,0,110089,0,0,0,0,0,42409,66834,86201,97208,0,0,0,0,0
+E128,Sharnbasva University(Formerly Appa Inst. of Tech.),"Brahmpur, Gulbarga",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139235,0,0,0,0,0,0,0,0
+E128,Sharnbasva University(Formerly Appa Inst. of Tech.),"Brahmpur, Gulbarga",EE,0,0,0,99447,0,0,0,0,0,0,0,0,0,0,0,58587,0,0,74536,0,0,87502,0,0
+E128,Sharnbasva University(Formerly Appa Inst. of Tech.),"Brahmpur, Gulbarga",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134877,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E129,St. Joseph Engineering College,"Mangalore, Dakshina Kannada",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135826,0,0,0,0,0,0,0,0
+E129,St. Joseph Engineering College,"Mangalore, Dakshina Kannada",CS,39944,0,0,29314,111289,51666,19517,0,0,32538,0,0,23571,0,28511,18207,20336,24900,112721,0,0,58725,0,0
+E129,St. Joseph Engineering College,"Mangalore, Dakshina Kannada",EC,60035,0,0,61693,0,105545,39825,0,0,71473,0,0,50589,0,0,37254,0,54189,0,0,0,0,0,0
+E129,St. Joseph Engineering College,"Mangalore, Dakshina Kannada",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110853,0,0,0,0,0,0,0,0
+E129,St. Joseph Engineering College,"Mangalore, Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140178,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E130,Shridevi Institute of Engineering and Technology,Tumkur,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,124083,0,0,0,0,0,0,0,0
+E130,Shridevi Institute of Engineering and Technology,Tumkur,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139313,0,0,0,0,0,0,0,0
+E130,Shridevi Institute of Engineering and Technology,Tumkur,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139059,0,0,0,0,0,0,0,0
+E130,Shridevi Institute of Engineering and Technology,Tumkur,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E130,Shridevi Institute of Engineering and Technology,Tumkur,IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134077,0,0,0,0,0,0,0,0
+E130,Shridevi Institute of Engineering and Technology,Tumkur,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E132,Secab Institute of Engineering and Technology,Bijapur,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140149,0,0,0,0,0,0,0,0
+E132,Secab Institute of Engineering and Technology,Bijapur,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140131,0,0,0,0,0,0,0,0
+E132,Secab Institute of Engineering and Technology,Bijapur,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130046,0,0,0,0,0,0,0,0
+E132,Secab Institute of Engineering and Technology,Bijapur,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120735,0,0,0,0,0,0,0,0
+E132,Secab Institute of Engineering and Technology,Bijapur,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140353,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E133,GSSS Institute of Engineering and Technology for Women,Mysore,CS,24968,0,0,45510,0,62731,32036,0,0,29040,0,0,30544,0,0,24860,28816,31872,78468,122773,99638,58159,0,0
+E133,GSSS Institute of Engineering and Technology for Women,Mysore,EC,135092,0,0,135370,0,0,109277,0,0,101104,0,0,129488,0,0,85852,0,126813,135796,0,0,89877,0,0
+E133,GSSS Institute of Engineering and Technology for Women,Mysore,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138200,0,0,0,0,0,0,0,0
+E133,GSSS Institute of Engineering and Technology for Women,Mysore,EI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,123468,0,0,0,0,0,0,0,0
+E133,GSSS Institute of Engineering and Technology for Women,Mysore,IE,0,0,0,80471,0,0,56322,0,0,56371,81355,0,0,0,0,42253,0,69793,82920,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E134,Smt. Kamala and Sri Venkappa M.Agadi College of Engg. and Tech.,"Laxmeshwara, Gadag ",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125711,0,0,0,0,0,0,0,0
+E134,Smt. Kamala and Sri Venkappa M.Agadi College of Engg. and Tech.,"Laxmeshwara, Gadag ",CS,0,0,0,109588,0,0,80039,0,0,0,0,0,48539,0,0,45242,0,63329,130539,0,0,80132,0,0
+E134,Smt. Kamala and Sri Venkappa M.Agadi College of Engg. and Tech.,"Laxmeshwara, Gadag ",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136794,0,0,0,0,0,0,0,0
+E134,Smt. Kamala and Sri Venkappa M.Agadi College of Engg. and Tech.,"Laxmeshwara, Gadag ",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135740,0,0,0,0,0,0,0,0
+E134,Smt. Kamala and Sri Venkappa M.Agadi College of Engg. and Tech.,"Laxmeshwara, Gadag ",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,118621,0,0,0,0,0,0,0,0
+E134,Smt. Kamala and Sri Venkappa M.Agadi College of Engg. and Tech.,"Laxmeshwara, Gadag ",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134174,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E135,KLS Viswanathrao Deshpande Institute of Technology,"Haliyal, Uttara Kannada",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140620,0,0,0,0,0,0,0,0
+E135,KLS Viswanathrao Deshpande Institute of Technology,"Haliyal, Uttara Kannada",CS,0,0,0,136119,0,0,67395,0,0,0,0,0,81653,0,0,66567,0,72832,124859,0,0,0,0,0
+E135,KLS Viswanathrao Deshpande Institute of Technology,"Haliyal, Uttara Kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136601,0,0,0,0,0,0,0,0
+E135,KLS Viswanathrao Deshpande Institute of Technology,"Haliyal, Uttara Kannada",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138676,0,0,0,0,0,0,0,0
+E135,KLS Viswanathrao Deshpande Institute of Technology,"Haliyal, Uttara Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139355,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E136,Moodalakatte Institute of Technology,Udupi,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E136,Moodalakatte Institute of Technology,Udupi,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,123804,0,0,0,0,0,0,0,0
+E136,Moodalakatte Institute of Technology,Udupi,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27833,0,0,0,0,0,0,0,0
+E136,Moodalakatte Institute of Technology,Udupi,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E136,Moodalakatte Institute of Technology,Udupi,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E139,Impact College of Engineering and Applied Sciences,"Sahakara Nagar, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E139,Impact College of Engineering and Applied Sciences,"Sahakara Nagar, Bengaluru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117805,0,0,0,0,0,0,0,0
+E139,Impact College of Engineering and Applied Sciences,"Sahakara Nagar, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E139,Impact College of Engineering and Applied Sciences,"Sahakara Nagar, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E139,Impact College of Engineering and Applied Sciences,"Sahakara Nagar, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E141,PES University,"Electronic city,Bengaluru",CS,13206,43885,49053,13032,28950,35801,21068,0,31533,8195,0,12566,7953,34982,14043,4557,19657,8354,33584,55686,107574,27044,0,28799
+E141,PES University,"Electronic city,Bengaluru",EC,24430,0,0,14337,19062,34818,14842,0,0,11331,0,0,11156,0,19271,6750,18382,14415,67889,0,112568,36328,0,0
+E141,PES University,"Electronic city,Bengaluru",ME,42162,0,0,32731,0,0,55133,0,0,27596,0,0,36258,0,0,17181,68150,29319,51206,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E142,Adichunchanagiri University(Formerly BGSIT),"Nagamangala ,Mandya ",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134001,0,0,0,0,0,0,0,0
+E142,Adichunchanagiri University(Formerly BGSIT),"Nagamangala ,Mandya ",CS,79940,0,0,109658,0,0,63257,0,0,50964,0,0,56190,0,0,49774,95259,55564,139884,0,0,90683,0,0
+E142,Adichunchanagiri University(Formerly BGSIT),"Nagamangala ,Mandya ",EC,88691,0,0,132372,0,0,126423,0,0,83677,0,0,0,0,0,77239,0,116361,127978,0,0,0,0,0
+E142,Adichunchanagiri University(Formerly BGSIT),"Nagamangala ,Mandya ",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133790,0,0,0,0,0,0,0,0
+E142,Adichunchanagiri University(Formerly BGSIT),"Nagamangala ,Mandya ",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134420,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E144,Srinivas Institute of Technology,"Mangalore, Dakshina Kannada",AE,82936,0,0,76113,0,89894,87039,0,0,85524,0,0,66274,0,0,64869,74276,82279 1,33897,0,0,0,0,0
+E144,Srinivas Institute of Technology,"Mangalore, Dakshina Kannada",AU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,104399,0,0,0,0,0,0,0,0
+E144,Srinivas Institute of Technology,"Mangalore, Dakshina Kannada",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139757,0,0,0,0,0,0,0,0
+E144,Srinivas Institute of Technology,"Mangalore, Dakshina Kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,122693,0,0,0,0,0,0,0,0
+E144,Srinivas Institute of Technology,"Mangalore, Dakshina Kannada",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,123833,0,0,0,0,0,0,0,0
+E144,Srinivas Institute of Technology,"Mangalore, Dakshina Kannada",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132212,0,0,0,0,0,0,0,0
+E144,Srinivas Institute of Technology,"Mangalore, Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E144,Srinivas Institute of Technology,"Mangalore, Dakshina Kannada",MR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127432,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E145,Rajarajeswari College of Engineering,"Kumbalagodu, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140559,0,0,0,0,0,0,0,0
+E145,Rajarajeswari College of Engineering,"Kumbalagodu, Bengaluru",CS,68990,0,0,83623,0,0,86019,0,0,52918,0,0,53714,0,123040,48887,118105,61802,140135,0,0,91505,0,0
+E145,Rajarajeswari College of Engineering,"Kumbalagodu, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138413,0,----,0,0,0,0,0,0
+E145,Rajarajeswari College of Engineering,"Kumbalagodu, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136730,0,----,0,0,0,0,0,0
+E145,Rajarajeswari College of Engineering,"Kumbalagodu, Bengaluru",IE,79853,0,0,110277,0,0,99516,0,0,78333,0,0,78405,0,0,73442,0,119346,130283,0,0,0,0,0
+E145,Rajarajeswari College of Engineering,"Kumbalagodu, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E146,Shreedevi Institute of Technology,"Kenjar, Mangalore, Dakshina Kannada",AE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133498,0,0,0,0,0,0,0,0
+E146,Shreedevi Institute of Technology,"Kenjar, Mangalore, Dakshina Kannada",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,119673,0,0,0,0,0,0,0,0
+E146,Shreedevi Institute of Technology,"Kenjar, Mangalore, Dakshina Kannada",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,126477,0,0,0,0,0,0,0,0
+E146,Shreedevi Institute of Technology,"Kenjar, Mangalore, Dakshina Kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57834,0,0,0,0,0,0,0,0
+E146,Shreedevi Institute of Technology,"Kenjar, Mangalore, Dakshina Kannada",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135705,0,0,0,0,0,0,0,0
+E146,Shreedevi Institute of Technology,"Kenjar, Mangalore, Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E147,T.John Engineering College,"Bannerghatta Main Rd, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E147,T.John Engineering College,"Bannerghatta Main Rd, Bengaluru",CS,0,0,0,138451,0,0,122152,0,0,139018,0,0,113605,0,0,111433,0,0,134750,0,0,0,0,0
+E147,T.John Engineering College,"Bannerghatta Main Rd, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134443,0,0,0,0,0,0,0,0
+E147,T.John Engineering College,"Bannerghatta Main Rd, Bengaluru",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139147,0,0,0,0,0,0,0,0
+E147,T.John Engineering College,"Bannerghatta Main Rd, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117597,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E149,Cambridge Institutute of Technology,"Chikkabasavanapura, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127728,0,0,0,0,0,0,0,0
+E149,Cambridge Institutute of Technology,"Chikkabasavanapura, Bengaluru",CS,40585,0,76098,43789,49810,74769,40577,0,0,34125,0,0,37826,0,68994,30146,38975,43776,110851,137622,0,100149,0,0
+E149,Cambridge Institutute of Technology,"Chikkabasavanapura, Bengaluru",EC,80073,0,0,125874,0,0,62546,0,0,82578,0,113577,65162,0,0,53220,0,98501,133597,0,0,126932,0,0
+E149,Cambridge Institutute of Technology,"Chikkabasavanapura, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139049,0,0,0,0,0,0,0,0
+E149,Cambridge Institutute of Technology,"Chikkabasavanapura, Bengaluru",IE,69870,0,0,65517,0,83713,62374,0,0,44747,0,0,53667,0,0,43729,52076,61683,132051,0,0,136323,0,0
+E149,Cambridge Institutute of Technology,"Chikkabasavanapura, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138282,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E150,P E S Institute of Technology and Management,Shimoga,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136861,0,0,0,0,0,0,0,0
+E150,P E S Institute of Technology and Management,Shimoga,CS,45336,0,0,49193,0,0,39101,0,0,57614,0,78066,37058,0,0,33940,77636,66449,110306,0,123717,85540,0,0
+E150,P E S Institute of Technology and Management,Shimoga,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139901,0,0,0,0,0,0,0,0
+E150,P E S Institute of Technology and Management,Shimoga,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136872,0,0,0,0,0,0,0,0
+E150,P E S Institute of Technology and Management,Shimoga,IE,53098,0,0,94450,0,0,59718,0,0,118903,0,0,54227,0,0,51833,79849,66059,138240,0,0,0,0,0
+E150,P E S Institute of Technology and Management,Shimoga,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138886,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E151,"Mangalore, Dakshina Kannada Institute of Technology and Engineering","Mangalore, Dakshina Kannada",AE,0,0,0,71354,0,86344,59361,0,0,75521,0,0,49179,0,0,42568,53090,67487,92653,0,129346,0,0,0
+E151,Mangalore Institute of Technology and Engineering,"Mangalore,Dakshina Kannada",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136394,0,0,0,0,0,0,0,0
+E151,Mangalore Institute of Technology and Engineering,"Mangalore,Dakshina Kannada",CS,33340,0,0,52152,60682,136733,43970,0,0,59286,0,0,35574,0,38270,27501,29277,33454,118610,0,0,116366,0,0
+E151,Mangalore Institute of Technology and Engineering,"Mangalore,Dakshina Kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115164,0,0,0,0,0,0,0,0
+E151,Mangalore Institute of Technology and Engineering,"Mangalore,Dakshina Kannada",IE,69106,0,0,60875,0,0,56575,0,0,76002,0,0,43530,0,0,38329,75989,43804,0,0,0,0,0,0
+E151,Mangalore Institute of Technology and Engineering,"Mangalore,Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130577,0,0,0,0,0,0,0,0
+E151,Mangalore Institute of Technology and Engineering,"Mangalore,Dakshina Kannada",MT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111884,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E152,S D M Institute of Tech,"Ujire,Dakshina Kannada",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140760,0,0,0,0,0,0,0,0
+E152,S D M Institute of Tech,"Ujire,Dakshina Kannada",CS,0,0,0,132405,0,0,109621,0,0,91332,0,0,127768,0,0,87622,127808,107840,121000,0,0,135139,0,0
+E152,S D M Institute of Tech,"Ujire,Dakshina Kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132491,0,0,0,0,0,0,0,0
+E152,S D M Institute of Tech,"Ujire,Dakshina Kannada",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137438,0,0,0,0,0,0,0,0
+E152,S D M Institute of Tech,"Ujire,Dakshina Kannada",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133648,0,0,0,0,0,0,0,0
+E152,S D M Institute of Tech,"Ujire,Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130852,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E153,S E A College of Engineering and Technology,"K R puram,Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E153,S E A College of Engineering and Technology,"K R puram,Bengaluru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139748,0,0,0,0,0,0,0,0
+E153,S E A College of Engineering and Technology,"K R puram,Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131005,0,0,0,0,0,0,0,0
+E153,S E A College of Engineering and Technology,"K R puram,Bengaluru",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136884,0,0,0,0,0,0,0,0
+E153,S E A College of Engineering and Technology,"K R puram,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E154,Government Engineering College,Chamarajanagara,CE,93440,0,111025,100100,0,113899,85090,0,0,103136,0,0,100389,0,103403,80959,98196,84396,105190,134911,110065,85059,0,0
+E154,Government Engineering College,Chamarajanagara,CS,86072,0,0,89870,0,124413,140097,0,0,86760,0,0,71371,0,80691,54749,59500,72774,105912,0,110968,100498,0,0
+E154,Government Engineering College,Chamarajanagara,EC,92343,0,0,135496,0,0,140430,0,0,93172,0,113891,108016,0,0,83008,83181,99657,128707,137886,0,124194,0,0
+E154,Government Engineering College,Chamarajanagara,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139127,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E155,Government Engineering College,Hassan,CE,70074,0,138657,60425,65907,60930,89170,0,0,38445,0,0,49510,0,57162,38347,52065,50899,77907,0,90669,77259,0,0
+E155,Government Engineering College,Hassan,CS,39541,0,0,41468,0,43987,48340,0,83080,26938,0,0,35751,37084,39315,26873,31261,35972,93375,0,121792,36061,0,0
+E155,Government Engineering College,Hassan,EC,48239,54507,0,34071,0,42597,57952,0,0,28645,0,38616,31524,0,0,26017,28828,30126,58126,0,79748,55814,0,97536
+E155,Government Engineering College,Hassan,ME,120220,0,0,122054,0,0,64643,0,0,57608,0,0,76510,0,0,54825,55696,68948,137957,0,0,86283,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E156,Government Engineering College,"K R Pet, Mandya",CE,93996,0,0,131995,0,0,117713,0,0,87490,0,102649,98059,0,0,84674,88854,99625,100427,0,132709,89167,0,0
+E156,Government Engineering College,"K R Pet, Mandya",CS,73718,0,109515,91460,0,115535,118683,0,0,45650,0,0,51154,126056,77568,40810,43463,54616,76048,0,79924,106909,0,0
+E156,Government Engineering College,"K R Pet, Mandya",EC,70632,109622,0,112843,0,0,134919,0,0,58143,0,0,61398,0,0,53505,55683,67262,118543,0,0,84004,0,105141
+E156,Government Engineering College,"K R Pet, Mandya",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140908,0,----,,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E157,Government Engineering College,Ramanagara,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138727,0,0,0,0,0,0,0,0
+E157,Government Engineering College,Ramanagara,CS,118820,0,0,115767,0,125126,111108,0,134818,69475,0,0,81806,137225,96839,61581,105882,79132,140849,0,0,124124,0,0
+E157,Government Engineering College,Ramanagara,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137770,0,0,0,0,0,0,0,0
+E157,Government Engineering College,Ramanagara,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132893,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E158,Maharaja Institute of Technology-Mysore,"Belawadi, Mandya",CE,0,0,0,0,0,0,137304,0,0,129273,0,0,121408,0,0,121037,0,0,139330,0,0,134277,0,0
+E158,Maharaja Institute of Technology-Mysore,"Belawadi, Mandya",CS,106305,0,0,66301,0,0,45586,0,0,46242,0,0,52798,0,134641,43554,61122,77742,137415,0,0,68339,0,0
+E158,Maharaja Institute of Technology-Mysore,"Belawadi, Mandya",EC,78648,0,0,119465,0,0,130074,0,0,85001,0,0,94828,0,0,73519,119602,128177,118000,0,0,134778,0,0
+E158,Maharaja Institute of Technology-Mysore,"Belawadi, Mandya",IE,102093,0,0,140035,0,0,120558,0,0,105650,0,0,110906,0,0,96279,0,128004,138838,0,0,138399,0,0
+E158,Maharaja Institute of Technology-Mysore,"Belawadi, Mandya",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139839,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E159,Karavali Institute of Technology,"Mangalore, Dakshina Kannada",AE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138806,0,0,0,0,0,0,0,0
+E159,Karavali Institute of Technology,"Mangalore, Dakshina Kannada",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E159,Karavali Institute of Technology,"Mangalore, Dakshina Kannada",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138928,0,0,0,0,0,0,0,0
+E159,Karavali Institute of Technology,"Mangalore, Dakshina Kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139904,0,0,0,0,0,0,0,0
+E159,Karavali Institute of Technology,"Mangalore, Dakshina Kannada",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E159,Karavali Institute of Technology,"Mangalore, Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E160,Sahyadri College of Engg. and Management,"Mangalore, Dakshina Kannada",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140617,0,0,0,0,0,0,0,0
+E160,Sahyadri College of Engg. and Management,"Mangalore, Dakshina Kannada",CS,27330,0,34711,25275,38512,42026,18834,0,31488,33826,0,0,22355,0,23424,16650,19084,21553,133457,0,0,69505,0,0
+E160,Sahyadri College of Engg. and Management,"Mangalore, Dakshina Kannada",EC,46326,0,0,40086,0,50261,39331,0,62285,39252,0,68692,36268,0,0,28874,64012,37859,134296,0,0,39448,0,0
+E160,Sahyadri College of Engg. and Management,"Mangalore, Dakshina Kannada",IE,37232,0,0,29453,0,44488,25849,0,0,32086,0,0,32606,0,0,22841,32599,31963,0,0,0,121204,0,0
+E160,Sahyadri College of Engg. and Management,"Mangalore, Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140749,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E161,Government Engineering College,Kodagu,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136604,0,0,0,0,0,0,0,0
+E161,Government Engineering College,Kodagu,CS,0,0,0,130326,0,0,0,0,0,83055,0,0,98607,120119,114467,80102,86577,108989,132035,0,0,107207,0,0
+E161,Government Engineering College,Kodagu,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138364,0,0,0,0,0,0,0,0
+E161,Government Engineering College,Kodagu,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137600,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E162,Government Engineering College,Raichur,CE,0,0,0,0,0,0,0,0,0,0,0,0,118571,0,0,113998,134373,122192,0,0,0,0,0,0
+E162,Government Engineering College,Raichur,CS,0,0,0,121937,124979,0,0,0,0,105136,0,0,84450,0,0,59497,0,85585,136917,0,137512,0,0,0
+E162,Government Engineering College,Raichur,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139892,0,0,0,0,0,0,0,0
+E162,Government Engineering College,Raichur,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139695,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E163,Government Engineering College,"Devagiri,Haveri",CE,136626,0,0,131966,133628,0,82624,0,0,0,0,0,84317,0,97987,76806,80052,92658,100358,0,137924,98669,0,0
+E163,Government Engineering College,"Devagiri,Haveri",CS,114862,0,0,88888,0,107689,89053,0,102431,114420,0,0,78152,92305,92366,61707,72597,85661,124104,0,0,69093,0,0
+E163,Government Engineering College,"Devagiri,Haveri",EC,13736,137976,0,125056,135099,0,140869,0,0,0,0,0,98538,0,0,74424,75130,97685,118280,0,0,77729,0,125784
+E163,Government Engineering College,"Devagiri,Haveri",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140021,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E164,Government Engineering College,Bellary,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131344,0,0,0,0,0,0,0,0
+E164,Government Engineering College,Bellary,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139928,0,0,0,0,0,0,0,0
+E164,Government Engineering College,Bellary,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140461,0,0,0,0,0,0,0,0
+E164,Government Engineering College,Bellary,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139961,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E165,Yenepoya Institute of Technology,"Thodar, Moodbidri, Dakshina Kannada",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,123098,0,0,0,0,0,0,0,0
+E165,Yenepoya Institute of Technology,"Thodar, Moodbidri, Dakshina Kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136421,0,0,0,0,0,0,0,0
+E165,Yenepoya Institute of Technology,"Thodar, Moodbidri, Dakshina Kannada",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,121282,0,0,0,0,0,0,0,0
+E165,Yenepoya Institute of Technology,"Thodar, Moodbidri, Dakshina Kannada",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131362,0,0,0,0,0,0,0,0
+E165,Yenepoya Institute of Technology,"Thodar, Moodbidri, Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103289,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E166,K L E Institute of Technology,Hubli,CE,92410,0,0,81678,0,0,73953,0,0,79501,0,0,66741,0,0,66203,73404,108422,111975,0,120632,0,0,0
+E166,K L E Institute of Technology,Hubli,CS,28463,0,46400,27893,30439,48572,29803,0,0,38300,0,0,25125,0,46829,24092,27723,44056,66461,0,129634,81098,0,0
+E166,K L E Institute of Technology,Hubli,EC,36947,0,0,39019,40949,44640,38262,0,94489,53436,0,0,38868,0,0,36467,36906,42737,85083,0,0,76424,0,0
+E166,K L E Institute of Technology,Hubli,EE,112914,0,0,79916,0,0,91366,0,0,62288,0,88571,57370,0,0,53140,59304,60287,73354,0,0,88816,0,0
+E166,K L E Institute of Technology,Hubli,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140658,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E167,K L E Ss K L E College of Engineering and Technology,"Chikkodi, Belgaum",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135991,0,0,0,0,0,0,0,0
+E167,K L E Ss K L E College of Engineering and Technology,"Chikkodi, Belgaum",CS,0,0,0,136954,0,0,136867,0,0,0,0,0,93456,0,0,89066,90789,131632,130259,0,0,0,0,0
+E167,K L E Ss K L E College of Engineering and Technology,"Chikkodi, Belgaum",EC,0,0,0,132037,0,0,134574,0,0,131289,0,0,104123,0,0,103684,109428,111568,109861,0,0,0,0,0
+E167,K L E Ss K L E College of Engineering and Technology,"Chikkodi, Belgaum",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132144,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E168,Amrutha Institute of Engineering and Mangement,"Bidadi,Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E168,Amrutha Institute of Engineering and Mangement,"Bidadi,Bengaluru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136584,0,0,0,0,0,0,0,0
+E168,Amrutha Institute of Engineering and Mangement,"Bidadi,Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99207,0,0,0,0,0,0,0,0
+E168,Amrutha Institute of Engineering and Mangement,"Bidadi,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E169,Alva`s Institute of Engineering and Technology,"Moodabidri, Dakshina Kannada",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138777,0,0,0,0,0,0,0,0
+E169,Alva`s Institute of Engineering and Technology,"Moodabidri, Dakshina Kannada",CS,111354,0,0,106287,0,0,115073,0,0,57096,0,0,56963,0,0,50461,72632,70694,v,0,0,72050,0,0
+E169,Alva`s Institute of Engineering and Technology,"Moodabidri, Dakshina Kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,129546,0,0,0,0,0,0,0,0
+E169,Alva`s Institute of Engineering and Technology,"Moodabidri, Dakshina Kannada",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133710,0,0,0,0,0,0,0,0
+E169,Alva`s Institute of Engineering and Technology,"Moodabidri, Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140300,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E171,Brindavan College of Engineering,"Yelahanka,Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E171,Brindavan College of Engineering,"Yelahanka,Bengaluru",CS,0,0,0,129545,0,0,120921,0,0,112009,0,0,124361,0,0,105425,0,108899,139118,0,0,121322,0,0
+E171,Brindavan College of Engineering,"Yelahanka,Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133365,0,0,0,0,0,0,0,0
+E171,Brindavan College of Engineering,"Yelahanka,Bengaluru",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139264,0,0,0,0,0,0,0,0
+E171,Brindavan College of Engineering,"Yelahanka,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E172,R.R.Institute of Technology,"Chikkabavanara,Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E172,R.R.Institute of Technology,"Chikkabavanara,Bengaluru",CS,0,0,0,133157,0,0,0,0,0,120885,0,0,0,0,0,115055,0,0,0,0,0,0,0,0
+E172,R.R.Institute of Technology,"Chikkabavanara,Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90725,0,0,0,0,0,0,0,0
+E172,R.R.Institute of Technology,"Chikkabavanara,Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103541,0,0,0,0,0,0,0,0
+E172,R.R.Institute of Technology,"Chikkabavanara,Bengaluru",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137854,0,0,0,0,0,0,0,0
+E172,R.R.Institute of Technology,"Chikkabavanara,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E173,Sai Vidya Institute of Technology,"Rajanukunte, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,121540,0,0,0,0,0,0,0,0
+E173,Sai Vidya Institute of Technology,"Rajanukunte, Bengaluru",CS,0,0,0,47600,0,81179,50460,0,0,33140,0,0,51772,0,0,31704,0,45038,94472,0,0,65163,0,0
+E173,Sai Vidya Institute of Technology,"Rajanukunte, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140886,0,0,0,0,0,0,0,0
+E173,Sai Vidya Institute of Technology,"Rajanukunte, Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136073,0,0,0,0,0,0,0,0
+E173,Sai Vidya Institute of Technology,"Rajanukunte, Bengaluru",IE,129595,0,0,102827,0,0,129131,0,0,54420,0,0,67285,0,0,51561,83936,62478,140333,0,0,0,0,0
+E173,Sai Vidya Institute of Technology,"Rajanukunte, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128731,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E174,Dr. Sri. Sri. Sri. Shivakumara Mahaswamyji College of Engineering,"Kammasandra, Bengaluru Rural",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E174,Dr. Sri. Sri. Sri. Shivakumara Mahaswamyji College of Engineering,"Kammasandra, Bengaluru Rural",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128356,0,0,0,0,0,0,0,0
+E174,Dr. Sri. Sri. Sri. Shivakumara Mahaswamyji College of Engineering,"Kammasandra, Bengaluru Rural",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43134,0,0,0,0,0,0,0,0
+E174,Dr. Sri. Sri. Sri. Shivakumara Mahaswamyji College of Engineering,"Kammasandra, Bengaluru Rural",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E174,Dr. Sri. Sri. Sri. Shivakumara Mahaswamyji College of Engineering,"Kammasandra, Bengaluru Rural",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E174,Dr. Sri. Sri. Sri. Shivakumara Mahaswamyji College of Engineering,"Kammasandra, Bengaluru Rural",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E175,S.G.Balekundri Institute of Technology,Belgaum,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137030,0,0,0,0,0,0,0,0
+E175,S.G.Balekundri Institute of Technology,Belgaum,CS,89640,0,0,101403,0,0,55341,0,0,50221,0,0,55214,0,0,49230,62676,64427,77135,0,0,100512,0,0
+E175,S.G.Balekundri Institute of Technology,Belgaum,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137648,0,0,0,0,0,0,0,0
+E175,S.G.Balekundri Institute of Technology,Belgaum,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131135,0,0,0,0,0,0,0,0
+E175,S.G.Balekundri Institute of Technology,Belgaum,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90954,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E176,Navodaya Institute of Technology,Raichur,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,119129,0,0,0,0,0,0,0,0
+E176,Navodaya Institute of Technology,Raichur,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134255,0,0,0,0,0,0,0,0
+E176,Navodaya Institute of Technology,Raichur,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115850,0,0,0,0,0,0,0,0
+E176,Navodaya Institute of Technology,Raichur,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138006,0,0,0,0,0,0,0,0
+E176,Navodaya Institute of Technology,Raichur,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E177,Rajeev Institute of Technology,"Bommanayankanahally, Hassan",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139011,0,0,0,0,0,0,0,0
+E177,Rajeev Institute of Technology,"Bommanayankanahally, Hassan",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137280,0,0,0,0,0,0,0,0
+E177,Rajeev Institute of Technology,"Bommanayankanahally, Hassan",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110578,0,0,0,0,0,0,0,0
+E177,Rajeev Institute of Technology,"Bommanayankanahally, Hassan",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134218,0,0,0,0,0,0,0,0
+E177,Rajeev Institute of Technology,"Bommanayankanahally, Hassan",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130766,0,0,0,0,0,0,0,0
+E177,Rajeev Institute of Technology,"Bommanayankanahally, Hassan",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135225,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E178,NIE Institute of Technology,Mysore,CS,43907,0,0,44101,0,0,39253,0,0,24913,0,0,29776,0,0,22281,26054,27408,86172,0,0,0,0,0
+E178,NIE Institute of Technology,Mysore,EC,45056,0,0,50867,0,0,44723,0,0,32783,0,56935,33384,0,0,31989,0,33894,113154,0,0,0,0,0
+E178,NIE Institute of Technology,Mysore,EE,0,0,0,91503,0,0,63361,0,0,79932,0,0,52002,0,0,50309,58688,50824,137636,0,0,107270,0,0
+E178,NIE Institute of Technology,Mysore,IE,114708,0,0,58109,0,0,58917,0,0,0,0,0,0,0,48883,39821,0,43106,139681,0,0,58089,0,0
+E178,NIE Institute of Technology,Mysore,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140885,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E180,Bearys Institute of Technology,"Mangalore, Dakshina Kannada",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E180,Bearys Institute of Technology,"Mangalore, Dakshina Kannada",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140820,0,0,0,0,0,0,0,0
+E180,Bearys Institute of Technology,"Mangalore, Dakshina Kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98021,0,0,0,0,0,0,0,0
+E180,Bearys Institute of Technology,"Mangalore, Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E181,Sri Basaveswara Institute of Technology,"Tiptur, Tumkur",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E181,Sri Basaveswara Institute of Technology,"Tiptur, Tumkur",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E181,Sri Basaveswara Institute of Technology,"Tiptur, Tumkur",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E181,Sri Basaveswara Institute of Technology,"Tiptur, Tumkur",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E181,Sri Basaveswara Institute of Technology,"Tiptur, Tumkur",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E182,Shaikh College of Engineering and Technology,"Bhootramanatti, Belgaum",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E182,Shaikh College of Engineering and Technology,"Bhootramanatti, Belgaum",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127388,0,0,0,0,0,0,0,0
+E182,Shaikh College of Engineering and Technology,"Bhootramanatti, Belgaum",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E182,Shaikh College of Engineering and Technology,"Bhootramanatti, Belgaum",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E183,Sha-Shib College of Engineering,Chickaballapur,AE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130443,0,0,0,0,0,0,0,0
+E183,Sha-Shib College of Engineering,Chickaballapur,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E183,Sha-Shib College of Engineering,Chickaballapur,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E183,Sha-Shib College of Engineering,Chickaballapur,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E183,Sha-Shib College of Engineering,Chickaballapur,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E184,C Byre Gowda Institute of Technology,Kolar,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E184,C Byre Gowda Institute of Technology,Kolar,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136377,0,0,0,0,0,0,0,0
+E184,C Byre Gowda Institute of Technology,Kolar,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135952,0,0,0,0,0,0,0,0
+E184,C Byre Gowda Institute of Technology,Kolar,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E185,Angadi Institute of Technology and Management,Belgaum,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137762,0,0,0,0,0,0,0,0
+E185,Angadi Institute of Technology and Management,Belgaum,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140390,0,0,0,0,0,0,0,0
+E185,Angadi Institute of Technology and Management,Belgaum,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138960,0,0,0,0,0,0,0,0
+E185,Angadi Institute of Technology and Management,Belgaum,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138778,0,0,0,0,0,0,0,0
+E185,Angadi Institute of Technology and Management,Belgaum,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140060,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E186,ACS College of Engineering,"Kengeri Hobli,Bengaluru",AE,0,0,0,93173,0,0,64405,0,0,61241,0,0,46165,0,69773,44559,45753,69295,120810,0,0,59548,0,0
+E186,ACS College of Engineering,"Kengeri Hobli,Bengaluru",BM,0,0,0,132883,0,0,140924,0,0,130035,0,0,0,0,0,127383,0,0,0,0,0,0,0,0
+E186,ACS College of Engineering,"Kengeri Hobli,Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125260,0,0,0,0,0,0,0,0
+E186,ACS College of Engineering,"Kengeri Hobli,Bengaluru",CS,122776,0,0,137191,0,0,129734,0,0,118609,0,0,120660,0,0,103175,0,108764,131649,0,0,121907,0,0
+E186,ACS College of Engineering,"Kengeri Hobli,Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140205,0,0,0,0,0,0,0,0
+E186,ACS College of Engineering,"Kengeri Hobli,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E186,ACS College of Engineering,"Kengeri Hobli,Bengaluru",SE,0,0,0,116593,0,0,107764,0,0,92099,0,0,76234,0,0,65931,0,78817,114175,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E188,Vijaya Vittala Institute of Technology,"Kothanur, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E188,Vijaya Vittala Institute of Technology,"Kothanur, Bengaluru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139190,0,0,0,0,0,0,0,0
+E188,Vijaya Vittala Institute of Technology,"Kothanur, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E188,Vijaya Vittala Institute of Technology,"Kothanur, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E189,NDRK Institute of Technology,"Kandali, Hassan",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120284,0,0,0,0,0,0,0,0
+E189,NDRK Institute of Technology,"Kandali, Hassan",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127224,0,0,0,0,0,0,0,0
+E189,NDRK Institute of Technology,"Kandali, Hassan",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E189,NDRK Institute of Technology,"Kandali, Hassan",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E191,Akshaya Institute of Technology,Tumkur,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136017,0,0,0,0,0,0,0,0
+E191,Akshaya Institute of Technology,Tumkur,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138776,0,0,0,0,0,0,0,0
+E191,Akshaya Institute of Technology,Tumkur,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E191,Akshaya Institute of Technology,Tumkur,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E193,Srinivas University,"Mukka, Mangalore, Dakshina Kannada",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E193,Srinivas University,"Mukka, Mangalore, Dakshina Kannada",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138131,0,0,0,0,0,0,0,0
+E193,Srinivas University,"Mukka, Mangalore, Dakshina Kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,114515,0,0,0,0,0,0,0,0
+E193,Srinivas University,"Mukka, Mangalore, Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,114135,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E194,Government Engineering College,Karwar,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136914,0,0,0,0,0,0,0,0
+E194,Government Engineering College,Karwar,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140292,0,0,0,0,0,0,0,0
+E194,Government Engineering College,Karwar,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139881,0,0,0,0,0,0,0,0
+E194,Government Engineering College,Karwar,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133858,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E196,Jain College of Engineering,Belgaum,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138819,0,0,0,0,0,0,0,0
+E196,Jain College of Engineering,Belgaum,CS,47955,62916,0,42749,0,47449,31307,0,0,65586,0,0,30354,0,0,28706,33954,37569,74793,0,0,0,0,0
+E196,Jain College of Engineering,Belgaum,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140501,0,0,0,0,0,0,0,0
+E196,Jain College of Engineering,Belgaum,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,114161,0,0,0,0,0,0,0,0
+E196,Jain College of Engineering,Belgaum,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140203,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E197,Veerappa Nisty Engineering College,Yadagiri,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130492,0,0,0,0,0,0,0,0
+E197,Veerappa Nisty Engineering College,Yadagiri,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E197,Veerappa Nisty Engineering College,Yadagiri,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E197,Veerappa Nisty Engineering College,Yadagiri,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133437,0,0,0,0,0,0,0,0
+E197,Veerappa Nisty Engineering College,Yadagiri,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E198,Sharnbasva University (Formerly Godutai College for Women),Gulbarga,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130636,0,0,0,0,0,0,0,0
+E198,Sharnbasva University (Formerly Godutai College for Women),Gulbarga,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138504,0,0,0,0,0,0,0,0
+E198,Sharnbasva University (Formerly Godutai College for Women),Gulbarga,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,123416,0,0,0,0,0,0,0,0
+E198,Sharnbasva University (Formerly Godutai College for Women),Gulbarga,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111164,0,0,0,0,0,0,0,0
+E198,Sharnbasva University (Formerly Godutai College for Women),Gulbarga,IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136256,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E199,AGM Rural Engineering College,Hubli,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136510,0,0,0,0,0,0,0,0
+E199,AGM Rural Engineering College,Hubli,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139256,0,0,0,0,0,0,0,0
+E199,AGM Rural Engineering College,Hubli,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111900,0,0,0,0,0,0,0,0
+E199,AGM Rural Engineering College,Hubli,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,107260,0,0,0,0,0,0,0,0
+E199,AGM Rural Engineering College,Hubli,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136816,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E201,Gopalan College of Engineering and Management,"White field,Bengaluru",AE,0,0,0,138627,0,0,0,0,0,133053,0,0,0,0,0,120228,131631,135226,127934,0,0,133308,0,0
+E201,Gopalan College of Engineering and Management,"White field,Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113572,0,0,0,0,0,0,0,0
+E201,Gopalan College of Engineering and Management,"White field,Bengaluru",CS,71650,0,0,70772,0,0,92648,0,0,0,0,124161,62459,0,0,56376,132570,83945,126160,0,0,66605,0,0
+E201,Gopalan College of Engineering and Management,"White field,Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134743,0,0,0,0,0,0,0,0
+E201,Gopalan College of Engineering and Management,"White field,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E202,Sampoorna Institute of Technology and Research,Ramanagara,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E202,Sampoorna Institute of Technology and Research,Ramanagara,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E202,Sampoorna Institute of Technology and Research,Ramanagara,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E202,Sampoorna Institute of Technology and Research,Ramanagara,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E202,Sampoorna Institute of Technology and Research,Ramanagara,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E203,KS School of Engineering And Management,"Mallasandra,Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135254,0,0,0,0,0,0,0,0
+E203,KS School of Engineering And Management,"Mallasandra,Bengaluru",CS,90193,0,0,94416,0,0,87599,0,0,127508,0,0,92491,0,0,86326,127991,99070,103661,0,0,132546,0,0
+E203,KS School of Engineering And Management,"Mallasandra,Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137627,0,0,0,0,0,0,0,0
+E203,KS School of Engineering And Management,"Mallasandra,Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E203,KS School of Engineering And Management,"Mallasandra,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E204,Bangalore Technological Institute,"Sarjapura Rd, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E204,Bangalore Technological Institute,"Sarjapura Rd, Bengaluru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139711,0,0,0,0,0,0,0,0
+E204,Bangalore Technological Institute,"Sarjapura Rd, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,119548,0,0,0,0,0,0,0,0
+E204,Bangalore Technological Institute,"Sarjapura Rd, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E205,ATME College of Engineering,"Varun hobli,Mysore",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140897,0,0,0,0,0,0,0,0
+E205,ATME College of Engineering,"Varun hobli,Mysore",CS,118905,0,0,117509,0,0,60619,0,0,59100,0,119797,68012,0,0,56831,90745,117323,137317,0,0,125890,0,0
+E205,ATME College of Engineering,"Varun hobli,Mysore",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140194,0,0,0,0,0,0,0,0
+E205,ATME College of Engineering,"Varun hobli,Mysore",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135711,0,0,0,0,0,0,0,0
+E205,ATME College of Engineering,"Varun hobli,Mysore",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140815,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E206,Shri Madhwa Vadiraja Institute of Technology and Management,Udupi,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140840,0,0,0,0,0,0,0,0
+E206,Shri Madhwa Vadiraja Institute of Technology and Management,Udupi,CS,45973,0,0,48741,0,48900,61771,0,0,61858,0,0,52492,0,0,33808,36339,44247,0,0,0,105541,0,0
+E206,Shri Madhwa Vadiraja Institute of Technology and Management,Udupi,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,126203,0,0,0,0,0,0,0,0
+E206,Shri Madhwa Vadiraja Institute of Technology and Management,Udupi,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131303,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E207,VSMs Somashekar R Kothiwale Institute of Technology,"Nippani, Belgaum",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130891,0,0,0,0,0,0,0,0
+E207,VSMs Somashekar R Kothiwale Institute of Technology,"Nippani, Belgaum",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140810,0,0,0,0,0,0,0,0
+E207,VSMs Somashekar R Kothiwale Institute of Technology,"Nippani, Belgaum",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,129266,0,0,0,0,0,0,0,0
+E207,VSMs Somashekar R Kothiwale Institute of Technology,"Nippani, Belgaum",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133781,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E208,Achutha Institute of Technology,"Yelahanka, Bengaluru",AE,0,0,0,0,0,0,0,0,0,119862,0,0,0,0,0,110011,0,0,139978,0,0,115817,0,0
+E208,Achutha Institute of Technology,"Yelahanka, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E208,Achutha Institute of Technology,"Yelahanka, Bengaluru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140704,0,0,0,0,0,0,0,0
+E208,Achutha Institute of Technology,"Yelahanka, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E208,Achutha Institute of Technology,"Yelahanka, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E209,Jyothi Institute of Technology,"Thathaguni, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79386,0,0,0,0,0,0,0,0
+E209,Jyothi Institute of Technology,"Thathaguni, Bengaluru",CS,76592,0,0,81302,0,0,81935,0,0,54131,0,0,60389,0,0,48576,78446,85894,140719,0,0,0,0,0
+E209,Jyothi Institute of Technology,"Thathaguni, Bengaluru",EC,0,0,0,0,0,0,133637,0,0,0,0,0,0,0,0,119247,0,0,0,0,0,0,0,0
+E209,Jyothi Institute of Technology,"Thathaguni, Bengaluru",IE,83361,0,0,130286,0,0,80318,0,0,125048,0,0,84798,0,0,77087,0,0,129727,0,0,0,0,0
+E209,Jyothi Institute of Technology,"Thathaguni, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,108907,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E210,G Madegowda Institute of Technology,"Maddur , Mandya",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139863,0,0,0,0,0,0,0,0
+E210,G Madegowda Institute of Technology,"Maddur , Mandya",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138887,0,0,0,0,0,0,0,0
+E210,G Madegowda Institute of Technology,"Maddur , Mandya",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E210,G Madegowda Institute of Technology,"Maddur , Mandya",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E210,G Madegowda Institute of Technology,"Maddur , Mandya",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137593,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E211,Jain Institute of Technology,Davanagere,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140554,0,0,0,0,0,0,0,0
+E211,Jain Institute of Technology,Davanagere,CS,100315,0,0,78784,0,0,54494,0,0,78982,0,0,51637,0,0,51504,84655,55279,101517,0,0,80410,0,0
+E211,Jain Institute of Technology,Davanagere,EC,0,0,0,115954,0,0,122524,0,0,0,0,0,130068,0,0,112712,0,0,0,0,0,139764,0,0
+E211,Jain Institute of Technology,Davanagere,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134303,0,0,0,0,0,0,0,0
+E211,Jain Institute of Technology,Davanagere,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139414,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E212,Dayananda Sagar Academy of Technology,"Kanakapur,Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137497,0,0,0,0,0,0,0,0
+E212,Dayananda Sagar Academy of Technology,"Kanakapur,Bengaluru",CS,51497,0,0,30493,64646,73154,27884,0,0,18448,0,0,24126,0,30041,18177,47730,28452,88447,0,127751,51482,0,0
+E212,Dayananda Sagar Academy of Technology,"Kanakapur,Bengaluru",EC,85085,0,0,38760,0,57665,118489,0,0,26108,0,0,25832,0,0,25299,60121,48461,118027,0,0,88711,0,0
+E212,Dayananda Sagar Academy of Technology,"Kanakapur,Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,126560,0,0,0,0,0,0,0,0
+E212,Dayananda Sagar Academy of Technology,"Kanakapur,Bengaluru",IE,43864,0,0,40586,62637,86034,33210,0,0,29834,0,0,32770,0,59877,27271,52287,33695,126309,0,0,127062,0,0
+E212,Dayananda Sagar Academy of Technology,"Kanakapur,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140239,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E213,Lingarajappa Engineering College,Bidar,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E213,Lingarajappa Engineering College,Bidar,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79678,0,0,0,0,0,0,0,0
+E213,Lingarajappa Engineering College,Bidar,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E213,Lingarajappa Engineering College,Bidar,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E213,Lingarajappa Engineering College,Bidar,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E216,Shetty Institute of Technology,Gulbarga,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E216,Shetty Institute of Technology,Gulbarga,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130154,0,0,0,0,0,0,0,0
+E216,Shetty Institute of Technology,Gulbarga,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E216,Shetty Institute of Technology,Gulbarga,EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E216,Shetty Institute of Technology,Gulbarga,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E217,Girijabai Sail Institute of Technology,"Majali ,Karwar",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E217,Girijabai Sail Institute of Technology,"Majali ,Karwar",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39651,0,0,0,0,0,0,0,0
+E217,Girijabai Sail Institute of Technology,"Majali ,Karwar",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E219,Mangalore Marine College and Technology,"Mangalore, Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E219,Mangalore Marine College and Technology,"Mangalore, Dakshina Kannada",MR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111663,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E221,Biluru Gurubasava Mahaswamiji Institute of Technology,"Mudhol,Bagalkot",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,116764,0,0,0,0,0,0,0,0
+E221,Biluru Gurubasava Mahaswamiji Institute of Technology,"Mudhol,Bagalkot",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137703,0,0,0,0,0,0,0,0
+E221,Biluru Gurubasava Mahaswamiji Institute of Technology,"Mudhol,Bagalkot",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,121319,0,0,0,0,0,0,0,0
+E221,Biluru Gurubasava Mahaswamiji Institute of Technology,"Mudhol,Bagalkot",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E222,Cambridge Institutute of Technology,"Devanahalli,Bengaluru",CS,127667,0,0,128419,0,0,0,0,0,125719,0,0,140191,0,0,118526,0,134336,131094,0,0,0,0,0
+E222,Cambridge Institutute of Technology,"Devanahalli,Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120490,0,0,0,0,0,0,0,0
+E222,Cambridge Institutute of Technology,"Devanahalli,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E227,Cauvery Institute of Technology,Mandya,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136192,0,0,0,0,0,0,0,0
+E227,Cauvery Institute of Technology,Mandya,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139939,0,0,0,0,0,0,0,0
+E227,Cauvery Institute of Technology,Mandya,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139436,0,0,0,0,0,0,0,0
+E227,Cauvery Institute of Technology,Mandya,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E232,Reva University,"Yelahanka, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140859,0,0,0,0,0,0,0,0
+E232,Reva University,"Yelahanka, Bengaluru",CI,48472,0,0,41633,72506,64721,43005,0,0,29324,54677,0,29772,0,42177,23851,38550,32863,84498,0,85313,65837,0,0
+E232,Reva University,"Yelahanka, Bengaluru",CS,41271,0,45304,33599,0,62367,27497,0,49347,26524,0,33317,28703,44988,33044,20868,37306,29132,84464,89168,123922,62461,0,0
+E232,Reva University,"Yelahanka, Bengaluru",EC,60122,0,71021,55268,73251,120007,83986,0,0,38658,0,63512,39865,0,58051,33202,49451,55045,93706,0,140636,74703,0,0
+E232,Reva University,"Yelahanka, Bengaluru",EE,0,0,0,128119,0,0,137822,0,0,138663,0,0,136210,0,0,118736,0,0,0,0,0,125995,0,0
+E232,Reva University,"Yelahanka, Bengaluru",ER,78409,0,0,64661,0,87097,108439,0,0,54128,0,0,87685,0,0,53857,0,59006,122805,0,0,0,0,0
+E232,Reva University,"Yelahanka, Bengaluru",ES,0,0,0,62306,0,0,78404,0,0,41835,0,0,56561,0,0,41013,0,104439,106766,0,0,0,0,0
+E232,Reva University,"Yelahanka, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140711,0,0,0,0,0,0,0,0
+E232,Reva University,"Yelahanka, Bengaluru",MT,72287,0,0,83726,0,0,0,0,0,77771,0,0,73679,0,0,64342,0,0,0,0,0,106111,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E233,Jain Acharya Gundharnandi Maharaj Institute of Technology,"Jamkhandi, Bagalkot",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E233,Jain Acharya Gundharnandi Maharaj Institute of Technology,"Jamkhandi, Bagalkot",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127371,0,0,0,0,0,0,0,0
+E233,Jain Acharya Gundharnandi Maharaj Institute of Technology,"Jamkhandi, Bagalkot",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E235,MS Ramaiah University of Applied Sciences,"New BEL Rd, MSR Nagar, Bengaluru",AT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134286,0,0,0,0,0,0,0,0
+E235,MS Ramaiah University of Applied Sciences,"New BEL Rd, MSR Nagar, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139456,0,0,0,0,0,0,0,0
+E235,MS Ramaiah University of Applied Sciences,"New BEL Rd, MSR Nagar, Bengaluru",CS,29927,53416,0,28756,0,39309,40536,0,44049,19275,0,0,25901,0,26825,17603,35466,22737,101948,0,0,64248,0,0
+E235,MS Ramaiah University of Applied Sciences,"New BEL Rd, MSR Nagar, Bengaluru",EC,31701,0,0,36649,0,42168,53183,0,72935,24784,0,0,23238,78180,0,19792,23063,40629,71189,0,87798,30330,0,0
+E235,MS Ramaiah University of Applied Sciences,"New BEL Rd, MSR Nagar, Bengaluru",EE,0,0,0,105721,0,0,85037,0,0,54742,0,0,49384,0,0,47174,89440,99461,118119,0,0,91587,0,0
+E235,MS Ramaiah University of Applied Sciences,"New BEL Rd, MSR Nagar, Bengaluru",ME,0,0,0,94657,0,0,93137,0,0,75619,0,0,104168,0,0,74455,0,0,99361,0,0,84428,0,0
+E235,MS Ramaiah University of Applied Sciences,"New BEL Rd, MSR Nagar, Bengaluru",SE,21986,0,0,15885,0,0,19724,118995,0,12305,0,0,9755,0,0,9033,0,14589,20783,0,0,38145,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E236,Sri Vinayaka Institute of Technology,"Coromandel Post, K.G.F, Kolar",MN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E237,Presidency University,"Yelahanka,Bengaluru",BI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139808,0,0,0,0,0,0,0,0
+E237,Presidency University,"Yelahanka,Bengaluru",CC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140515,0,0,0,0,0,0,0,0
+E237,Presidency University,"Yelahanka,Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140245,0,0,0,0,0,0,0,0
+E237,Presidency University,"Yelahanka,Bengaluru",CO,0,0,0,137196,0,0,138819,0,0,128136,0,0,132111,0,0,126853,0,0,0,0,0,0,0,0
+E237,Presidency University,"Yelahanka,Bengaluru",CS,95331,0,97631,102231,0,0,67476,0,0,66204,0,111414,80405,0,130814,49997,124259,91231,139928,0,0,91058,0,0
+E237,Presidency University,"Yelahanka,Bengaluru",EC,132881,0,0,128942,0,0,140342,0,0,132127,0,0,0,0,0,127890,131841,0,139862,0,0,0,0,0
+E237,Presidency University,"Yelahanka,Bengaluru",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139792,0,0,0,0,0,0,0,0
+E237,Presidency University,"Yelahanka,Bengaluru",ES,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140669,0,0,0,0,0,0,0,0
+E237,Presidency University,"Yelahanka,Bengaluru",IE,117897,0,0,121458,0,0,98944,0,0,74065,0,0,93573,0,0,69151,0,136817,136629,0,0,98416,0,0
+E237,Presidency University,"Yelahanka,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140612,0,0,0,0,0,0,0,0
+E237,Presidency University,"Yelahanka,Bengaluru",PL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140415,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E238,Mysuru Royal Institute of Technology,Mandya,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E238,Mysuru Royal Institute of Technology,Mandya,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140647,0,0,0,0,0,0,0,0
+E238,Mysuru Royal Institute of Technology,Mandya,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127199,0,0,0,0,0,0,0,0
+E238,Mysuru Royal Institute of Technology,Mandya,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135999,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E239,East West College of Engineering,"Yelahanka,Bengaluru",AE,48573,0,0,56917,0,59068,41817,0,0,36795,0,0,38226,0,0,36623,40423,45109,132219,0,0,0,0,0
+E239,East West College of Engineering,"Yelahanka,Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140306,0,0,0,0,0,0,0,0
+E239,East West College of Engineering,"Yelahanka,Bengaluru",CS,0,0,0,78290,0,0,93898,0,0,70475,0,0,62580,0,0,61031,70764,62730,120773,0,0,110576,0,0
+E239,East West College of Engineering,"Yelahanka,Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139817,0,0,0,0,0,0,0,0
+E239,East West College of Engineering,"Yelahanka,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138256,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E240,Dayananda Sagar University,"Hosur,Bengaluru",BC,55363,0,0,81287,0,0,0,0,0,55832,0,0,45356,0,0,43126,0,107549,130660,0,0,113277,0,0
+E240,Dayananda Sagar University,"Hosur,Bengaluru",CS,80635,0,0,59055,0,103480,41602,0,0,28292,0,46981,30374,93221,49689,25544,67119,44103,103204,104099,0,70523,0,0
+E240,Dayananda Sagar University,"Hosur,Bengaluru",EC,87281,0,0,90917,0,0,80520,0,0,55562,0,0,61408,0,0,49840,50307,114910,136174,0,0,125413,0,0
+E240,Dayananda Sagar University,"Hosur,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140372,0,0,0,0,0,0,0,0
+E240,Dayananda Sagar University,"Hosur,Bengaluru",SE,131465,0,0,21687,0,0,104829,0,0,31446,0,0,26870,0,0,19677,0,23067,66219,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E241,KLE Technological University(Formerly BVBCET),Dharwad,BT,70039,0,0,42690,0,0,35103,0,0,52834,0,0,31778,0,0,26231,0,33728,56932,0,0,90109,0,0
+E241,KLE Technological University(Formerly BVBCET),Dharwad,CE,0,0,0,30661,0,91760,28843,0,0,37967,0,0,28796,0,0,23907,26096,28156,49317,0,66536,0,0,0
+E241,KLE Technological University(Formerly BVBCET),Dharwad,CS,13934,0,0,7511,8873,13944,10020,0,25117,9256,0,11775,7548,14241,13969,5716,7352,8427,35830,38705,43940,33793,0,44107
+E241,KLE Technological University(Formerly BVBCET),Dharwad,EC,20313,0,56170,12011,15086,18066,21137,0,0,15443,0,0,13017,0,13334,9164,10006,12765,38549,60124,68650,28886,0,0
+E241,KLE Technological University(Formerly BVBCET),Dharwad,EE,0,0,0,18356,28460,29928,19358,0,0,16001,0,0,15474,0,0,15083,0,23968,62235,0,0,0,0,0
+E241,KLE Technological University(Formerly BVBCET),Dharwad,ME,55406,0,0,40800,52790,65157,39804,0,0,139205,0,0,29392,0,51669,26264,28758,39534,76087,110347,91774,59636,0,0
+E241,KLE Technological University(Formerly BVBCET),Dharwad,RO,0,0,0,27462,0,0,36143,0,0,65490,0,0,30006,0,0,24745,36158,49338,83715,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E252,Mysore College of Engineering and Management,Mysore,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130420,0,0,0,0,0,0,0,0
+E252,Mysore College of Engineering and Management,Mysore,CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139939,0,0,0,0,0,0,0,0
+E252,Mysore College of Engineering and Management,Mysore,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13428,0,0,0,0,0,0,0,0
+E252,Mysore College of Engineering and Management,Mysore,IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140116,0,0,0,0,0,0,0,0
+E252,Mysore College of Engineering and Management,Mysore,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E254,AJ Institute Of Engineering And Technology,"Mangalore, Dakshina Kannada",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100001,0,0,0,0,0,0,0,0
+E254,AJ Institute Of Engineering And Technology,"Mangalore, Dakshina Kannada",CS,75318,0,0,113537,0,0,0,0,0,0,0,0,70137,0,0,66395,0,70971,133425,0,0,0,0,0
+E254,AJ Institute Of Engineering And Technology,"Mangalore, Dakshina Kannada",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,112034,0,0,0,0,0,0,0,0
+E254,AJ Institute Of Engineering And Technology,"Mangalore, Dakshina Kannada",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111944,0,0,0,0,0,0,0,0
+E254,AJ Institute Of Engineering And Technology,"Mangalore, Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,126075,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E255,Gitam School Of Technology,"Doddaballapura, Bengaluru Rural",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,105250,0,0,0,0,0,0,0,0
+E255,Gitam School Of Technology,"Doddaballapura, Bengaluru Rural",CS,133420,0,0,140281,0,0,113762,0,0,96133,0,0,135065,0,0,89826,0,0,130891,0,0,104237,0,0
+E255,Gitam School Of Technology,"Doddaballapura, Bengaluru Rural",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133953,0,0,0,0,0,0,0,0
+E255,Gitam School Of Technology,"Doddaballapura, Bengaluru Rural",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103160,0,0,0,0,0,0,0,0
+E255,Gitam School Of Technology,"Doddaballapura, Bengaluru Rural",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,121588,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E257,CMR University,"Chagalatti, Bengaluru",BI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139801,0,0,0,0,0,0,0,0
+E257,CMR University,"Chagalatti, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117609,0,0,0,0,0,0,0,0
+E257,CMR University,"Chagalatti, Bengaluru",CS,77999,0,135140,95022,0,0,74974,0,0,61670,0,0,71863,0,0,50768,82845,101079,140919,0,0,82031,0,0
+E257,CMR University,"Chagalatti, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139622,0,0,0,0,0,0,0,0
+E257,CMR University,"Chagalatti, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115811,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E258,Maharaja Institute of Technology,"Thandavapura, Mysore",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140254,0,0,0,0,0,0,0,0
+E258,Maharaja Institute of Technology,"Thandavapura, Mysore",CS,114084,0,0,97386,0,0,134567,0,0,74182,0,127586,74155,0,0,69860,0,89206,126419,0,0,0,0,0
+E258,Maharaja Institute of Technology,"Thandavapura, Mysore",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137734,0,0,0,0,0,0,0,0
+E258,Maharaja Institute of Technology,"Thandavapura, Mysore",IE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140450,0,0,0,0,0,0,0,0
+E258,Maharaja Institute of Technology,"Thandavapura, Mysore",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132026,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E260,Nitte School of Architecture,"Yelahanka,Bengaluru",UP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140475,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E264,Basava Engineering School of Technology,"Zalaki, Bijapur",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E264,Basava Engineering School of Technology,"Zalaki, Bijapur",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E264,Basava Engineering School of Technology,"Zalaki, Bijapur",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E264,Basava Engineering School of Technology,"Zalaki, Bijapur",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E265,Jain College of Engineering and Technology,Hubli,CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140649,0,0,0,0,0,0,0,0
+E265,Jain College of Engineering and Technology,Hubli,CS,114796,0,0,126262,0,0,120538,0,0,0,0,0,139542,0,0,105353,0,135223,134969,0,0,106380,0,0
+E265,Jain College of Engineering and Technology,Hubli,EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134141,0,0,0,0,0,0,0,0
+E265,Jain College of Engineering and Technology,Hubli,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139124,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E269,Jain College of Engineering and Research,"Udyambhag, Belgaum",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139414,0,0,0,0,0,0,0,0
+E269,Jain College of Engineering and Research,"Udyambhag, Belgaum",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138257,0,0,0,0,0,0,0,0
+E269,Jain College of Engineering and Research,"Udyambhag, Belgaum",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,126706,0,0,0,0,0,0,0,0
+E269,Jain College of Engineering and Research,"Udyambhag, Belgaum",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,124370,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E272,Government Engineering College,"Talakal,Koppal",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140400,0,0,0,0,0,0,0,0
+E272,Government Engineering College,"Talakal,Koppal",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139592,0,0,0,0,0,0,0,0
+E272,Government Engineering College,"Talakal,Koppal",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138288,0,0,0,0,0,0,0,0
+E272,Government Engineering College,"Talakal,Koppal",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137680,0,0,0,0,0,0,0,0
+E272,Government Engineering College,"Talakal,Koppal",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138367,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E273,Government Engineering College,"Viprasainagar, Gangavathi, Koppal",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137526,0,0,0,0,0,0,0,0
+E273,Government Engineering College,"Viprasainagar, Gangavathi, Koppal",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138897,0,0,0,0,0,0,0,0
+E273,Government Engineering College,"Viprasainagar, Gangavathi, Koppal",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127562,0,0,0,0,0,0,0,0
+E273,Government Engineering College,"Viprasainagar, Gangavathi, Koppal",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132287,0,0,0,0,0,0,0,0
+E273,Government Engineering College,"Viprasainagar, Gangavathi, Koppal",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E274,Government Engineering College,"Moselehosahalli,Hassan",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139942,0,0,0,0,0,0,0,0
+E274,Government Engineering College,"Moselehosahalli,Hassan",CS,138184,0,0,101612,0,119825,0,0,0,85428,0,0,79703,0,87653,74101,78010,81795,136290,0,0,84777,0,0
+E274,Government Engineering College,"Moselehosahalli,Hassan",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140898,0,0,0,0,0,0,0,0
+E274,Government Engineering College,"Moselehosahalli,Hassan",EE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138067,0,0,0,0,0,0,0,0
+E274,Government Engineering College,"Moselehosahalli,Hassan",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140421,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E275,RV Institute of Technology and Management,"JP nagar,Bengaluru",CS,41897,0,0,17131,101162,0,21867,0,0,6653,0,0,7811,0,36302,6011,23880,7314,43157,0,0,0,0,0
+E275,RV Institute of Technology and Management,"JP nagar,Bengaluru",EC,47608,0,0,31309,0,0,53078,0,0,0,0,0,23361,0,0,16831,24531,30811,131425,0,0,91890,0,0
+E275,RV Institute of Technology and Management,"JP nagar,Bengaluru",IE,0,0,0,37802,0,0,35523,0,0,15715,0,0,12645,0,0,9655,0,33531,94937,0,0,0,0,0
+E275,RV Institute of Technology and Management,"JP nagar,Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138405,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E504,Sambhram Institute of Technology(IInd Shift),"Jalahalli East, Bengaluru",CE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E504,Sambhram Institute of Technology(IInd Shift),"Jalahalli East, Bengaluru",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134227,0,0,0,0,0,0,0,0
+E504,Sambhram Institute of Technology(IInd Shift),"Jalahalli East, Bengaluru",EC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,78454,0,0,0,0,0,0,0,0
+E504,Sambhram Institute of Technology(IInd Shift),"Jalahalli East, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E505,Shreedevi Institute of Technology(IInd Shift),"Kenjar, Mangalore, Dakshina Kannada",CS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134263,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E507,New Horizon College of Engineering(IInd Shift),"Kadabeesanahalli, Bengaluru",CS,33558,0,0,19766,0,0,40802,0,0,18082,0,0,21272,0,0,14615,24296,26248,55425,0,0,0,0,45265
+E507,New Horizon College of Engineering(IInd Shift),"Kadabeesanahalli, Bengaluru",EC,39827,0,0,44624,0,0,0,0,0,0,0,0,24485,0,0,22769,0,31747,67398,83357,74136,24297,0,0
+E507,New Horizon College of Engineering(IInd Shift),"Kadabeesanahalli, Bengaluru",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138758,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E510,Dayananda Sagar College of Engineering(IInd Shift),"Kumaraswamy Layout, Bengaluru",CS,13455,0,0,12488,0,37316,0,0,0,0,0,0,7105,0,0,6302,27816,13626,44543,0,0,53142,0,0
+E510,Dayananda Sagar College of Engineering(IInd Shift),"Kumaraswamy Layout, Bengaluru",EC,23690,0,0,22805,0,0,15117,0,0,12710,0,26599,12757,0,0,12397,0,24063,66390,0,0,59601,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E511,Alva`s Institute of Engineering and Technology (IInd Shift),"Moodabidri, Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97979,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E512,MVJ College of Engineering(IInd Shift),"Kadugodi, Bengaluru",CS,61803,0,0,53770,0,71160,48842,0,0,39423,0,0,35278,0,0,30315,0,54064,100887,0,102730,31700,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E513,PA College of Engineering(IInd Shift),"Mangalore, Dakshina Kannada",ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
