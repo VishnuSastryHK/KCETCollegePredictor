@@ -8,6 +8,6 @@ The app is built using:
 1. Streamlit
 2. Pandas
 
-Check it here: [GitHub](https://share.streamlit.io/vishnusastryhk/kcetcollegepredictor/KCETCollegePredictor.py)
+Check it here: [Sastry's KCET College Predictor](https://share.streamlit.io/vishnusastryhk/kcetcollegepredictor/KCETCollegePredictor.py)
 
 ![SCREENSHOT](https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master/KCET.png)
