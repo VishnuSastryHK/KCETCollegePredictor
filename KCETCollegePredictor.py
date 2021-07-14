@@ -354,7 +354,7 @@ for i in Branch_List:
 
 
 df2=outputdframe.style.set_properties(**{'text-align': 'left'}).set_table_styles([dict(selector='th', props=[('text-align', 'left')])])
-output_df2=left_justified(df2)
+
 
 if(len(Branch_List)>0):
     st.text("\n\n")
@@ -363,7 +363,7 @@ if(len(Branch_List)>0):
     st.markdown("<hr>", unsafe_allow_html=True)
     st.text("      ")
     st.markdown('<style>' + open('style2.css').read() + '</style>', unsafe_allow_html=True)
-    st.dataframe(output_df2)
+    st.dataframe(df2)
 
 
 ##Code for - Check your chances of getting into the preferred collges:
