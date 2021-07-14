@@ -354,7 +354,7 @@ for i in Branch_List:
 
 
 df2=outputdframe.style.set_properties(**{'text-align': 'left'}).set_table_styles([dict(selector='th', props=[('text-align', 'left')])])
-output_df2=left_justified(f2)
+output_df2=left_justified(df2)
 
 if(len(Branch_List)>0):
     st.text("\n\n")
