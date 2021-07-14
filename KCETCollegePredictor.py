@@ -381,7 +381,7 @@ if(len(Branch_List)>0):
     st.markdown("<hr>", unsafe_allow_html=True)
     st.text("      ")
     st.markdown('<style>' + open('style2.css').read() + '</style>', unsafe_allow_html=True)
-    st.dataframe(df2)
+    st.dataframe(outputdframe.style.set_properties(**{'text-align': 'left'}).set_table_styles(styles))
 
 
 ##Code for - Check your chances of getting into the preferred collges:
