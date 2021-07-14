@@ -370,7 +370,7 @@ styles = [
   dict(selector="th", props=th_props),
   dict(selector="td", props=td_props)
   ]
-df2=outputdframe.style.set_properties(subset=["Branch", "College"],**{'text-align': 'left'}).set_table_styles(styles)
+df2=outputdframe.style.set_properties(**{'text-align': 'left'}).set_table_styles(styles)
 
 
 
