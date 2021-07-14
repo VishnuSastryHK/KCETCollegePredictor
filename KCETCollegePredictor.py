@@ -352,8 +352,8 @@ for i in Branch_List:
                                 ignore_index = True)
             
 
+df2=outputdframe.style.set_properties(**{‘text-align’: ‘left’}).set_table_styles([dict(selector=‘th’, props=[(‘text-align’, ‘left’)])])
 
-df2=outputdframe.style.set_properties(**{‘text-align’: ‘left’}).set_table_styles([dict(selector='th', props=[('text-align', 'left')])])
 
 
 if(len(Branch_List)>0):
