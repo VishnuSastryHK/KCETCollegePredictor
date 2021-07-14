@@ -350,9 +350,27 @@ for i in Branch_List:
                 if(rank<cutoff):      
                             outputdframe = outputdframe.append({'Branch' : branch, 'College' : college, 'Location' : location, 'CET Code':cetcode, 'Cutoff' : int(cutoff)}, 
                                 ignore_index = True)
-            
+           
 outputdframe=outputdframe.sort_values(['Cutoff'], ascending = True,ignore_index=True) 
-df2=outputdframe.style.set_properties(subset=["Branch", "College"],**{'text-align': 'left'}).set_table_styles([dict(selector='th', props=[('text-align', 'left')])])
+# Set CSS properties for th elements in dataframe
+th_props = [
+  ('font-size', '14px'),
+  ('text-align', 'center'),
+  ('font-weight', 'bold'),
+  ('color', '#6d6d6d'),
+  ('background-color', '#f7ffff')
+  ]
+
+# Set CSS properties for td elements in dataframe
+td_props = [
+  ('font-size', '12px')
+  ]
+# Set table styles
+styles = [
+  dict(selector="th", props=th_props),
+  dict(selector="td", props=td_props)
+  ]
+df2=outputdframe.style.set_properties(subset=["Branch", "College"],**{'text-align': 'left'}).set_table_styles(styles)
 
 
 
