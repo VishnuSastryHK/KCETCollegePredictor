@@ -5,6 +5,15 @@ import io
 from PIL import Image
 image = Image.open('BranchCode.png')
 
+#Function to align the headers to left
+from functools import partial
+def left_justified(df):
+    formatters = {}
+    for li in list(df.columns):
+        max = df[li].str.len().max()
+        form = "{{:<{}s}}".format(max)
+        formatters[li] = partial(str.format, form)
+    return df.to_string(formatters=formatters, index=False)
 
 col_names = ["CETCode",	"College" ,"Location",	"Branch",	"1G",	"1K",	"1R", 	"2AG",	"2AK",	"2AR",	"2BG",	"2BK",	"2BR",	"3AG",	"3AK",	"3AR",	"3BG",	"3BK",	"3BR",	"GM",	"GMK",	"GMR",	"SCG",	"SCK",	"SCR",	"STG",	"STK",	"STR"]
 #df = pd.read_csv("https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master/CET_Database_Final2019.csv", sep='[:,|_()]\s+',names=col_names, header=None, 
@@ -316,6 +325,7 @@ index_of_category=df.columns.get_loc(category)
 Index_Labels_For_Branch=[]
 
 
+
 ##Code for - List of Colleges in which you can except a seat
 
 for i in Branch_List:
@@ -341,12 +351,7 @@ for i in Branch_List:
                             outputdframe = outputdframe.append({'Branch' : branch, 'College' : college, 'Location' : location, 'CET Code':cetcode, 'Cutoff' : int(cutoff)}, 
                                 ignore_index = True)
             
-st.markdown(
-    """<style>
-        .dataframe {text-align: left !important}
-    </style>
-    """, unsafe_allow_html=True) 
-outputdframe=outputdframe.sort_values(['Cutoff'], ascending = True,ignore_index=True) 
+
 
 df2=outputdframe.style.set_properties(**{'text-align': 'left'}).set_table_styles([dict(selector='th', props=[('text-align', 'left')])])
 
@@ -358,7 +363,7 @@ if(len(Branch_List)>0):
     st.markdown("<hr>", unsafe_allow_html=True)
     st.text("      ")
     st.markdown('<style>' + open('style2.css').read() + '</style>', unsafe_allow_html=True)
-    st.dataframe(df2)
+    st.dataframe(left_justified(f2))
 
 
 ##Code for - Check your chances of getting into the preferred collges:
