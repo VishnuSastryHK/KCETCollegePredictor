@@ -341,7 +341,11 @@ for i in Branch_List:
                             outputdframe = outputdframe.append({'Branch' : branch, 'College' : college, 'Location' : location, 'CET Code':cetcode, 'Cutoff' : int(cutoff)}, 
                                 ignore_index = True)
             
-
+st.markdown(
+    """<style>
+        .dataframe {text-align: left !important}
+    </style>
+    """, unsafe_allow_html=True) 
 outputdframe=outputdframe.sort_values(['Cutoff'], ascending = True,ignore_index=True) 
 
 df2=outputdframe.style.set_properties(**{'text-align': 'left'}).set_table_styles([dict(selector='th', props=[('text-align', 'left')])])
