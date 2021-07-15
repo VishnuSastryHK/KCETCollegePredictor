@@ -5,15 +5,6 @@ import io
 from PIL import Image
 image = Image.open('BranchCode.png')
 
-#Function to align the headers to left
-from functools import partial
-def left_justified(df):
-    formatters = {}
-    for li in list(df.columns):
-        max = df[li].str.len().max()
-        form = "{{:<{}s}}".format(max)
-        formatters[li] = partial(str.format, form)
-    return df.to_string(formatters=formatters, index=False)
 
 col_names = ["CETCode",	"College" ,"Location",	"Branch",	"1G",	"1K",	"1R", 	"2AG",	"2AK",	"2AR",	"2BG",	"2BK",	"2BR",	"3AG",	"3AK",	"3AR",	"3BG",	"3BK",	"3BR",	"GM",	"GMK",	"GMR",	"SCG",	"SCK",	"SCR",	"STG",	"STK",	"STR"]
 #df = pd.read_csv("https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master/CET_Database_Final2019.csv", sep='[:,|_()]\s+',names=col_names, header=None, 
@@ -325,7 +316,6 @@ index_of_category=df.columns.get_loc(category)
 Index_Labels_For_Branch=[]
 
 
-
 ##Code for - List of Colleges in which you can except a seat
 
 for i in Branch_List:
@@ -350,28 +340,11 @@ for i in Branch_List:
                 if(rank<cutoff):      
                             outputdframe = outputdframe.append({'Branch' : branch, 'College' : college, 'Location' : location, 'CET Code':cetcode, 'Cutoff' : int(cutoff)}, 
                                 ignore_index = True)
-           
+            
+
 outputdframe=outputdframe.sort_values(['Cutoff'], ascending = True,ignore_index=True) 
-# Set CSS properties for th elements in dataframe
-th_props = [
-  ('font-size', '14px'),
-  ('text-align', 'center'),
-  ('font-weight', 'bold'),
-  ('color', '#6d6d6d'),
-  ('background-color', '#f7ffff')
-  ]
 
-# Set CSS properties for td elements in dataframe
-td_props = [
-  ('font-size', '12px')
-  ]
-# Set table styles
-styles = [
-  dict(selector="th", props=th_props),
-  dict(selector="td", props=td_props)
-  ]
-df2=outputdframe.style.set_properties(**{'text-align': 'left'}).set_table_styles(styles)
-
+df2=outputdframe.style.set_properties(**{'text-align': 'left'}).set_table_styles([dict(selector='th', props=[('text-align', 'left')])])
 
 
 if(len(Branch_List)>0):
@@ -414,11 +387,11 @@ if(len(input_college)>0):
                 if(cutoff1!= 0):
                     
                     if(rank<cutoff1):
-                        string=str(cutoff1-rank)+ "   ;   Rank < Cutoff"
-                        opdfCheckChance = opdfCheckChance.append({'Branch' : j,  'Cutoff' : cutoff1,'Chances' : "High", 'Difference between your rank and Cutoff' : string }, ignore_index = True) 
+                        string=int(cutoff1-rank);#+ "   ;   Rank < Cutoff"
+                        opdfCheckChance = opdfCheckChance.append({'Branch' : j,  'Cutoff' : cutoff1,'Chances' : (string/cutoff1)*100, 'Difference between your rank and Cutoff' : string }, ignore_index = True) 
                     else:
-                        string=str(rank-cutoff1)+"   ;   Rank > Cutoff"
-                        opdfCheckChance = opdfCheckChance.append({'Branch' : j,  'Cutoff' : cutoff1,'Chances' : "Low", 'Difference between your rank and Cutoff' : string}, ignore_index = True) 
+                        string=int(-rank+cutoff1);#+"   ;   Rank > Cutoff"
+                        opdfCheckChance = opdfCheckChance.append({'Branch' : j,  'Cutoff' : cutoff1,'Chances' : (string/rank)*100, 'Difference between your rank and Cutoff' : string}, ignore_index = True) 
                 else:
                     listOfUnavailableBranchesForCategory.append(j)
                     #st.write(listOfUnavailableBranchesForCategory)
@@ -455,6 +428,11 @@ if(len(input_college)>0):
 
         if(opdfCheckChance.shape[0]>0):
             st.dataframe(opdfCheckChance)
+            for i in range(1):
+                opdfCheckChance=pd.DataFrame(opdfCheckChance)
+                opdfCheckChance['Rank']=opdfCheckChance['Cutoff']-opdfCheckChance['Difference between your rank and Cutoff']
+                chart_data=pd.DataFrame(opdfCheckChance[['Cutoff','Rank']])
+                st.line_chart(chart_data)
             st.text("\n\n\n")
             opdfCheckChance=opdfCheckChance[0:0]
 
