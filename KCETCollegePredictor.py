@@ -27,7 +27,7 @@ st.write("""# Sastry's KCET College Predictor """)
 st.sidebar.subheader("""Enter the details here 👇""")
 rank = st.sidebar.text_input('Enter your Rank*:')
 
-if(len(rank)!=0 and rank.isnumeric()==False ):
+if( rank.isnumeric()==False ):
     st.sidebar.text("""Invalid Rank""")
 else:
     rank=int(rank)
