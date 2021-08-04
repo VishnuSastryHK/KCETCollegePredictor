@@ -25,10 +25,10 @@ opdfCheckChance = pd.DataFrame(columns = ['Branch', 'Cutoff','Chances', 'Differe
 st.write("""# Sastry's KCET College Predictor """)
 
 st.sidebar.subheader("""Enter the details here 👇""")
-rank = st.sidebar.text_input('Enter your Rank*:')
+rank = st.sidebar.number_input('Enter your Rank*:')
 
 if( rank.isnumeric()==False ):
-    st.sidebar.text("""Invalid Rank""")
+    st.sidebar.warning("""Invalid Rank""")
 else:
     rank=int(rank)
 
