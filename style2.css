@@ -3,7 +3,7 @@
     font-family: "IBM Plex Mono",monospace;
     text-align: left;
     padding: .5rem;
-    line-height: 1;
+    line-height: 2;
 }
 
 ul {
@@ -18,11 +18,7 @@ ul {
 .col_heading{
     font-size: 1rem;
     text-align: left;
-    margin-top: .5rem;
-    margin-bottom: .5rem;
+ 
    
 }
-.TopRightGrid_ScrollWrapper
-{
-    height:2rem;
-}
+
