@@ -350,7 +350,7 @@ if(len(Branch_List)>0):
     st.markdown("<hr>", unsafe_allow_html=True)
     st.text("      ")
     st.markdown('<style>' + open('style2.css').read() + '</style>', unsafe_allow_html=True)
-    st.dataframe(df2)
+    st.table(df2)
 
 
 ##Code for - Check your chances of getting into the preferred collges:
