@@ -350,7 +350,8 @@ if(len(Branch_List)>0):
     st.markdown("<hr>", unsafe_allow_html=True)
     st.text("      ")
     st.markdown('<style>' + open('style2.css').read() + '</style>', unsafe_allow_html=True)
-    st.table(df2)
+    st.markdown('<style>div[title="OK"] { color: green; } div[title="KO"] { color: red; } .data:hover{ background:rgb(243 246 255)}</style>', unsafe_allow_html=True)
+    st.dataframe(df2)
 
 
 ##Code for - Check your chances of getting into the preferred collges:
