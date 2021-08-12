@@ -423,15 +423,18 @@ if(len(input_college)>0):
         
             listOfUnavailableBranchesForCategory=[]    
 
-        if(opdfCheckChance.shape[0]>0):
+         if(opdfCheckChance.shape[0]>0):
             st.dataframe(opdfCheckChance)
             for i in range(1):
                 opdfCheckChance=pd.DataFrame(opdfCheckChance)
                 opdfCheckChance['Rank']=opdfCheckChance['Cutoff']-opdfCheckChance['Difference between your rank and Cutoff']
                 chart_data=pd.DataFrame(opdfCheckChance[['Cutoff','Rank']])
-                st.line_chart(chart_data)
+                if(chart_data.shape[0]>1):
+                    st.line_chart(chart_data)
             st.text("\n\n\n")
             opdfCheckChance=opdfCheckChance[0:0]
+
+      
 
 
 
