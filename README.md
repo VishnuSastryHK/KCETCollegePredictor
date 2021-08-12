@@ -8,8 +8,6 @@ The app is built using:
 1. Streamlit
 2. Pandas
 
-[Link](https://share.streamlit.io/vishnusastryhk/kcetcollegepredictor/KCETCollegePredictor.py/ "title" target="_blank")
-[link](https://share.streamlit.io/vishnusastryhk/kcetcollegepredictor/KCETCollegePredictor.py){:target="_blank" }
 
 Check it here: <a href="https://share.streamlit.io/vishnusastryhk/kcetcollegepredictor/KCETCollegePredictor.py" target="_blank">Sastry's KCET College Predictor</a>
 
