@@ -9,7 +9,7 @@ The app is built using:
 2. Pandas
 
 
-Check it here: <a href="https://share.streamlit.io/vishnusastryhk/kcetcollegepredictor/KCETCollegePredictor.py" target="blank">Sastry's KCET College Predictor</a>
+Check it here: <a href="https://share.streamlit.io/vishnusastryhk/kcetcollegepredictor/KCETCollegePredictor.py" target="_blank">Sastry's KCET College Predictor</a>
 
 ![SCREENSHOT](https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master/KCET.png)
 
