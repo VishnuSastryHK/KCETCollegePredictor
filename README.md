@@ -11,3 +11,7 @@ The app is built using:
 Check it here: [Sastry's KCET College Predictor](https://share.streamlit.io/vishnusastryhk/kcetcollegepredictor/KCETCollegePredictor.py)
 
 ![SCREENSHOT](https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master/KCET.png)
+
+<a href="https://github.com/VishnuSastryHK/KCETCollegePredictor/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=VishnuSastryHK/KCETCollegePredictor" />
+</a>
