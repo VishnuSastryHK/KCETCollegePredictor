@@ -27,3 +27,5 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 <td align="center"><a href="https://github.com/VishnuSastryHK"><img src="https://avatars.githubusercontent.com/u/42547521?v=4" width="100px;" alt=""/><br /><sub><b>Vishnu Sastry H K</b></sub></a><br /></td>
  
 <td align="center"><a href="https://github.com/sheetalneeraj"><img src="https://avatars.githubusercontent.com/u/42382485?v=4" width="100px;" alt=""/><br /><sub><b>Sheetal Neeraj</b></sub></a><br /></td>
+
+<td align="center"><a href="https://github.com/suniladityajatni"><img src="https://avatars.githubusercontent.com/u/57533959?v=4" width="100px;" alt=""/><br /><sub><b>Aditya Agarwal</b></sub></a><br /></td>
