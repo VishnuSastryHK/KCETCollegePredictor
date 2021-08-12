@@ -12,7 +12,7 @@ Check it here: [Sastry's KCET College Predictor](https://share.streamlit.io/vish
 
 ![SCREENSHOT](https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master/KCET.png)
 
-## `Awesome Contributors ✨🎉` `4`
+## Awesome Contributors ✨
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:       
 
