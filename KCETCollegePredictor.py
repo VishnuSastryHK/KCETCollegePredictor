@@ -423,7 +423,7 @@ if(len(input_college)>0):
         
             listOfUnavailableBranchesForCategory=[]    
 
-         if(opdfCheckChance.shape[0]>0):
+        if(opdfCheckChance.shape[0]>0):
             st.dataframe(opdfCheckChance)
             for i in range(1):
                 opdfCheckChance=pd.DataFrame(opdfCheckChance)
@@ -434,8 +434,7 @@ if(len(input_college)>0):
             st.text("\n\n\n")
             opdfCheckChance=opdfCheckChance[0:0]
 
-      
-
+        
 
 
 ##Code for - Option Entry / Preference List
