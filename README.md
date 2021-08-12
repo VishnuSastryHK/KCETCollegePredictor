@@ -12,6 +12,27 @@ Check it here: [Sastry's KCET College Predictor](https://share.streamlit.io/vish
 
 ![SCREENSHOT](https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master/KCET.png)
 
-<a href="https://github.com/VishnuSastryHK/KCETCollegePredictor/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=VishnuSastryHK/KCETCollegePredictor" />
-</a>
+## `Awesome Contributors ✨🎉` `39`
+
+Thanks goes to these **Wonderful People** 👨🏻‍💻:       
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- 1st Row -->
+<table>
+<tr>
+<td align="center"><a href="https://github.com/AkashSingh3031"><img src="https://avatars.githubusercontent.com/u/60146338?s=400&u=0efcf847bb1584e6653c26096e9855ed09d2a5ad&v=4" width="100px;" alt=""/><br /><sub><b>AkashSingh3031</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=AkashSingh3031" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/Anuradha0501"><img src="https://avatars.githubusercontent.com/u/71958796?v=4" width="100px;" alt=""/><br /><sub><b>Anuradha0501</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Anuradha0501" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/RishikaGhosh"><img src="https://avatars.githubusercontent.com/u/58912231?v=4" width="100px;" alt=""/><br /><sub><b>RishikaGhosh</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=RishikaGhosh" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/thecoder8890"><img src="https://avatars.githubusercontent.com/u/33773206?v=4" width="100px;" alt=""/><br /><sub><b>thecoder8890</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=thecoder8890" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/Ash515"><img src="https://avatars.githubusercontent.com/u/53136674?v=4" width="100px;" alt=""/><br /><sub><b>Ash515</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Ash515" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/fame2105"><img src="https://avatars.githubusercontent.com/u/6636804?v=4" width="100px;" alt=""/><br /><sub><b>fame2105</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=fame2105" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/saikiran20002102"><img src="https://avatars.githubusercontent.com/u/61832514?v=4" width="100px;" alt=""/><br /><sub><b>saikiran20002102</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=saikiran20002102" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
