@@ -22,7 +22,7 @@ opdfCheckChance = pd.DataFrame(columns = ['Branch', 'Cutoff','Chances', 'Differe
 
 
 st.write("""# Sastry's KCET College Predictor """)
-st.write("""#### Right analysis and prediction can lead to right choices !!""")
+st.write("""#### Right Analysis and Prediction can lead to Right Choices !!""")
 
 st.sidebar.subheader("""Enter the details here 👇""")
 rank = st.sidebar.number_input('Enter your Rank*:', min_value=0, value=00, step=1)
