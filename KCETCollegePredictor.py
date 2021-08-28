@@ -21,7 +21,7 @@ pd.set_option('colheader_justify', 'left')
 opdfCheckChance = pd.DataFrame(columns = ['Branch', 'Cutoff','Chances', 'Difference between your rank and Cutoff'])
 
 
-st.write("""# Sastry's KCET College Predictor """)
+st.write("""# KCET College and Branch Predictor """)
 st.write("""#### Right Analysis and Prediction can lead to Right Choices !!""")
 
 st.sidebar.subheader("""Enter the details here 👇""")
