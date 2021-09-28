@@ -5,7 +5,7 @@ import io
 from PIL import Image
 image = Image.open('BranchCode.png')
 
-//remove the hamburger navbar
+#remove the hamburger navbar
 hide_st_style = """
             <style>
             #MainMenu {visibility: hidden;}
