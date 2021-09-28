@@ -6,8 +6,7 @@ from PIL import Image
 image = Image.open('BranchCode.png')
 
 #hamburger navbar options
-st.set_page_config(page_title="Ex-stream-ly Cool App",page_icon=":smiley:",layout="wide",initial_sidebar_state="expanded",menu_items={
-    'Get Help': 'https://www.extremelycoolapp.com/he'})
+st.set_page_config(page_title="Ex-stream-ly Cool App",page_icon=":smiley:",layout="wide",initial_sidebar_state="expanded",menu_items={'Get Help': 'https://www.extremelycoolapp.com/he'})
 
 
 
