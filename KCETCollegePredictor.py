@@ -100,7 +100,7 @@ Branch_List=st.sidebar.multiselect("Select preferred branch/branches*:",(
 "UP",
 "UR"))
 st.sidebar.text("Scroll down for reference")
-category=st.sidebar.selectbox("Select Category:*",("1G", "1K",	"1R",	"2AG",	"2AK",	"2AR",	"2BG",	"2BK",	"2BR",	"3AG",	"3AK",	"3AR",	"3BG",	"3BK",	"3BR",	"GM",	"GMK",	"GMR",	"SCG",	"SCK",	"SCR",	"STG",	"STK",	"STR"), index=16)
+category=st.sidebar.selectbox("Select Category:*",("1G", "1K",	"1R",	"2AG",	"2AK",	"2AR",	"2BG",	"2BK",	"2BR",	"3AG",	"3AK",	"3AR",	"3BG",	"3BK",	"3BR",	"GM",	"GMK",	"GMR",	"SCG",	"SCK",	"SCR",	"STG",	"STK",	"STR"), index=15)
 District_List=st.sidebar.multiselect("Select to filter by District:",("Bellary",
 "Belgaum",
 "Bengaluru",
