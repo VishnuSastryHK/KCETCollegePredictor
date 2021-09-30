@@ -494,8 +494,9 @@ def generateOptionEntry():
 
     outputdframe=outputdframe.sort_values(['Cutoff'], ascending = True,ignore_index=True) 
 
-
-    df2 = outputdframe.style.set_table_styles([dict(selector='th', props=[('text-align', 'left')])])
+    
+    df2=outputdframe.style.set_properties(**{'text-align': 'left'}).set_table_styles([dict(selector='th', props=[('text-align', 'left')])])
+    #df2 = outputdframe.style.set_table_styles([dict(selector='th', props=[('text-align', 'left')])])
     df2.set_properties(subset=["Branch", "Location"],**{'text-align': 'left'}).hide_index()
    
 
