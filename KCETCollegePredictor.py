@@ -132,7 +132,7 @@ District_List=st.sidebar.multiselect("Select to filter by District:",("Bellary",
 ))
 
 input_college=st.sidebar.multiselect("Select Preferred College/Colleges:",("A J Institute Of Engineering And Technology",
-"Acharya Institute of Technology ",
+"Acharya Institute of Technology",
 "Achutha Institute of Technology",
 "ACS College of Engineering",
 "Adhichunchanagiri Institute of Technology",
