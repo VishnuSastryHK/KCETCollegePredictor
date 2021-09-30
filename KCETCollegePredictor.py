@@ -446,10 +446,11 @@ if(len(input_college)>0):
             
         if(opdfCheckChance.shape[0]>0):
             st.dataframe(df2)
+            #Code for the Line Chart
             for i in range(1):
-                opdfCheckChance=pd.DataFrame(opdfCheckChance)
-                #opdfCheckChance['Rank']=opdfCheckChance['Cutoff']-opdfCheckChance['Difference between your rank and Cutoff']
-                chart_data=pd.DataFrame(opdfCheckChance[['Cutoff','Rank']])
+                opdfCheckChance_copy=pd.DataFrame(opdfCheckChance)
+                opdfCheckChance_copy['Rank']=opdfCheckChance_copy['Cutoff']-opdfCheckChance_copy['Difference between your rank and Cutoff']
+                chart_data=pd.DataFrame(opdfCheckChance_copy[['Cutoff','Rank']])
                 if(chart_data.shape[0]>1):
                     st.line_chart(chart_data)
             st.text("\n\n\n")
