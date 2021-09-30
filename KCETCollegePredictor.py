@@ -319,7 +319,7 @@ input_college=st.sidebar.multiselect("Select Preferred College/Colleges:",("A J 
 "Vidya Vardhaka College of Engineering",
 "Vidya Vikas Institute of Engineering and Technology ",
 "Vijaya Vittala Institute of Technology",
-"Visvesvaraya Technological University (VTU)'
+"Visvesvaraya Technological University (VTU)",
 "Vivekananada College of Engineering Technology",
 "Vivekananada Institute of Technology",
 "VSMs Somashekar R Kothiwale Institute of Technology",
