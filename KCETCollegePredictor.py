@@ -404,10 +404,10 @@ if(len(input_college)>0):
                     
                     if(rank<cutoff1):
                         string=int(cutoff1-rank);#+ "   ;   Rank < Cutoff"
-                        opdfCheckChance = opdfCheckChance.append({'Branch' : j,  'Cutoff' : cutoff1,'Chances' : (string/cutoff1)*100, 'Difference between your rank and Cutoff' : string }, ignore_index = True) 
+                        opdfCheckChance = opdfCheckChance.append({'Branch' : j,  'Cutoff' : cutoff1,'Chances' : 'High', 'Difference between your rank and Cutoff' : string }, ignore_index = True) 
                     else:
                         string=int(-rank+cutoff1);#+"   ;   Rank > Cutoff"
-                        opdfCheckChance = opdfCheckChance.append({'Branch' : j,  'Cutoff' : cutoff1,'Chances' : (string/rank)*100, 'Difference between your rank and Cutoff' : string}, ignore_index = True) 
+                        opdfCheckChance = opdfCheckChance.append({'Branch' : j,  'Cutoff' : cutoff1,'Chances' : 'Low', 'Difference between your rank and Cutoff' : string}, ignore_index = True) 
                 else:
                     listOfUnavailableBranchesForCategory.append(j)
                     #st.write(listOfUnavailableBranchesForCategory)
