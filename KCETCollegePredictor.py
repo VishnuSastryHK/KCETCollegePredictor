@@ -23,7 +23,7 @@ col_names = ["CETCode",	"College" ,"Location",	"Branch",	"1G",	"1K",	"1R", 	"2AG
 #df = pd.read_csv("https://github.com/VishnuSastryHK/KCETCollegePredictor/blob/master/CET_Database_Final2019.csv", sep='[:,|_()]\s+',names=col_names, header=None, 
 #delimiter=',' , engine="python")#)#,sep=r'\s*,\s*', sep="\s+|;|:", error_bad_lines=False)# names=col_names)
 #print(df)
-url = "https://github.com/VishnuSastryHK/KCETCollegePredictor/raw/master/CET_Database_Final2019.csv" # Make sure the url is the raw version of the file on GitHub
+url = "https://github.com/VishnuSastryHK/KCETCollegePredictor/raw/master/CET_Database_Final2020.csv" # Make sure the url is the raw version of the file on GitHub
 download = requests.get(url).content
 
 # Reading the downloaded content and turning it into a pandas dataframe
