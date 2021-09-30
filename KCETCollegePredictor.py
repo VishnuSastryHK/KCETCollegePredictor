@@ -448,7 +448,7 @@ if(len(input_college)>0):
             st.dataframe(df2)
             for i in range(1):
                 opdfCheckChance=pd.DataFrame(opdfCheckChance)
-                opdfCheckChance['Rank']=opdfCheckChance['Cutoff']-opdfCheckChance['Difference between your rank and Cutoff']
+                #opdfCheckChance['Rank']=opdfCheckChance['Cutoff']-opdfCheckChance['Difference between your rank and Cutoff']
                 chart_data=pd.DataFrame(opdfCheckChance[['Cutoff','Rank']])
                 if(chart_data.shape[0]>1):
                     st.line_chart(chart_data)
