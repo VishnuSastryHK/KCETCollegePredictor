@@ -451,10 +451,10 @@ if(len(input_college)>0):
         
             listOfUnavailableBranchesForCategory=[]    
         
-        opdfCheckChance=outputdframe.style.set_properties(**{'text-align': 'left'}).set_table_styles([dict(selector='th', props=[('text-align', 'left')])])
+        df2=opdfCheckChance.style.set_properties(**{'text-align': 'left'}).set_table_styles([dict(selector='th', props=[('text-align', 'left')])])
             
         if(opdfCheckChance.shape[0]>0):
-            st.dataframe(opdfCheckChance)
+            st.dataframe(df2)
             for i in range(1):
                 opdfCheckChance=pd.DataFrame(opdfCheckChance)
                 opdfCheckChance['Rank']=opdfCheckChance['Cutoff']-opdfCheckChance['Difference between your rank and Cutoff']
