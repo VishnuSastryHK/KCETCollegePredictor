@@ -450,7 +450,9 @@ if(len(input_college)>0):
                 st.write(joined_list2," branches are not available for this category")
         
             listOfUnavailableBranchesForCategory=[]    
-
+        
+        opdfCheckChance=outputdframe.style.set_properties(**{'text-align': 'left'}).set_table_styles([dict(selector='th', props=[('text-align', 'left')])])
+            
         if(opdfCheckChance.shape[0]>0):
             st.dataframe(opdfCheckChance)
             for i in range(1):
@@ -496,7 +498,6 @@ def generateOptionEntry():
 
     
     df2=outputdframe.style.set_properties(**{'text-align': 'left'}).set_table_styles([dict(selector='th', props=[('text-align', 'left')])])
-    #df2 = outputdframe.style.set_table_styles([dict(selector='th', props=[('text-align', 'left')])])
     df2.set_properties(subset=["Branch", "Location"],**{'text-align': 'left'}).hide_index()
    
 
