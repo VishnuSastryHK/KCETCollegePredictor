@@ -221,7 +221,7 @@ input_college=st.sidebar.multiselect("Select Preferred College/Colleges:",("A J 
 "KCT Engineering College",
 "Khaja Banda Nawaz University",
 "KLE Dr. M S Sheshagiri College of Engineering and Technology",
-"KLE Technological University(Formerly BVBCET)
+"KLE Technological University(Formerly BVBCET)",
 "KLS Gogte Institute of Technology",
 "KLS Viswanathrao Deshpande Institute of Technology",
 "KNS Institute of Technology ",
