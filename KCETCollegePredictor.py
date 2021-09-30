@@ -521,7 +521,7 @@ if(button==True):
 
 st.text("\n")
 st.text("\n")
-st.text("Note: The predictions made in this app are purely based on KCET 2019 - Second Extended\nRound Cutoff Data.")
+st.text("Note: The predictions made in this app are purely based on KCET 2020 - Second Extended\nRound Cutoff Data.")
 st.text("For any queries,drop in an email to us at kcetgo@gmail.com")
 st.sidebar.text("\n")
 st.sidebar.text("Branch Codes for Reference:")
