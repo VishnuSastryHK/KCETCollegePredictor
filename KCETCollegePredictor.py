@@ -523,5 +523,5 @@ st.write("Check out this for more information about colleges: [Click Here](https
 st.sidebar.text("\n")
 st.sidebar.text("Branch Codes for Reference:")
 
-st.sidebar.markdown("[![Click on the Image](https://drive.google.com/file/d/1vPPmf-l8WjdTJ0RNkwZz4LsvmRVCZJyT/view?usp=sharing)](https://drive.google.com/file/d/1M6dvmJ5RlltWAMMCMg30C4sqbY6VNRv5/view?usp=sharing)")
+st.sidebar.markdown("[![Click on the Image](https://github.com/VishnuSastryHK/KCETCollegePredictor/raw/master/branch_code_img.PNG)](https://drive.google.com/file/d/1M6dvmJ5RlltWAMMCMg30C4sqbY6VNRv5/view?usp=sharing)")
 #st.sidebar.image(image, use_column_width=True)
