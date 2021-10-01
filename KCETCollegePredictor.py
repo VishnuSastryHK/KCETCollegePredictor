@@ -519,7 +519,7 @@ st.text("Note: The predictions made in this app are purely based on KCET 2020 - 
 st.text("For any queries, drop in an email to us at kcetgo@gmail.com")
 st.text("\n")
 st.text("\n")
-st.write("Check out this for more information about colleges: [Click Here](https://github.com/VishnuSastryHK/KCETCollegePredictor/College_Info.pdf)")
+st.write("Check out this for more information about colleges: [Click Here](https://drive.google.com/file/d/1Dz4ujeNT7z4cWF90UJznM84OFK-CgXxN/view?usp=sharing)")
 st.sidebar.text("\n")
 st.sidebar.text("Branch Codes for Reference:")
 
