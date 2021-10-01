@@ -327,7 +327,7 @@ input_college=st.sidebar.multiselect("Select Preferred College/Colleges:",(
 
 
 
-index_of_category=df.columns.get_loc(category)
+inde x_of_category=df.columns.get_loc(category)
 Index_Labels_For_Branch=[]
 
 
@@ -516,7 +516,9 @@ if(button==True):
 st.text("\n")
 st.text("\n")
 st.text("Note: The predictions made in this app are purely based on KCET 2020 - Second Extended\nRound Cutoff Data.")
-st.text("For any queries,drop in an email to us at kcetgo@gmail.com")
+st.text("For any queries, drop in an email to us at kcetgo@gmail.com")
+
+st.write("Check out this for more information about colleges: [Click Here](https://share.streamlit.io/mesmith027/streamlit_webapps/main/MC_pi/streamlit_app.py)")
 st.sidebar.text("\n")
 st.sidebar.text("Branch Codes for Reference:")
 
