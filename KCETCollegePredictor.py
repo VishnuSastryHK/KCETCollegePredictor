@@ -3,7 +3,7 @@ import pandas as pd
 import requests
 import io
 from PIL import Image
-image = Image.open('branch_code_img.PNG')
+image = Image.open('branch_code_img_faded.jpg')
 
 #Page Configurations
 st.set_page_config(page_title="KCETGo",page_icon="",layout="wide",initial_sidebar_state="expanded")
