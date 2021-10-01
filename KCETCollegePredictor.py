@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import requests
 import io
-#from PIL import Image
-#image = Image.open('BranchCode.png')
+from PIL import Image
+image = Image.open('branch_code_img.PNG')
 
 #Page Configurations
 st.set_page_config(page_title="KCETGo",page_icon="",layout="wide",initial_sidebar_state="expanded")
@@ -523,5 +523,6 @@ st.write("Check out this for more information about colleges: [Click Here](https
 st.sidebar.text("\n")
 st.sidebar.text("Branch Codes for Reference:")
 
-st.sidebar.markdown("[![Click on the Image](https://github.com/VishnuSastryHK/KCETCollegePredictor/raw/master/branch_code_img.PNG)](https://drive.google.com/file/d/1M6dvmJ5RlltWAMMCMg30C4sqbY6VNRv5/view?usp=sharing)")
-#st.sidebar.image(image, use_column_width=True)
+
+st.sidebar.image(image, use_column_width=True)
+st.sidebar.write("To view the entire list: [Click here](https://drive.google.com/file/d/1M6dvmJ5RlltWAMMCMg30C4sqbY6VNRv5/view?usp=sharing)")
