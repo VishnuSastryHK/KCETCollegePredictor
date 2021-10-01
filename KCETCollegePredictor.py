@@ -327,7 +327,7 @@ input_college=st.sidebar.multiselect("Select Preferred College/Colleges:",(
 
 
 
-inde x_of_category=df.columns.get_loc(category)
+index_of_category=df.columns.get_loc(category)
 Index_Labels_For_Branch=[]
 
 
