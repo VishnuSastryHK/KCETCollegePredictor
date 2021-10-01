@@ -523,5 +523,5 @@ st.write("Check out this for more information about colleges: [Click Here](https
 st.sidebar.text("\n")
 st.sidebar.text("Branch Codes for Reference:")
 
-st.sidebar.markdown("[![Foo](branch_code_img.png)](https://drive.google.com/file/d/1M6dvmJ5RlltWAMMCMg30C4sqbY6VNRv5/view?usp=sharing)")
+st.sidebar.markdown("[![Foo](branch_code_img.PNG)](https://drive.google.com/file/d/1M6dvmJ5RlltWAMMCMg30C4sqbY6VNRv5/view?usp=sharing)")
 #st.sidebar.image(image, use_column_width=True)
