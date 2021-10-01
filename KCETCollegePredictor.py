@@ -517,8 +517,9 @@ st.text("\n")
 st.text("\n")
 st.text("Note: The predictions made in this app are purely based on KCET 2020 - Second Extended\nRound Cutoff Data.")
 st.text("For any queries, drop in an email to us at kcetgo@gmail.com")
-
-st.write("Check out this for more information about colleges: [Click Here](https://share.streamlit.io/mesmith027/streamlit_webapps/main/MC_pi/streamlit_app.py)")
+st.text("\n")
+st.text("\n")
+st.write("Check out this for more information about colleges: [Click Here](https://github.com/VishnuSastryHK/KCETCollegePredictor/College_Info.pdf)")
 st.sidebar.text("\n")
 st.sidebar.text("Branch Codes for Reference:")
 
