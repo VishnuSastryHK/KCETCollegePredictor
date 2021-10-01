@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import requests
 import io
-from PIL import Image
-image = Image.open('BranchCode.png')
+#from PIL import Image
+#image = Image.open('BranchCode.png')
 
 #Page Configurations
 st.set_page_config(page_title="KCETGo",page_icon="",layout="wide",initial_sidebar_state="expanded")
