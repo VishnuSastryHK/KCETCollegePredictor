@@ -35,7 +35,7 @@ pd.set_option('colheader_justify', 'left')
 opdfCheckChance = pd.DataFrame(columns = ['Branch', 'Cutoff','Chances', 'Difference between your rank and Cutoff'])
 
 
-st.write("""# KcetGo """)
+st.write("""# KCETGo """)
 st.write("""### Right Analysis and Prediction can lead to Right Choices !!\n Catch the right flight from KCET to your dreams """)
 
 st.sidebar.subheader("""Enter the details here 👇""")
@@ -518,6 +518,7 @@ st.text("\n")
 st.text("Note: The predictions made in this app are purely based on KCET 2020 - Second Extended\nRound Cutoff Data.")
 st.text("\n")
 st.text("Made with ♥ by Vishnu Sastry H K & Sheetal Neeraj")
+st.text("Copyrights Reserved ©")
 st.text("For any queries, drop in an email to us at hkvsastry3300@gmail.com")
 st.text("\n")
 st.text("\n")
